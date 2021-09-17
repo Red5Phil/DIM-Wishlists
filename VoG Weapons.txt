@@ -1,14 +1,19 @@
 title:VoG Weapons
 
-// Corrective Measure (god-pve,pve)
+
+// Corrective Measure 
+// notes: VoG Weapons (god-pve,pve)
 dimwishlist:item=471518543&perks=1840239774,3142289711,3523296417,4049631843
 
 
-// Corrective Measure (god-pvp,pvp)
+
+// Corrective Measure 
+// notes: VoG Weapons (god-pvp,pvp)
 dimwishlist:item=471518543&perks=1840239774,3142289711,3523296417,1890422124
 
 
-// Corrective Measure (pve)
+// Corrective Measure 
+// notes: VoG Weapons (pve)
 dimwishlist:item=471518543&perks=1482024992,2420895100,1820235745,2726471870
 dimwishlist:item=471518543&perks=1482024992,2420895100,1820235745,3824105627
 dimwishlist:item=471518543&perks=1482024992,2420895100,1820235745,4049631843
@@ -119,7 +124,8 @@ dimwishlist:item=471518543&perks=1840239774,3142289711,3523296417,3824105627
 dimwishlist:item=471518543&perks=1840239774,3142289711,3523296417,4049631843
 
 
-// Corrective Measure (pvp)
+// Corrective Measure 
+// notes: VoG Weapons (pvp)
 dimwishlist:item=471518543&perks=1482024992,2420895100,3436462433,2726471870
 dimwishlist:item=471518543&perks=1482024992,2420895100,3436462433,1890422124
 dimwishlist:item=471518543&perks=1482024992,2420895100,3523296417,2726471870
@@ -154,15 +160,18 @@ dimwishlist:item=471518543&perks=1840239774,3142289711,3523296417,2726471870
 dimwishlist:item=471518543&perks=1840239774,3142289711,3523296417,1890422124
 
 
-// Fatebringer (god-pve,pve)
+// Fatebringer 
+// notes : VoG Weapons (god-pve,pve)
 dimwishlist:item=2171478765&perks=1482024992,3142289711,3038247973,4104185692
 
 
-// Fatebringer (god-pvp,pvp)
+// Fatebringer 
+// notes : VoG Weapons (god-pvp,pvp)
 dimwishlist:item=2171478765&perks=1482024992,3142289711,3038247973,47981717
 
 
-// Fatebringer (pve)
+// Fatebringer 
+// notes : VoG Weapons (pve)
 dimwishlist:item=2171478765&perks=202670084,106909392,2726471870,3824105627
 dimwishlist:item=2171478765&perks=202670084,106909392,2726471870,4104185692
 dimwishlist:item=2171478765&perks=202670084,106909392,3038247973,3824105627
@@ -245,7 +254,8 @@ dimwishlist:item=2171478765&perks=1482024992,3142289711,3038247973,3824105627
 dimwishlist:item=2171478765&perks=1482024992,3142289711,3038247973,4104185692
 
 
-// Fatebringer (pvp)
+// Fatebringer 
+// notes : VoG Weapons (pvp)
 dimwishlist:item=2171478765&perks=3250034553,3142289711,2946784966,1015611457
 dimwishlist:item=2171478765&perks=3250034553,3142289711,2946784966,699525795
 dimwishlist:item=2171478765&perks=3250034553,3142289711,2946784966,47981717
@@ -284,15 +294,18 @@ dimwishlist:item=2171478765&perks=1482024992,3142289711,3038247973,699525795
 dimwishlist:item=2171478765&perks=1482024992,3142289711,3038247973,47981717
 
 
-// Vision of Confluence (god-pve,pve)
+// Vision of Confluence 
+// notes : VoG Weapons (god-pve,pve)
 dimwishlist:item=3186018373&perks=1482024992,1885400500,3592538738,4104185692
 
 
-// Vision of Confluence (god-pvp,pvp)
+// Vision of Confluence 
+// notes : VoG Weapons (god-pvp,pvp)
 dimwishlist:item=3186018373&perks=1840239774,1561002382,2946784966,1015611457
 
 
-// Vision of Confluence (pve)
+// Vision of Confluence 
+// notes : VoG Weapons (pve)
 dimwishlist:item=3186018373&perks=1840239774,3230963543,2450788523,3824105627
 dimwishlist:item=3186018373&perks=1840239774,3230963543,2450788523,2726471870
 dimwishlist:item=3186018373&perks=1840239774,3230963543,2450788523,4104185692
@@ -376,7 +389,8 @@ dimwishlist:item=3186018373&perks=1482024992,1885400500,3592538738,2726471870
 dimwishlist:item=3186018373&perks=1482024992,1885400500,3592538738,4104185692
 
 
-// Vision of Confluence (pvp)
+// Vision of Confluence 
+// notes : VoG Weapons (pvp)
 dimwishlist:item=3186018373&perks=4090651448,1885400500,2450788523,2726471870
 dimwishlist:item=3186018373&perks=4090651448,1885400500,2450788523,1015611457
 dimwishlist:item=3186018373&perks=4090651448,1885400500,3436462433,2726471870
@@ -415,15 +429,18 @@ dimwishlist:item=3186018373&perks=1840239774,1561002382,2946784966,2726471870
 dimwishlist:item=3186018373&perks=1840239774,1561002382,2946784966,1015611457
 
 
-// Found Verdict (god-pve,pve)
+// Found Verdict 
+// notes : VoG Weapons (god-pve,pve)
 dimwishlist:item=3197270240&perks=1332244541,791862061,3300816228,1546637391
 
 
-// Found Verdict (god-pvp,pvp)
+// Found Verdict 
+// notes : VoG Weapons (god-pvp,pvp)
 dimwishlist:item=3197270240&perks=1047830412,3142289711,3161816588,47981717
 
 
-// Found Verdict (pve)
+// Found Verdict 
+// notes : VoG Weapons (pve)
 dimwishlist:item=3197270240&perks=4090651448,3142289711,3418782618,4104185692
 dimwishlist:item=3197270240&perks=4090651448,3142289711,3418782618,2679249093
 dimwishlist:item=3197270240&perks=4090651448,3142289711,3418782618,3523296417
@@ -458,7 +475,8 @@ dimwishlist:item=3197270240&perks=1332244541,791862061,3300816228,3523296417
 dimwishlist:item=3197270240&perks=1332244541,791862061,3300816228,1546637391
 
 
-// Found Verdict (pvp)
+// Found Verdict 
+// notes : VoG Weapons (pvp)
 dimwishlist:item=3197270240&perks=1332244541,3142289711,3436462433,2450788523
 dimwishlist:item=3197270240&perks=1332244541,3142289711,3436462433,47981717
 dimwishlist:item=3197270240&perks=1332244541,3142289711,3161816588,2450788523
@@ -469,15 +487,18 @@ dimwishlist:item=3197270240&perks=1047830412,3142289711,3161816588,2450788523
 dimwishlist:item=3197270240&perks=1047830412,3142289711,3161816588,47981717
 
 
-// Praedyth's Revenge (god-pve,pve)
+// Praedyth's Revenge 
+// notes : VoG Weapons (god-pve,pve)
 dimwishlist:item=3653573172&perks=1482024992,2420895100,3418782618,4104185692
 
 
-// Praedyth's Revenge (god-pvp,pvp)
+// Praedyth's Revenge 
+// notes : VoG Weapons (god-pvp,pvp)
 dimwishlist:item=3653573172&perks=1840239774,3142289711,588594999,47981717
 
 
-// Praedyth's Revenge (pve)
+// Praedyth's Revenge 
+// notes : VoG Weapons (pve)
 dimwishlist:item=3653573172&perks=3250034553,3177308360,3418782618,2213355989
 dimwishlist:item=3653573172&perks=3250034553,3177308360,3418782618,4104185692
 dimwishlist:item=3653573172&perks=3250034553,1431678320,3418782618,2213355989
@@ -504,7 +525,8 @@ dimwishlist:item=3653573172&perks=1482024992,2420895100,3418782618,2213355989
 dimwishlist:item=3653573172&perks=1482024992,2420895100,3418782618,4104185692
 
 
-// Praedyth's Revenge (pvp)
+// Praedyth's Revenge 
+// notes : VoG Weapons (pvp)
 dimwishlist:item=3653573172&perks=4090651448,3142289711,2866798147,2213355989
 dimwishlist:item=3653573172&perks=4090651448,3142289711,2866798147,47981717
 dimwishlist:item=3653573172&perks=4090651448,3142289711,706527188,2213355989
@@ -519,15 +541,18 @@ dimwishlist:item=3653573172&perks=1840239774,3142289711,588594999,2213355989
 dimwishlist:item=3653573172&perks=1840239774,3142289711,588594999,47981717
 
 
-// Hezen Vengeance (god-pve,pve)
+// Hezen Vengeance 
+// notes : VoG Weapons (god-pve,pve)
 dimwishlist:item=4050645223&perks=3525010810,3796465595,3300816228,3927722942
 
 
-// Hezen Vengeance (god-pvp,pvp)
+// Hezen Vengeance 
+// notes : VoG Weapons (god-pvp,pvp)
 dimwishlist:item=4050645223&perks=1478423395,1996142143,3977735242,1275731761
 
 
-// Hezen Vengeance (pve)
+// Hezen Vengeance 
+// notes : VoG Weapons (pve)
 dimwishlist:item=4050645223&perks=3525010810,3796465595,3977735242,1546637391
 dimwishlist:item=4050645223&perks=3525010810,3796465595,3977735242,3523296417
 dimwishlist:item=4050645223&perks=3525010810,3796465595,3977735242,3927722942
@@ -539,7 +564,8 @@ dimwishlist:item=4050645223&perks=3525010810,3796465595,3300816228,3523296417
 dimwishlist:item=4050645223&perks=3525010810,3796465595,3300816228,3927722942
 
 
-// Hezen Vengeance (pvp)
+// Hezen Vengeance 
+// notes : VoG Weapons (pvp)
 dimwishlist:item=4050645223&perks=1844523823,2822142346,3643424744,2726471870
 dimwishlist:item=4050645223&perks=1844523823,2822142346,3643424744,1275731761
 dimwishlist:item=4050645223&perks=1844523823,2822142346,3977735242,2726471870
