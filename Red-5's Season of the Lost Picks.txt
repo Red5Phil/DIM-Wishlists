@@ -2,12 +2,12 @@ title:Red-5's Season of the Lost Picks
 description:Red-5 Rolls for Season of the Lost. Contains some personal preferences, experimental combinations that look promising, and traditional go-to perk combinations.
 
 // Annual Skate - All around (pvp,pve)
-//notes: Red-5's Season of the Lost Picks: Red-5's Season of the Lost Picks: PvP/PvE - these perks seem fairly solid all around for all game modes tags:pvp,pve
+//notes: Red-5's Season of the Lost Picks. PvP/PvE - these perks seem fairly solid all around for all game modes tags:pvp,pve
 dimwishlist:item=6857689&perks=1168162263,1954620775
 
 
 // Annual Skate - PvE (pve)
-//notes: Red-5's Season of the Lost Picks: PvE - Outlaw-Multikill, triple tap-swashbucker, or dragonfly with either are the combos to look out for tags:pve
+//notes: Red-5's Season of the Lost Picks. PvE - Outlaw-Multikill, triple tap-swashbucker, or dragonfly with either are the combos to look out for tags:pve
 dimwishlist:item=6857689&perks=3400784728,2848615171
 dimwishlist:item=6857689&perks=3400784728,4082225868
 dimwishlist:item=6857689&perks=3400784728,2458213969
@@ -17,7 +17,7 @@ dimwishlist:item=6857689&perks=1168162263,2458213969
 
 
 // Annual Skate - PvP (pvp)
-//notes: Red-5's Season of the Lost Picks: PvP - this is probably where this gun is designed to flourish. No distractions might be a bit tough to use well, but should be useful for dueling. Tunnel vision-timed payload and slideshot-opening shot both seem nice.  tags:pvp
+//notes: Red-5's Season of the Lost Picks. PvP - this is probably where this gun is designed to flourish. No distractions might be a bit tough to use well, but should be useful for dueling. Tunnel vision-timed payload and slideshot-opening shot both seem nice.  tags:pvp
 dimwishlist:item=6857689&perks=2866798147,47981717
 dimwishlist:item=6857689&perks=2866798147,3592538738
 dimwishlist:item=6857689&perks=2866798147,1954620775
@@ -30,12 +30,12 @@ dimwishlist:item=6857689&perks=3161816588,1954620775
 
 
 // Riiswalker - PvP (pvp)
-//notes: Red-5's Season of the Lost Picks: obvious PvP pick tags:pvp
+//notes: Red-5's Season of the Lost Picks. obvious PvP pick tags:pvp
 dimwishlist:item=108221785&perks=706527188,591790007
 
 
 // Riiswalker - PvE (pve)
-//notes: Red-5's Season of the Lost Picks: third mod slot probably doesn't matter as much as getting vorpal or swashbuckler tags:pve
+//notes: Red-5's Season of the Lost Picks. third mod slot probably doesn't matter as much as getting vorpal or swashbuckler tags:pve
 dimwishlist:item=108221785&perks=1332244541,706527188,1546637391
 dimwishlist:item=108221785&perks=1332244541,706527188,4082225868
 dimwishlist:item=108221785&perks=1332244541,706527188,591790007
@@ -99,7 +99,7 @@ dimwishlist:item=108221785&perks=1482024992,1866048759,591790007
 
 
 // Punching Out - PvE (pve)
-//notes: Red-5's Season of the Lost Picks: Lots of good options here. tags:pve
+//notes: Red-5's Season of the Lost Picks. Lots of good options here. tags:pve
 dimwishlist:item=378498222&perks=3643424744,4082225868
 dimwishlist:item=378498222&perks=3643424744,4104185692
 dimwishlist:item=378498222&perks=3643424744,438098033
@@ -115,17 +115,17 @@ dimwishlist:item=378498222&perks=3436462433,438098033
 
 
 // Punching Out - Kill clip (pve)
-//notes: Red-5's Season of the Lost Picks: Kill clip requires a reload perk to be great tags:pve
+//notes: Red-5's Season of the Lost Picks. Kill clip requires a reload perk to be great tags:pve
 dimwishlist:item=378498222&perks=2779035018,1015611457
 
 
 // Punching Out - Surrounded (pve)
-//notes: Red-5's Season of the Lost Picks: two perks that work well in close proximity. tags:pve
+//notes: Red-5's Season of the Lost Picks. two perks that work well in close proximity. tags:pve
 dimwishlist:item=378498222&perks=4071163871,3708227201
 
 
 // Punching Out - PvP (pvp)
-//notes: Red-5's Season of the Lost Picks: Plenty of intriguing PvP options here tags:pvp
+//notes: Red-5's Season of the Lost Picks. Plenty of intriguing PvP options here tags:pvp
 dimwishlist:item=378498222&perks=2450788523,957782887
 dimwishlist:item=378498222&perks=2450788523,2213355989
 dimwishlist:item=378498222&perks=2450788523,3511092054
@@ -145,19 +145,19 @@ dimwishlist:item=378498222&perks=2946784966,3592538738
 
 
 // The Last Breath - God Roll PvE (god-pve)
-//notes: Red-5's Season of the Lost Picks: PvE - just my personal barrel/mag perks to pair with the subsistence-OFA roll. tags:god-pve
+//notes: Red-5's Season of the Lost Picks. PvE - just my personal barrel/mag perks to pair with the subsistence-OFA roll. tags:god-pve
 dimwishlist:item=507038823&perks=3250034553,1885400500,1820235745,4049631843
 dimwishlist:item=507038823&perks=1467527085,1885400500,1820235745,4049631843
 dimwishlist:item=507038823&perks=202670084,1885400500,1820235745,4049631843
 
 
 // The Last Breath - PvE (pve)
-//notes: Red-5's Season of the Lost Picks: PvE Subsistence-OFA seems very strong here tags:pve
+//notes: Red-5's Season of the Lost Picks. PvE Subsistence-OFA seems very strong here tags:pve
 dimwishlist:item=507038823&perks=1820235745,4049631843
 
 
 // The Last Breath - PvP (pvp)
-//notes: Red-5's Season of the Lost Picks: PvP - seems like this gun has plenty of good options for PvE, but I thing Rangefinder is the safest go-to option. tags:pvp
+//notes: Red-5's Season of the Lost Picks. PvP - seems like this gun has plenty of good options for PvE, but I thing Rangefinder is the safest go-to option. tags:pvp
 dimwishlist:item=507038823&perks=1885400500,2450788523,2846385770
 dimwishlist:item=507038823&perks=1885400500,1820235745,2846385770
 dimwishlist:item=507038823&perks=1561002382,2450788523,2846385770
@@ -167,12 +167,12 @@ dimwishlist:item=507038823&perks=679225683,1820235745,2846385770
 
 
 // Contingency Plan - OFA (pve)
-//notes: Red-5's Season of the Lost Picks: PvE - subsistence-OFA is a strong combo for add clearing tags:pve
+//notes: Red-5's Season of the Lost Picks. PvE - subsistence-OFA is a strong combo for add clearing tags:pve
 dimwishlist:item=577528837&perks=1820235745,4049631843
 
 
 // Contingency Plan - PvP (pvp)
-//notes: Red-5's Season of the Lost Picks: PvP - This seems to have some good options for PvP. Outlaw-Killclip is a traditional choice, but I'm personally more interested in a consistent synergy with abilities from surplus-thresh tags:pvp
+//notes: Red-5's Season of the Lost Picks. PvP - This seems to have some good options for PvP. Outlaw-Killclip is a traditional choice, but I'm personally more interested in a consistent synergy with abilities from surplus-thresh tags:pvp
 dimwishlist:item=577528837&perks=3436462433,3108830275
 dimwishlist:item=577528837&perks=3436462433,2726471870
 dimwishlist:item=577528837&perks=3436462433,1015611457
@@ -188,7 +188,7 @@ dimwishlist:item=577528837&perks=2946784966,4104185692
 
 
 // Scathelocke - PvE (pve)
-//notes: Red-5's Season of the Lost Picks: PvE - I love this gun. Subsistence-rampage is a safe choice, sympathetic arsenal might be fun to play with when using slow-loading power/special weapons. tags:pve
+//notes: Red-5's Season of the Lost Picks. PvE - I love this gun. Subsistence-rampage is a safe choice, sympathetic arsenal might be fun to play with when using slow-loading power/special weapons. tags:pve
 dimwishlist:item=602618796&perks=1820235745,3425386926
 dimwishlist:item=602618796&perks=1820235745,3350417888
 dimwishlist:item=602618796&perks=1645158859,3425386926
@@ -196,14 +196,14 @@ dimwishlist:item=602618796&perks=1645158859,3350417888
 
 
 // Scathelocke - PvP (pvp)
-//notes: Red-5's Season of the Lost Picks: PvP - I liked the original Scathelocke for PvP, eye of the storm is an option for dueling with it. tags:pvp
+//notes: Red-5's Season of the Lost Picks. PvP - I liked the original Scathelocke for PvP, eye of the storm is an option for dueling with it. tags:pvp
 dimwishlist:item=602618796&perks=2946784966,699525795
 dimwishlist:item=602618796&perks=1645158859,699525795
 dimwishlist:item=602618796&perks=3436462433,699525795
 
 
 // Peacebond - PvE (pve)
-//notes: Red-5's Season of the Lost Picks: Headstone is the real head-turner here tags:pve
+//notes: Red-5's Season of the Lost Picks. Headstone is the real head-turner here tags:pve
 dimwishlist:item=829330711&perks=1820235745,124408337
 dimwishlist:item=829330711&perks=1820235745,438098033
 dimwishlist:item=829330711&perks=2450788523,124408337
@@ -211,7 +211,7 @@ dimwishlist:item=829330711&perks=2450788523,438098033
 
 
 // Peacebond - PvP (pvp)
-//notes: Red-5's Season of the Lost Picks: Rangefinder and snapshot sights are the curated perks for PvP tags:pvp
+//notes: Red-5's Season of the Lost Picks. Rangefinder and snapshot sights are the curated perks for PvP tags:pvp
 dimwishlist:item=829330711&perks=2846385770,957782887
 dimwishlist:item=829330711&perks=2846385770,4082225868
 dimwishlist:item=829330711&perks=2846385770,3523296417
@@ -221,7 +221,7 @@ dimwishlist:item=829330711&perks=2450788523,3523296417
 
 
 // The Comedian - One-for-All (pve,god-pve)
-//notes: Red-5's Season of the Lost Picks: PvE - I'm looking to use this primarily for fast Minor and Major add clearing in "plate defense" type activities like VoG. Anything to keep the ammo refreshed is going to be nice in this slot. tags:pve,god-pve
+//notes: Red-5's Season of the Lost Picks. PvE - I'm looking to use this primarily for fast Minor and Major add clearing in "plate defense" type activities like VoG. Anything to keep the ammo refreshed is going to be nice in this slot. tags:pve,god-pve
 dimwishlist:item=1028582252&perks=1300023272,679225683,2621346526,4049631843
 dimwishlist:item=1028582252&perks=1300023272,679225683,3096702027,4049631843
 dimwishlist:item=1028582252&perks=1300023272,679225683,1820235745,4049631843
@@ -257,7 +257,7 @@ dimwishlist:item=1028582252&perks=4090651448,106909392,4252909580,4049631843
 
 
 // The Comedian - Trench barrel (god-pve,pve)
-//notes: Red-5's Season of the Lost Picks: PvE - I'm looking to use this primarily for fast Minor and Major add clearing in "plate defense" type activities like VoG. Anything to keep the ammo refreshed or improve reload speed is going to be nice in this slot. tags:god-pve,pve
+//notes: Red-5's Season of the Lost Picks. PvE - I'm looking to use this primarily for fast Minor and Major add clearing in "plate defense" type activities like VoG. Anything to keep the ammo refreshed or improve reload speed is going to be nice in this slot. tags:god-pve,pve
 dimwishlist:item=1028582252&perks=4090651448,1087426260,4252909580,2360754333
 dimwishlist:item=1028582252&perks=4090651448,1087426260,2621346526,2360754333
 dimwishlist:item=1028582252&perks=4090651448,1087426260,3096702027,2360754333
@@ -293,12 +293,12 @@ dimwishlist:item=1028582252&perks=1300023272,679225683,1820235745,2360754333
 
 
 // Forge's Pledge - PvE (pve)
-//notes: Red-5's Season of the Lost Picks: not a ton of PvE utility, rampage is nice though tags:pve
+//notes: Red-5's Season of the Lost Picks. not a ton of PvE utility, rampage is nice though tags:pve
 dimwishlist:item=1076810832&perks=1570042021,3425386926
 
 
 // Forge's Pledge - PvP (pvp)
-//notes: Red-5's Season of the Lost Picks: Lots of good PvP utility tags:pvp
+//notes: Red-5's Season of the Lost Picks. Lots of good PvP utility tags:pvp
 dimwishlist:item=1076810832&perks=3436462433,957782887
 dimwishlist:item=1076810832&perks=3436462433,3592538738
 dimwishlist:item=1076810832&perks=2387244414,957782887
@@ -312,7 +312,7 @@ dimwishlist:item=1076810832&perks=2946784966,3592538738
 
 
 // Servant Leader - PvE (pve)
-//notes: Red-5's Season of the Lost Picks: PvE - lots of good options, personal combo preferences include:
+//notes: Red-5's Season of the Lost Picks. PvE - lots of good options, personal combo preferences include:
 
 Subsistence-rampage/OFA/frenzy
 Rapid hit/outlaw-kill clip
@@ -346,12 +346,12 @@ dimwishlist:item=1107446438&perks=1354429876,1015611457
 
 
 // Servant Leader - PvP (pvp)
-//notes: Red-5's Season of the Lost Picks: PvP - killing wind/snapshot sights is a basic combo that should help this gun feel snappy in engagements. tags:pvp
+//notes: Red-5's Season of the Lost Picks. PvP - killing wind/snapshot sights is a basic combo that should help this gun feel snappy in engagements. tags:pvp
 dimwishlist:item=1107446438&perks=2450788523,957782887
 
 
 // Chrysura Melo - Harmony (pve,god-pve)
-//notes: Red-5's Season of the Lost Picks: PvE - Harmony build tags:pve,god-pve
+//notes: Red-5's Season of the Lost Picks. PvE - Harmony build tags:pve,god-pve
 dimwishlist:item=1337707096&perks=3142289711,1570042021,438098033
 dimwishlist:item=1337707096&perks=3142289711,1354429876,438098033
 dimwishlist:item=1337707096&perks=3142289711,2621346526,438098033
@@ -367,7 +367,7 @@ dimwishlist:item=1337707096&perks=3230963543,2621346526,438098033
 
 
 // Chrysura Melo - Frenzy (pve,god-pve)
-//notes: Red-5's Season of the Lost Picks: PvE - 4TAC-Frenzy has best synergy, but their are plenty of good options to pair with Frenzy tags:pve,god-pve
+//notes: Red-5's Season of the Lost Picks. PvE - 4TAC-Frenzy has best synergy, but their are plenty of good options to pair with Frenzy tags:pve,god-pve
 dimwishlist:item=1337707096&perks=839105230,3142289711,1570042021,4104185692
 dimwishlist:item=1337707096&perks=839105230,3142289711,1359896290,4104185692
 dimwishlist:item=1337707096&perks=839105230,3142289711,2621346526,4104185692
@@ -518,7 +518,7 @@ dimwishlist:item=1337707096&perks=1840239774,106909392,1168162263,2458213969
 
 
 // Chrysura Melo - Dragonfly (pve,god-pve)
-//notes: Red-5's Season of the Lost Picks: PvE - dragonfly tags:pve,god-pve
+//notes: Red-5's Season of the Lost Picks. PvE - dragonfly tags:pve,god-pve
 dimwishlist:item=1337707096&perks=839105230,3142289711,1168162263,2848615171
 dimwishlist:item=1337707096&perks=839105230,3142289711,1195158366,2848615171
 dimwishlist:item=1337707096&perks=839105230,3142289711,1354429876,2848615171
@@ -594,7 +594,7 @@ dimwishlist:item=1337707096&perks=1840239774,106909392,1354429876,2848615171
 
 
 // Chrysura Melo - Demolitionist (pve,god-pve)
-//notes: Red-5's Season of the Lost Picks: PvE - 4TAC will help demolitionist build your grenade energy up over fewer reloads, then let you use your grenade to reload instantly. tags:pve,god-pve
+//notes: Red-5's Season of the Lost Picks. PvE - 4TAC will help demolitionist build your grenade energy up over fewer reloads, then let you use your grenade to reload instantly. tags:pve,god-pve
 dimwishlist:item=1337707096&perks=839105230,1087426260,1354429876,3523296417
 dimwishlist:item=1337707096&perks=839105230,106909392,1354429876,3523296417
 dimwishlist:item=1337707096&perks=839105230,2420895100,1354429876,3523296417
@@ -616,7 +616,7 @@ dimwishlist:item=1337707096&perks=1840239774,2420895100,1354429876,3523296417
 
 
 // Chrysura Melo - PvP (pvp,god-pvp)
-//notes: Red-5's Season of the Lost Picks: PvP - curious about how encore and frenzy in particular might function together. tags:pvp,god-pvp
+//notes: Red-5's Season of the Lost Picks. PvP - curious about how encore and frenzy in particular might function together. tags:pvp,god-pvp
 dimwishlist:item=1337707096&perks=4090651448,3142289711,1359896290,3592538738
 dimwishlist:item=1337707096&perks=4090651448,3142289711,1359896290,2726471870
 dimwishlist:item=1337707096&perks=4090651448,3142289711,1359896290,4104185692
@@ -808,7 +808,7 @@ dimwishlist:item=1399243961&perks=1482024992,1687452232,3400784728,1546637391
 
 
 // Judgment - PvE (pve)
-//notes: Red-5's Season of the Lost Picks: Very limited options for PvE, ensemble-MKC is decent, or demolitionist-timed payload. tags:pve
+//notes: Red-5's Season of the Lost Picks. Very limited options for PvE, ensemble-MKC is decent, or demolitionist-timed payload. tags:pve
 dimwishlist:item=1476654960&perks=2621346526,2458213969
 dimwishlist:item=1476654960&perks=2621346526,1954620775
 dimwishlist:item=1476654960&perks=3523296417,2458213969
@@ -816,12 +816,12 @@ dimwishlist:item=1476654960&perks=3523296417,1954620775
 
 
 // Judgment - Grenadier (pve)
-//notes: Red-5's Season of the Lost Picks: Demolitionist-Adrenaline Junkie or Demolitionist-Osmosis could be really good with a build designed around frequent grenade use. Osmosis specifically would work well with elemental wells in match-game content. tags:pve
+//notes: Red-5's Season of the Lost Picks. Demolitionist-Adrenaline Junkie or Demolitionist-Osmosis could be really good with a build designed around frequent grenade use. Osmosis specifically would work well with elemental wells in match-game content. tags:pve
 dimwishlist:item=1476654960&perks=3523296417,11612903
 
 
 // Judgment - PvP (pvp)
-//notes: Red-5's Season of the Lost Picks: Plenty of good-ish options for PvP tags:pvp
+//notes: Red-5's Season of the Lost Picks. Plenty of good-ish options for PvP tags:pvp
 dimwishlist:item=1476654960&perks=588594999,1954620775
 dimwishlist:item=1476654960&perks=588594999,47981717
 dimwishlist:item=1476654960&perks=588594999,3673922083
@@ -841,7 +841,7 @@ dimwishlist:item=1476654960&perks=3161816588,588594999
 
 
 // Vulpecula - Shoot to Loot Harmony (god-pve,pve)
-//notes: Red-5's Season of the Lost Picks: PvE - a lot of good synergy in the STL-Harmony combo tags:god-pve,pve
+//notes: Red-5's Season of the Lost Picks. PvE - a lot of good synergy in the STL-Harmony combo tags:god-pve,pve
 dimwishlist:item=1622998472&perks=4090651448,3230963543,3700496672,438098033
 dimwishlist:item=1622998472&perks=4090651448,1087426260,3700496672,438098033
 dimwishlist:item=1622998472&perks=4090651448,106909392,3700496672,438098033
@@ -860,7 +860,7 @@ dimwishlist:item=1622998472&perks=202670084,106909392,3700496672,438098033
 
 
 // Vulpecula - Encore Opening Shot (god-pvp,pvp)
-//notes: Red-5's Season of the Lost Picks: PvP - curious about how well Encore-Opening shot combo will work. tags:god-pvp,pvp
+//notes: Red-5's Season of the Lost Picks. PvP - curious about how well Encore-Opening shot combo will work. tags:god-pvp,pvp
 dimwishlist:item=1622998472&perks=4090651448,3230963543,1195158366,47981717
 dimwishlist:item=1622998472&perks=4090651448,1087426260,1195158366,47981717
 dimwishlist:item=1622998472&perks=4090651448,106909392,1195158366,47981717
@@ -879,7 +879,7 @@ dimwishlist:item=1622998472&perks=202670084,106909392,1195158366,47981717
 
 
 // Vulpecula - Killing Wind Adagio (god-pvp,pvp)
-//notes: Red-5's Season of the Lost Picks: PvP - Killing Wind - Adagio give PvP friendly buffs across multiple stats. tags:god-pvp,pvp
+//notes: Red-5's Season of the Lost Picks. PvP - Killing Wind - Adagio give PvP friendly buffs across multiple stats. tags:god-pvp,pvp
 dimwishlist:item=1622998472&perks=4090651448,3230963543,2450788523,3673922083
 dimwishlist:item=1622998472&perks=4090651448,1087426260,2450788523,3673922083
 dimwishlist:item=1622998472&perks=4090651448,106909392,2450788523,3673922083
@@ -898,7 +898,7 @@ dimwishlist:item=1622998472&perks=202670084,106909392,2450788523,3673922083
 
 
 // Vulpecula - Outlaw (pve)
-//notes: Red-5's Season of the Lost Picks: PvE - Outlaw/KC classic combo tags:pve
+//notes: Red-5's Season of the Lost Picks. PvE - Outlaw/KC classic combo tags:pve
 dimwishlist:item=1622998472&perks=4090651448,3230963543,1168162263,2458213969
 dimwishlist:item=1622998472&perks=4090651448,3230963543,1168162263,3038247973
 dimwishlist:item=1622998472&perks=4090651448,1087426260,1168162263,2458213969
@@ -959,18 +959,18 @@ dimwishlist:item=1622998472&perks=1482024992,3230963543,2621346526,124408337
 
 
 // A Swift Verdict - Surrounded (pve)
-//notes: Red-5's Season of the Lost Picks: PvE option for close combat tags:pve
+//notes: Red-5's Season of the Lost Picks. PvE option for close combat tags:pve
 dimwishlist:item=1626503676&perks=4071163871,3708227201
 
 
 // A Swift Verdict - Full auto (pve)
-//notes: Red-5's Season of the Lost Picks: full auto options for PvE tags:pve
+//notes: Red-5's Season of the Lost Picks. full auto options for PvE tags:pve
 dimwishlist:item=1626503676&perks=4267945040,3708227201
 dimwishlist:item=1626503676&perks=4267945040,1015611457
 
 
 // A Swift Verdict - PvP (pvp)
-//notes: Red-5's Season of the Lost Picks: several decent options for PvP tags:pvp
+//notes: Red-5's Season of the Lost Picks. several decent options for PvP tags:pvp
 dimwishlist:item=1626503676&perks=2450788523,2846385770
 dimwishlist:item=1626503676&perks=2450788523,2387244414
 dimwishlist:item=1626503676&perks=2450788523,3592538738
@@ -980,18 +980,18 @@ dimwishlist:item=1626503676&perks=4267945040,3592538738
 
 
 // Canis Major - Vorpal (god-pve,pve)
-//notes: Red-5's Season of the Lost Picks: PvE - kill champions and bosses more quickly with the spike-impulse-Vorpal tags:god-pve,pve
+//notes: Red-5's Season of the Lost Picks. PvE - kill champions and bosses more quickly with the spike-impulse-Vorpal tags:god-pve,pve
 dimwishlist:item=2066434718&perks=3301904089,951095735,1546637391
 
 
 // Canis Major - Chain Reaction ()
-//notes: Red-5's Season of the Lost Picks: PvE - good add clearing version of this roll for swarms of minors and weaker majors.
+//notes: Red-5's Season of the Lost Picks. PvE - good add clearing version of this roll for swarms of minors and weaker majors.
 dimwishlist:item=2066434718&perks=1380253176,2284787283,2396489472
 dimwishlist:item=2066434718&perks=1380253176,951095735,2396489472
 
 
 // Darkest Before - PvE (pve)
-//notes: Red-5's Season of the Lost Picks: Good options for sustaining magazine and buffing damage. tags:pve
+//notes: Red-5's Season of the Lost Picks. Good options for sustaining magazine and buffing damage. tags:pve
 dimwishlist:item=2481758391&perks=1820235745,3425386926
 dimwishlist:item=2481758391&perks=1820235745,4049631843
 dimwishlist:item=2481758391&perks=3643424744,3425386926
@@ -999,7 +999,7 @@ dimwishlist:item=2481758391&perks=3643424744,4049631843
 
 
 // Darkest Before - PvP (pvp)
-//notes: Red-5's Season of the Lost Picks: Not blown away by these perks for PvP, but there's utility to be found. tags:pvp
+//notes: Red-5's Season of the Lost Picks. Not blown away by these perks for PvP, but there's utility to be found. tags:pvp
 dimwishlist:item=2481758391&perks=706527188,4267945040
 dimwishlist:item=2481758391&perks=706527188,3592538738
 dimwishlist:item=2481758391&perks=2946784966,4267945040
@@ -1009,7 +1009,7 @@ dimwishlist:item=2481758391&perks=3436462433,3592538738
 
 
 // Sorrow's Verse - Encore (pvp,god-pve)
-//notes: Red-5's Season of the Lost Picks: Encore could work well with rampage tags:pvp,god-pve
+//notes: Red-5's Season of the Lost Picks. Encore could work well with rampage tags:pvp,god-pve
 dimwishlist:item=2496875173&perks=4090651448,3142289711,1195158366,3425386926
 dimwishlist:item=2496875173&perks=4090651448,106909392,1195158366,3425386926
 dimwishlist:item=2496875173&perks=4090651448,1087426260,1195158366,3425386926
@@ -1025,13 +1025,13 @@ dimwishlist:item=2496875173&perks=1482024992,1087426260,1195158366,3425386926
 
 
 // Sorrow's Verse - PvP Godroll (god-pvp)
-//notes: Red-5's Season of the Lost Picks: Personal preference, seems very snappy for PvP tags:god-pvp
+//notes: Red-5's Season of the Lost Picks. Personal preference, seems very snappy for PvP tags:god-pvp
 dimwishlist:item=2496875173&perks=4090651448,3142289711,2450788523,957782887
 dimwishlist:item=2496875173&perks=3250034553,3142289711,2450788523,957782887
 
 
 // Sorrow's Verse - PvE Damage (pve)
-//notes: Red-5's Season of the Lost Picks: so many good perk combos for PvE tags:pve
+//notes: Red-5's Season of the Lost Picks. so many good perk combos for PvE tags:pve
 dimwishlist:item=2496875173&perks=1820235745,4104185692
 dimwishlist:item=2496875173&perks=1820235745,4049631843
 dimwishlist:item=2496875173&perks=1820235745,3425386926
@@ -1044,18 +1044,18 @@ dimwishlist:item=2496875173&perks=2779035018,3425386926
 
 
 // Sorrow's Verse - MKC (pve)
-//notes: Red-5's Season of the Lost Picks: Classic combo of reload perks tags:pve
+//notes: Red-5's Season of the Lost Picks. Classic combo of reload perks tags:pve
 dimwishlist:item=2496875173&perks=1168162263,2458213969
 
 
 // Sorrow's Verse - Harmony (pve)
-//notes: Red-5's Season of the Lost Picks: Harmony is good with perks geared towards better handling tags:pve
+//notes: Red-5's Season of the Lost Picks. Harmony is good with perks geared towards better handling tags:pve
 dimwishlist:item=2496875173&perks=839105230,438098033
 dimwishlist:item=2496875173&perks=1840239774,438098033
 
 
 // Sorrow's Verse - PvP (pvp)
-//notes: Red-5's Season of the Lost Picks: lots of decent PvP perks tags:pvp
+//notes: Red-5's Season of the Lost Picks. lots of decent PvP perks tags:pvp
 dimwishlist:item=2496875173&perks=2450788523,3523296417
 dimwishlist:item=2496875173&perks=2450788523,957782887
 dimwishlist:item=2496875173&perks=2450788523,11612903
@@ -1089,13 +1089,13 @@ dimwishlist:item=2496875173&perks=3436462433,3592538738
 
 
 // Spoiler Alert - PvE (pve)
-//notes: Red-5's Season of the Lost Picks: PvE - honestly this probably isn't very good for PvE, but if I had to use it I would want the FF-SB combo in hand. tags:pve
+//notes: Red-5's Season of the Lost Picks. PvE - honestly this probably isn't very good for PvE, but if I had to use it I would want the FF-SB combo in hand. tags:pve
 dimwishlist:item=2588048270&perks=2779035018,4082225868
 dimwishlist:item=2588048270&perks=4071163871,4082225868
 
 
 // Spoiler Alert - PvP (pvp)
-//notes: Red-5's Season of the Lost Picks: PvP - this could be a decent cleanup weapon, but there are better options out there. tags:pvp
+//notes: Red-5's Season of the Lost Picks. PvP - this could be a decent cleanup weapon, but there are better options out there. tags:pvp
 dimwishlist:item=2588048270&perks=2450788523,3108830275
 dimwishlist:item=2588048270&perks=2450788523,2213355989
 dimwishlist:item=2588048270&perks=2450788523,3523296417
@@ -1105,17 +1105,17 @@ dimwishlist:item=2588048270&perks=3436462433,3523296417
 
 
 // A Sudden Death - God Roll One-Two Punch (god-pvp,god-pve)
-//notes: Red-5's Season of the Lost Picks: PvE - GR-OTP is a classic shotgun perk combo. Full choke and assault mag only improves on this. tags:god-pvp,god-pve
+//notes: Red-5's Season of the Lost Picks. PvE - GR-OTP is a classic shotgun perk combo. Full choke and assault mag only improves on this. tags:god-pvp,god-pve
 dimwishlist:item=2855157553&perks=1047830412,791862061,1631667848,2679249093
 
 
 // A Sudden Death - One-Two Punch (pve,pvp)
-//notes: Red-5's Season of the Lost Picks: PvE - GR-OTP is a classic shotgun perk combo. tags:pve,pvp
+//notes: Red-5's Season of the Lost Picks. PvE - GR-OTP is a classic shotgun perk combo. tags:pve,pvp
 dimwishlist:item=2855157553&perks=1631667848,2679249093
 
 
 // Iota Draconis - Frenzy (pve,god-pve)
-//notes: Red-5's Season of the Lost Picks: PvE - probably not really using this for add clear, but Frenzy at least offers some flexibility for stacking damage buffs in major/boss encounters. tags:pve,god-pve
+//notes: Red-5's Season of the Lost Picks. PvE - probably not really using this for add clear, but Frenzy at least offers some flexibility for stacking damage buffs in major/boss encounters. tags:pve,god-pve
 dimwishlist:item=3044460004&perks=2680121939,3436462433,4104185692
 dimwishlist:item=3044460004&perks=2680121939,1556840489,4104185692
 dimwishlist:item=3044460004&perks=1483536627,3436462433,4104185692
@@ -1125,7 +1125,7 @@ dimwishlist:item=3044460004&perks=1687452232,1556840489,4104185692
 
 
 // Iota Draconis - High Impact Reserves (pve,god-pve)
-//notes: Red-5's Season of the Lost Picks: PvE - probably a good raid boss damage phase option tags:pve,god-pve
+//notes: Red-5's Season of the Lost Picks. PvE - probably a good raid boss damage phase option tags:pve,god-pve
 dimwishlist:item=3044460004&perks=2680121939,1645158859,2213355989
 dimwishlist:item=3044460004&perks=2680121939,2779035018,2213355989
 dimwishlist:item=3044460004&perks=1483536627,1645158859,2213355989
@@ -1135,7 +1135,7 @@ dimwishlist:item=3044460004&perks=1687452232,2779035018,2213355989
 
 
 // Iota Draconis - Harmony (pve,god-pve)
-//notes: Red-5's Season of the Lost Picks: PvE - synergizes with primary weapons that also have the harmony perk. tags:pve,god-pve
+//notes: Red-5's Season of the Lost Picks. PvE - synergizes with primary weapons that also have the harmony perk. tags:pve,god-pve
 dimwishlist:item=3044460004&perks=4090651448,2680121939,1570042021,438098033
 dimwishlist:item=3044460004&perks=4090651448,2680121939,2779035018,438098033
 dimwishlist:item=3044460004&perks=4090651448,1483536627,1570042021,438098033
@@ -1157,7 +1157,7 @@ dimwishlist:item=3044460004&perks=839105230,1687452232,2779035018,438098033
 
 
 // Iota Draconis - Boss DPS (pve,god-pve)
-//notes: Red-5's Season of the Lost Picks: PvE - ensemble/HIR looks like a good raid boss DPS option tags:pve,god-pve
+//notes: Red-5's Season of the Lost Picks. PvE - ensemble/HIR looks like a good raid boss DPS option tags:pve,god-pve
 dimwishlist:item=3044460004&perks=2680121939,2621346526,2213355989
 dimwishlist:item=3044460004&perks=2680121939,2621346526,4104185692
 dimwishlist:item=3044460004&perks=1483536627,2621346526,2213355989
@@ -1167,7 +1167,7 @@ dimwishlist:item=3044460004&perks=1687452232,2621346526,4104185692
 
 
 // Iota Draconis - Adagio (pve,god-pve)
-//notes: Red-5's Season of the Lost Picks: PvE - I'm not completely sold on Adagio, but it could have a place for melting majors and champions. tags:pve,god-pve
+//notes: Red-5's Season of the Lost Picks. PvE - I'm not completely sold on Adagio, but it could have a place for melting majors and champions. tags:pve,god-pve
 dimwishlist:item=3044460004&perks=689005463,1570042021,3673922083
 dimwishlist:item=3044460004&perks=689005463,3436462433,3673922083
 dimwishlist:item=3044460004&perks=689005463,1645158859,3673922083
@@ -1342,7 +1342,7 @@ dimwishlist:item=3164743584&perks=4090651448,3142289711,2450788523,957782887
 
 
 // Fractethyst - Harmony (pve,god-pve)
-//notes: Red-5's Season of the Lost Picks: PvE - love the quickdraw/harmony combo tags:pve,god-pve
+//notes: Red-5's Season of the Lost Picks. PvE - love the quickdraw/harmony combo tags:pve,god-pve
 dimwishlist:item=3184681056&perks=1332244541,3142289711,706527188,438098033
 dimwishlist:item=3184681056&perks=1332244541,791862061,706527188,438098033
 dimwishlist:item=3184681056&perks=1332244541,106909392,706527188,438098033
@@ -1358,7 +1358,7 @@ dimwishlist:item=3184681056&perks=1482024992,679225683,706527188,438098033
 
 
 // Fractethyst - Adagio (pve,god-pve)
-//notes: Red-5's Season of the Lost Picks: PvE - Adagio seems like it would benefit from auto firing tags:pve,god-pve
+//notes: Red-5's Season of the Lost Picks. PvE - Adagio seems like it would benefit from auto firing tags:pve,god-pve
 dimwishlist:item=3184681056&perks=1332244541,3142289711,2117683199,3673922083
 dimwishlist:item=3184681056&perks=1332244541,791862061,2117683199,3673922083
 dimwishlist:item=3184681056&perks=1332244541,106909392,2117683199,3673922083
@@ -1374,7 +1374,7 @@ dimwishlist:item=3184681056&perks=1482024992,679225683,2117683199,3673922083
 
 
 // Fractethyst - Trench barrel (pve,god-pve)
-//notes: Red-5's Season of the Lost Picks: PvE - I personally still really like trench barrel tags:pve,god-pve
+//notes: Red-5's Season of the Lost Picks. PvE - I personally still really like trench barrel tags:pve,god-pve
 dimwishlist:item=3184681056&perks=466087222,791862061,706527188,2360754333
 dimwishlist:item=3184681056&perks=466087222,791862061,25606670,2360754333
 dimwishlist:item=3184681056&perks=466087222,679225683,706527188,2360754333
@@ -1396,7 +1396,7 @@ dimwishlist:item=3184681056&perks=4090651448,106909392,25606670,2360754333
 
 
 // Fractethyst - PvP perks (pvp,god-pvp)
-//notes: Red-5's Season of the Lost Picks: PvP - probably hunting opening shot with quickdraw or opening shot on this. tags:pvp,god-pvp
+//notes: Red-5's Season of the Lost Picks. PvP - probably hunting opening shot with quickdraw or opening shot on this. tags:pvp,god-pvp
 dimwishlist:item=3184681056&perks=1047830412,791862061,3161816588,2726471870
 dimwishlist:item=3184681056&perks=1047830412,791862061,3161816588,47981717
 dimwishlist:item=3184681056&perks=1047830412,791862061,706527188,2726471870
@@ -1436,32 +1436,32 @@ dimwishlist:item=3184681056&perks=1482024992,679225683,706527188,47981717
 
 
 // The Long Walk - Boss damage phase (pve,god-pve)
-//notes: Red-5's Season of the Lost Picks: ensemble-firing line is a great damage phase option tags:pve,god-pve
+//notes: Red-5's Season of the Lost Picks. ensemble-firing line is a great damage phase option tags:pve,god-pve
 dimwishlist:item=3326850591&perks=1087426260,2621346526,1771339417
 dimwishlist:item=3326850591&perks=2420895100,2621346526,1771339417
 dimwishlist:item=3326850591&perks=3230963543,2621346526,1771339417
 
 
 // The Long Walk - PvE (pve)
-//notes: Red-5's Season of the Lost Picks: Interesting options for use on major enemies. tags:pve
+//notes: Red-5's Season of the Lost Picks. Interesting options for use on major enemies. tags:pve
 dimwishlist:item=3326850591&perks=3643424744,4104185692
 dimwishlist:item=3326850591&perks=2284787283,4104185692
 dimwishlist:item=3326850591&perks=1168162263,4104185692
 
 
 // The Long Walk - PvP (pvp)
-//notes: Red-5's Season of the Lost Picks: Boring but good option tags:pvp
+//notes: Red-5's Season of the Lost Picks. Boring but good option tags:pvp
 dimwishlist:item=3326850591&perks=2450788523,957782887
 
 
 // Legal Action II - PvE (pve)
-//notes: Red-5's Season of the Lost Picks: PvE  - hard to go wrong with a damage buff and a reload perk tags:pve
+//notes: Red-5's Season of the Lost Picks. PvE  - hard to go wrong with a damage buff and a reload perk tags:pve
 dimwishlist:item=3409645497&perks=2779035018,4104185692
 dimwishlist:item=3409645497&perks=2779035018,3425386926
 
 
 // Legal Action II - PvP (pvp)
-//notes: Red-5's Season of the Lost Picks: PvP - there aren't any super obvious choices for PvP with this gun, but there are some decent options to be had. tags:pvp
+//notes: Red-5's Season of the Lost Picks. PvP - there aren't any super obvious choices for PvP with this gun, but there are some decent options to be had. tags:pvp
 dimwishlist:item=3409645497&perks=2450788523,3592538738
 dimwishlist:item=3409645497&perks=2450788523,2726471870
 dimwishlist:item=3409645497&perks=2450788523,4104185692
@@ -1477,7 +1477,7 @@ dimwishlist:item=3409645497&perks=3436462433,3425386926
 
 
 // Wolftone Draw - PvE (god-pve,pve)
-//notes: Red-5's Season of the Lost Picks: PvE - desired combos include:
+//notes: Red-5's Season of the Lost Picks. PvE - desired combos include:
 
 Shoot to Loot - Harmony
 Archer's Tempo - Frenzy
@@ -1557,7 +1557,7 @@ dimwishlist:item=3472875143&perks=852209214,3429800428,951095735,4104185692
 
 
 // Wolftone Draw - PvP (pvp,god-pvp)
-//notes: Red-5's Season of the Lost Picks: PvP - I like sneak bow-adagio for this bow in PvP tags:pvp,god-pvp
+//notes: Red-5's Season of the Lost Picks. PvP - I like sneak bow-adagio for this bow in PvP tags:pvp,god-pvp
 dimwishlist:item=3472875143&perks=1196733167,3827198035,951095735,3673922083
 dimwishlist:item=3472875143&perks=1196733167,3827198035,951095735,3523296417
 dimwishlist:item=3472875143&perks=1196733167,3827198035,908147344,3673922083
@@ -1727,7 +1727,7 @@ dimwishlist:item=3682803680&perks=839105230,106909392,1359896290,438098033
 
 
 // Shepherd's Watch - PvE (pve)
-//notes: Red-5's Season of the Lost Picks: Decent but not necessarily mind blowing perks on this gun.  tags:pve
+//notes: Red-5's Season of the Lost Picks. Decent but not necessarily mind blowing perks on this gun.  tags:pve
 dimwishlist:item=3743729616&perks=1168162263,1771339417
 dimwishlist:item=3743729616&perks=1168162263,4104185692
 dimwishlist:item=3743729616&perks=1556840489,1771339417
@@ -1735,19 +1735,19 @@ dimwishlist:item=3743729616&perks=1556840489,4104185692
 
 
 // Shepherd's Watch - PvP (pvp)
-//notes: Red-5's Season of the Lost Picks: Snapshot sights and moving target make this a solid PvP option tags:pvp
+//notes: Red-5's Season of the Lost Picks. Snapshot sights and moving target make this a solid PvP option tags:pvp
 dimwishlist:item=3743729616&perks=588594999,957782887
 
 
 // The Hothead - PvP (pvp)
-//notes: Red-5's Season of the Lost Picks: for PvP tags:pvp
+//notes: Red-5's Season of the Lost Picks. for PvP tags:pvp
 dimwishlist:item=4255171531&perks=3977735242,2284787283
 dimwishlist:item=4255171531&perks=3977735242,2726471870
 dimwishlist:item=4255171531&perks=3977735242,1546637391
 
 
 // The Hothead - Add clear (pve)
-//notes: Red-5's Season of the Lost Picks: basic add clearing perks tags:pve
+//notes: Red-5's Season of the Lost Picks. basic add clearing perks tags:pve
 dimwishlist:item=4255171531&perks=4071163871,3194351027
 dimwishlist:item=4255171531&perks=4071163871,2284787283
 dimwishlist:item=4255171531&perks=4071163871,960810156
@@ -1757,12 +1757,12 @@ dimwishlist:item=4255171531&perks=3523296417,960810156
 
 
 // The Hothead - Boss (pve)
-//notes: Red-5's Season of the Lost Picks: for Boss DPS tags:pve
+//notes: Red-5's Season of the Lost Picks. for Boss DPS tags:pve
 dimwishlist:item=4255171531&perks=3796465595,2621346526,1546637391
 
 
 // Hung Jury SR4 - Snappy workhorse (god-pve)
-//notes: Red-5's Season of the Lost Picks: PvE build focused on good handling and add clearing. Subsistence is prioritized to reduce reloading. tags:god-pve
+//notes: Red-5's Season of the Lost Picks. PvE build focused on good handling and add clearing. Subsistence is prioritized to reduce reloading. tags:god-pve
 dimwishlist:item=4281371574&perks=4090651448,106909392,1820235745,3038247973
 dimwishlist:item=4281371574&perks=4090651448,106909392,1820235745,3824105627
 dimwishlist:item=4281371574&perks=4090651448,106909392,1820235745,4049631843
@@ -1784,7 +1784,7 @@ dimwishlist:item=4281371574&perks=1840239774,3230963543,1820235745,4049631843
 
 
 // Hung Jury SR4 - Basic PvE perks (pve)
-//notes: Red-5's Season of the Lost Picks: PvE build focusing on reload speed and damage buff perks tags:pve
+//notes: Red-5's Season of the Lost Picks. PvE build focusing on reload speed and damage buff perks tags:pve
 dimwishlist:item=4281371574&perks=106909392,247725512,3038247973
 dimwishlist:item=4281371574&perks=106909392,247725512,4049631843
 dimwishlist:item=4281371574&perks=106909392,247725512,3824105627
@@ -1815,7 +1815,7 @@ dimwishlist:item=4281371574&perks=1431678320,1820235745,3824105627
 
 
 // Hung Jury SR4 - PvP perks (pvp)
-//notes: Red-5's Season of the Lost Picks: There are decent options here for PvP, I'm focused on getting good range, decent handling, and decent magazine management. tags:pvp
+//notes: Red-5's Season of the Lost Picks. There are decent options here for PvP, I'm focused on getting good range, decent handling, and decent magazine management. tags:pvp
 dimwishlist:item=4281371574&perks=1482024992,3142289711,588594999,2551157718
 dimwishlist:item=4281371574&perks=1482024992,3142289711,588594999,3038247973
 dimwishlist:item=4281371574&perks=1482024992,3142289711,588594999,3592538738
