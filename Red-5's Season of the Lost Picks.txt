@@ -2161,6 +2161,7 @@ dimwishlist:item=3658188704&perks=3230963543,247725512,3047969693
 
 
 // The Messenger - PvE (pve)
+//notes: Red-5's Season of the Lost Picks - Basic PvE picks tags:pve
 dimwishlist:item=3658188704&perks=1168162263,4049631843
 dimwishlist:item=3658188704&perks=1168162263,1015611457
 dimwishlist:item=3658188704&perks=1168162263,4104185692
