@@ -922,14 +922,14 @@ dimwishlist:item=1399243961&perks=1392496348,1687452232,3400784728,1771339417
 
 // Reed's Regret - PvE (pve)
 //notes: Red-5's Season of the Lost Picks Any of these should be viable while hunting one of the God Rolls of this gun. tags:pve
-dimwishlist:item=1399243961&perks=2284787283,1546637391
-dimwishlist:item=1399243961&perks=2284787283,3425386926
-dimwishlist:item=1399243961&perks=2284787283,124408337
-dimwishlist:item=1399243961&perks=2284787283,1771339417
+dimwishlist:item=1399243961&perks=3400784728,438098033
 dimwishlist:item=1399243961&perks=3400784728,1546637391
-dimwishlist:item=1399243961&perks=3400784728,3425386926
-dimwishlist:item=1399243961&perks=3400784728,124408337
 dimwishlist:item=1399243961&perks=3400784728,1771339417
+dimwishlist:item=1399243961&perks=3400784728,3425386926
+dimwishlist:item=1399243961&perks=2284787283,438098033
+dimwishlist:item=1399243961&perks=2284787283,1546637391
+dimwishlist:item=1399243961&perks=2284787283,1771339417
+dimwishlist:item=1399243961&perks=2284787283,3425386926
 
 
 // Reed's Regret - PvP (pvp)
@@ -2161,22 +2161,19 @@ dimwishlist:item=3658188704&perks=3230963543,247725512,3047969693
 
 
 // The Messenger - PvE (pve)
-//notes: Red-5's Season of the Lost Picks - Basic PvE picks tags:pve
-dimwishlist:item=3658188704&perks=1168162263,4049631843
-dimwishlist:item=3658188704&perks=1168162263,1015611457
-dimwishlist:item=3658188704&perks=1168162263,4104185692
-dimwishlist:item=3658188704&perks=1168162263,3047969693
-dimwishlist:item=3658188704&perks=1168162263,460017080
-dimwishlist:item=3658188704&perks=1570042021,4049631843
-dimwishlist:item=3658188704&perks=1570042021,1015611457
-dimwishlist:item=3658188704&perks=1570042021,4104185692
+//notes: Red-5's Season of the Lost Picks Basic PvE picks tags:pve
 dimwishlist:item=3658188704&perks=1570042021,3047969693
+dimwishlist:item=3658188704&perks=1570042021,4049631843
 dimwishlist:item=3658188704&perks=1570042021,460017080
-dimwishlist:item=3658188704&perks=247725512,4049631843
-dimwishlist:item=3658188704&perks=247725512,1015611457
-dimwishlist:item=3658188704&perks=247725512,4104185692
+dimwishlist:item=3658188704&perks=1570042021,4104185692
+dimwishlist:item=3658188704&perks=1168162263,3047969693
+dimwishlist:item=3658188704&perks=1168162263,4049631843
+dimwishlist:item=3658188704&perks=1168162263,460017080
+dimwishlist:item=3658188704&perks=1168162263,4104185692
 dimwishlist:item=3658188704&perks=247725512,3047969693
+dimwishlist:item=3658188704&perks=247725512,4049631843
 dimwishlist:item=3658188704&perks=247725512,460017080
+dimwishlist:item=3658188704&perks=247725512,4104185692
 
 
 // Shayura's Wrath - PvP (pvp)
