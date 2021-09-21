@@ -1,13 +1,13 @@
 title:kj415j45's Wishlist for Y4S3
 
 // Riiswalker 
-// notes : kj415j45's Wishlist for Y4S3 (mnk,god-pve)
+//notes : kj415j45's Wishlist for Y4S3 (mnk,god-pve)
 dimwishlist:item=108221785&perks=1047830412,791862061,3436462433,2450788523
 dimwishlist:item=108221785&perks=1047830412,791862061,3436462433,1546637391
 
 
 // Riiswalker 
-// notes : kj415j45's Wishlist for Y4S3 (mnk,god-pvp)
+//notes : kj415j45's Wishlist for Y4S3 (mnk,god-pvp)
 dimwishlist:item=108221785&perks=1047830412,3142289711,706527188,591790007
 dimwishlist:item=108221785&perks=1047830412,3142289711,706527188,2450788523
 dimwishlist:item=108221785&perks=1047830412,791862061,706527188,591790007
@@ -15,7 +15,7 @@ dimwishlist:item=108221785&perks=1047830412,791862061,706527188,2450788523
 
 
 // Riiswalker 
-// notes : kj415j45's Wishlist for Y4S3 (pve,mnk)
+//notes : kj415j45's Wishlist for Y4S3 (pve,mnk)
 dimwishlist:item=108221785&perks=1047830412,791862061,2039302152,2450788523
 dimwishlist:item=108221785&perks=1047830412,791862061,2039302152,3108830275
 dimwishlist:item=108221785&perks=1047830412,791862061,2039302152,1546637391
@@ -55,7 +55,7 @@ dimwishlist:item=108221785&perks=1482024992,3142289711,3436462433,1546637391
 
 
 // Riiswalker 
-// notes : kj415j45's Wishlist for Y4S3 (mnk,pvp)
+//notes : kj415j45's Wishlist for Y4S3 (mnk,pvp)
 dimwishlist:item=108221785&perks=1047830412,3142289711,706527188,591790007
 dimwishlist:item=108221785&perks=1047830412,3142289711,706527188,2450788523
 dimwishlist:item=108221785&perks=1047830412,3142289711,1866048759,591790007
@@ -83,7 +83,7 @@ dimwishlist:item=108221785&perks=1482024992,791862061,699525795,2450788523
 
 
 // The Deicide 
-// notes : kj415j45's Wishlist for Y4S3 (mnk,god-pve)
+//notes : kj415j45's Wishlist for Y4S3 (mnk,god-pve)
 dimwishlist:item=217140611&perks=1047830412,3142289711,1631667848,2679249093
 dimwishlist:item=217140611&perks=1047830412,3142289711,1631667848,1546637391
 dimwishlist:item=217140611&perks=1047830412,679225683,1631667848,2679249093
@@ -91,13 +91,13 @@ dimwishlist:item=217140611&perks=1047830412,679225683,1631667848,1546637391
 
 
 // The Deicide 
-// notes : kj415j45's Wishlist for Y4S3 (mnk,god-pvp)
+//notes : kj415j45's Wishlist for Y4S3 (mnk,god-pvp)
 dimwishlist:item=217140611&perks=1047830412,3142289711,3161816588,1546637391
 dimwishlist:item=217140611&perks=1047830412,3142289711,3161816588,3108830275
 
 
 // The Deicide 
-// notes : kj415j45's Wishlist for Y4S3 (pve,mnk)
+//notes : kj415j45's Wishlist for Y4S3 (pve,mnk)
 dimwishlist:item=217140611&perks=1047830412,3142289711,1631667848,2679249093
 dimwishlist:item=217140611&perks=1047830412,3142289711,1631667848,3108830275
 dimwishlist:item=217140611&perks=1047830412,3142289711,1631667848,1546637391
@@ -245,7 +245,7 @@ dimwishlist:item=217140611&perks=466087222,3177308360,3436462433,3592538738
 
 
 // The Deicide 
-// notes : kj415j45's Wishlist for Y4S3 (pvp,mnk)
+//notes : kj415j45's Wishlist for Y4S3 (pvp,mnk)
 dimwishlist:item=217140611&perks=1047830412,3142289711,3161816588,1546637391
 dimwishlist:item=217140611&perks=1047830412,3142289711,3161816588,3108830275
 dimwishlist:item=217140611&perks=1047830412,3142289711,1866048759,1546637391
@@ -281,7 +281,7 @@ dimwishlist:item=217140611&perks=1332244541,679225683,1866048759,3108830275
 
 
 // Ignition Code 
-// notes : kj415j45's Wishlist for Y4S3 (mnk,god-pve)
+//notes : kj415j45's Wishlist for Y4S3 (mnk,god-pve)
 dimwishlist:item=304659313&perks=1441682018,3301904089,3161816588,3523296417
 dimwishlist:item=304659313&perks=1441682018,3301904089,3161816588,4049631843
 dimwishlist:item=304659313&perks=1441682018,3032599245,3161816588,3523296417
@@ -297,7 +297,7 @@ dimwishlist:item=304659313&perks=3525010810,3032599245,3161816588,4049631843
 
 
 // Ignition Code 
-// notes : kj415j45's Wishlist for Y4S3 (mnk,god-pvp)
+//notes : kj415j45's Wishlist for Y4S3 (mnk,god-pvp)
 dimwishlist:item=304659313&perks=3525010810,3301904089,2010801679,3523296417
 dimwishlist:item=304659313&perks=3525010810,3301904089,2010801679,1546637391
 dimwishlist:item=304659313&perks=3525010810,3301904089,3161816588,3523296417
@@ -309,7 +309,7 @@ dimwishlist:item=304659313&perks=3525010810,409831596,3161816588,1546637391
 
 
 // Ignition Code 
-// notes : kj415j45's Wishlist for Y4S3 (pve,mnk)
+//notes : kj415j45's Wishlist for Y4S3 (pve,mnk)
 dimwishlist:item=304659313&perks=1441682018,3301904089,3161816588,960810156
 dimwishlist:item=304659313&perks=1441682018,3301904089,3161816588,3523296417
 dimwishlist:item=304659313&perks=1441682018,3301904089,3161816588,2726471870
@@ -441,7 +441,7 @@ dimwishlist:item=304659313&perks=3525010810,3032599245,3436462433,4049631843
 
 
 // Ignition Code 
-// notes : kj415j45's Wishlist for Y4S3 (mnk,pvp)
+//notes : kj415j45's Wishlist for Y4S3 (mnk,pvp)
 dimwishlist:item=304659313&perks=1441682018,3301904089,3161816588,3523296417
 dimwishlist:item=304659313&perks=1441682018,3301904089,3161816588,2726471870
 dimwishlist:item=304659313&perks=1441682018,3301904089,3161816588,1546637391
@@ -517,7 +517,7 @@ dimwishlist:item=304659313&perks=3525010810,409831596,706527188,1546637391
 
 
 // Survivor's Epitaph 
-// notes : kj415j45's Wishlist for Y4S3 (mnk,god-pve)
+//notes : kj415j45's Wishlist for Y4S3 (mnk,god-pve)
 dimwishlist:item=310708513&perks=4090651448,1885400500,1570042021,4049631843
 dimwishlist:item=310708513&perks=4090651448,1885400500,2450788523,4049631843
 dimwishlist:item=310708513&perks=4090651448,3230963543,1570042021,4049631843
@@ -539,7 +539,7 @@ dimwishlist:item=310708513&perks=1392496348,679225683,2450788523,4049631843
 
 
 // Survivor's Epitaph 
-// notes : kj415j45's Wishlist for Y4S3 (mnk,god-pvp)
+//notes : kj415j45's Wishlist for Y4S3 (mnk,god-pvp)
 dimwishlist:item=310708513&perks=3250034553,1561002382,1570042021,957782887
 dimwishlist:item=310708513&perks=3250034553,1561002382,1570042021,1015611457
 dimwishlist:item=310708513&perks=3250034553,1561002382,1570042021,11612903
@@ -567,7 +567,7 @@ dimwishlist:item=310708513&perks=4090651448,679225683,2450788523,11612903
 
 
 // Survivor's Epitaph 
-// notes : kj415j45's Wishlist for Y4S3 (mnk,god-pve)
+//notes : kj415j45's Wishlist for Y4S3 (mnk,god-pve)
 dimwishlist:item=310708513&perks=4090651448,3230963543,2946784966,1015611457
 dimwishlist:item=310708513&perks=4090651448,3230963543,2946784966,2458213969
 dimwishlist:item=310708513&perks=4090651448,3230963543,1168162263,1015611457
@@ -595,7 +595,7 @@ dimwishlist:item=310708513&perks=1392496348,679225683,1168162263,2458213969
 
 
 // Survivor's Epitaph 
-// notes : kj415j45's Wishlist for Y4S3 (pve,mnk)
+//notes : kj415j45's Wishlist for Y4S3 (pve,mnk)
 dimwishlist:item=310708513&perks=1467527085,1885400500,3436462433,11612903
 dimwishlist:item=310708513&perks=1467527085,1885400500,3436462433,4104185692
 dimwishlist:item=310708513&perks=1467527085,1885400500,3436462433,1774574192
@@ -1859,7 +1859,7 @@ dimwishlist:item=310708513&perks=1482024992,679225683,2450788523,2458213969
 
 
 // Survivor's Epitaph 
-// notes : kj415j45's Wishlist for Y4S3 (pvp,mnk)
+//notes : kj415j45's Wishlist for Y4S3 (pvp,mnk)
 dimwishlist:item=310708513&perks=3250034553,1561002382,1570042021,957782887
 dimwishlist:item=310708513&perks=3250034553,1561002382,1570042021,588594999
 dimwishlist:item=310708513&perks=3250034553,1561002382,1570042021,699525795
@@ -2103,7 +2103,7 @@ dimwishlist:item=310708513&perks=1482024992,679225683,247725512,11612903
 
 
 // Corrective Measure 
-// notes : kj415j45's Wishlist for Y4S3 (mnk,god-pve)
+//notes : kj415j45's Wishlist for Y4S3 (mnk,god-pve)
 dimwishlist:item=471518543&perks=1482024992,106909392,2779035018,3824105627
 dimwishlist:item=471518543&perks=1482024992,106909392,2779035018,4049631843
 dimwishlist:item=471518543&perks=1482024992,106909392,3436462433,3824105627
@@ -2115,7 +2115,7 @@ dimwishlist:item=471518543&perks=1467527085,106909392,3436462433,4049631843
 
 
 // Corrective Measure 
-// notes : kj415j45's Wishlist for Y4S3 (mnk,god-pvp)
+//notes : kj415j45's Wishlist for Y4S3 (mnk,god-pvp)
 dimwishlist:item=471518543&perks=3250034553,3142289711,3523296417,3824105627
 dimwishlist:item=471518543&perks=3250034553,3142289711,3523296417,2213355989
 dimwishlist:item=471518543&perks=1482024992,3142289711,3523296417,3824105627
@@ -2123,7 +2123,7 @@ dimwishlist:item=471518543&perks=1482024992,3142289711,3523296417,2213355989
 
 
 // Corrective Measure 
-// notes : kj415j45's Wishlist for Y4S3 (pve,mnk)
+//notes : kj415j45's Wishlist for Y4S3 (pve,mnk)
 dimwishlist:item=471518543&perks=1392496348,106909392,2779035018,3824105627
 dimwishlist:item=471518543&perks=1392496348,106909392,2779035018,4049631843
 dimwishlist:item=471518543&perks=1392496348,106909392,2779035018,2726471870
@@ -2223,7 +2223,7 @@ dimwishlist:item=471518543&perks=1467527085,3230963543,3436462433,2726471870
 
 
 // Corrective Measure 
-// notes : kj415j45's Wishlist for Y4S3 (pvp,mnk)
+//notes : kj415j45's Wishlist for Y4S3 (pvp,mnk)
 dimwishlist:item=471518543&perks=3250034553,3142289711,3523296417,3824105627
 dimwishlist:item=471518543&perks=3250034553,3142289711,3523296417,1890422124
 dimwishlist:item=471518543&perks=3250034553,3142289711,3523296417,2213355989
@@ -2275,8 +2275,8 @@ dimwishlist:item=471518543&perks=4090651448,2420895100,1359896290,2213355989
 
 
 // PLUG ONE.1 
-// notes : kj415j45's Wishlist for Y4S3 (Adept) 
-// notes : kj415j45's Wishlist for Y4S3 (mnk,god-pve)
+//notes : kj415j45's Wishlist for Y4S3 (Adept) 
+//notes : kj415j45's Wishlist for Y4S3 (mnk,god-pve)
 dimwishlist:item=534775659&perks=1392496348,1687452232,2779035018,1427256713
 dimwishlist:item=534775659&perks=1392496348,1687452232,2450788523,1427256713
 dimwishlist:item=534775659&perks=1392496348,3868766766,2779035018,1427256713
@@ -2292,8 +2292,8 @@ dimwishlist:item=534775659&perks=1840239774,3868766766,2450788523,1427256713
 
 
 // PLUG ONE.1 
-// notes : kj415j45's Wishlist for Y4S3 (Adept) 
-// notes : kj415j45's Wishlist for Y4S3 (mnk,god-pvp)
+//notes : kj415j45's Wishlist for Y4S3 (Adept) 
+//notes : kj415j45's Wishlist for Y4S3 (mnk,god-pvp)
 dimwishlist:item=534775659&perks=202670084,2969185026,1645158859,1754714824
 dimwishlist:item=534775659&perks=202670084,2969185026,2450788523,1754714824
 dimwishlist:item=534775659&perks=202670084,1687452232,1645158859,1754714824
@@ -2305,8 +2305,8 @@ dimwishlist:item=534775659&perks=3250034553,1687452232,2450788523,1754714824
 
 
 // PLUG ONE.1 
-// notes : kj415j45's Wishlist for Y4S3 (Adept) 
-// notes : kj415j45's Wishlist for Y4S3 (mnk,pve)
+//notes : kj415j45's Wishlist for Y4S3 (Adept) 
+//notes : kj415j45's Wishlist for Y4S3 (mnk,pve)
 dimwishlist:item=534775659&perks=1392496348,1687452232,1570042021,1600092898
 dimwishlist:item=534775659&perks=1392496348,1687452232,1570042021,1799762209
 dimwishlist:item=534775659&perks=1392496348,1687452232,1570042021,1754714824
@@ -2454,8 +2454,8 @@ dimwishlist:item=534775659&perks=1840239774,2969185026,2779035018,1427256713
 
 
 // PLUG ONE.1 
-// notes : kj415j45's Wishlist for Y4S3 (Adept) 
-// notes : kj415j45's Wishlist for Y4S3 (mnk,pvp)
+//notes : kj415j45's Wishlist for Y4S3 (Adept) 
+//notes : kj415j45's Wishlist for Y4S3 (mnk,pvp)
 dimwishlist:item=534775659&perks=1840239774,2969185026,4252909580,1754714824
 dimwishlist:item=534775659&perks=1840239774,2969185026,4252909580,11612903
 dimwishlist:item=534775659&perks=1840239774,2969185026,2450788523,1754714824
@@ -2579,7 +2579,7 @@ dimwishlist:item=534775659&perks=202670084,1687452232,1645158859,11612903
 
 
 // Farewell 
-// notes : kj415j45's Wishlist for Y4S3 (mnk,god-pve)
+//notes : kj415j45's Wishlist for Y4S3 (mnk,god-pve)
 dimwishlist:item=541188001&perks=3661387068,3142289711,1820235745,3108830275
 dimwishlist:item=541188001&perks=3661387068,3142289711,1820235745,4104185692
 dimwishlist:item=541188001&perks=3661387068,3142289711,1570042021,3108830275
@@ -2595,7 +2595,7 @@ dimwishlist:item=541188001&perks=1482024992,3142289711,1570042021,4104185692
 
 
 // Farewell 
-// notes : kj415j45's Wishlist for Y4S3 (mnk,god-pvp)
+//notes : kj415j45's Wishlist for Y4S3 (mnk,god-pvp)
 dimwishlist:item=541188001&perks=3250034553,3142289711,2846385770,3108830275
 dimwishlist:item=541188001&perks=3250034553,3142289711,2846385770,1546637391
 dimwishlist:item=541188001&perks=3250034553,3142289711,1570042021,3108830275
@@ -2607,7 +2607,7 @@ dimwishlist:item=541188001&perks=1482024992,3142289711,1570042021,1546637391
 
 
 // Farewell 
-// notes : kj415j45's Wishlist for Y4S3 (pve,mnk)
+//notes : kj415j45's Wishlist for Y4S3 (pve,mnk)
 dimwishlist:item=541188001&perks=3661387068,3177308360,4267945040,3108830275
 dimwishlist:item=541188001&perks=3661387068,3177308360,4267945040,2458213969
 dimwishlist:item=541188001&perks=3661387068,3177308360,4267945040,4104185692
@@ -2851,7 +2851,7 @@ dimwishlist:item=541188001&perks=3250034553,3142289711,2946784966,11612903
 
 
 // Farewell 
-// notes : kj415j45's Wishlist for Y4S3 (mnk,pvp)
+//notes : kj415j45's Wishlist for Y4S3 (mnk,pvp)
 dimwishlist:item=541188001&perks=4090651448,3142289711,2946784966,3108830275
 dimwishlist:item=541188001&perks=4090651448,3142289711,2946784966,11612903
 dimwishlist:item=541188001&perks=4090651448,3142289711,2946784966,1546637391
@@ -2909,14 +2909,14 @@ dimwishlist:item=541188001&perks=1482024992,3230963543,2846385770,1546637391
 
 
 // Farewell 
-// notes : kj415j45's Wishlist for Y4S3 (pve,mnk)
+//notes : kj415j45's Wishlist for Y4S3 (pve,mnk)
 dimwishlist:item=541188001&perks=3661387068,3230963543,2946784966,2458213969
 dimwishlist:item=541188001&perks=1392496348,3230963543,2946784966,2458213969
 dimwishlist:item=541188001&perks=1482024992,3230963543,2946784966,2458213969
 
 
 // Sojourner's Tale 
-// notes : kj415j45's Wishlist for Y4S3 (mnk,god-pve)
+//notes : kj415j45's Wishlist for Y4S3 (mnk,god-pve)
 dimwishlist:item=599895591&perks=1482024992,791862061,3300816228,2450788523
 dimwishlist:item=599895591&perks=1482024992,791862061,3300816228,2848615171
 dimwishlist:item=599895591&perks=1482024992,791862061,2946784966,2450788523
@@ -2936,7 +2936,7 @@ dimwishlist:item=599895591&perks=3250034553,3142289711,2946784966,2848615171
 
 
 // Sojourner's Tale 
-// notes : kj415j45's Wishlist for Y4S3 (mnk,god-pvp)
+//notes : kj415j45's Wishlist for Y4S3 (mnk,god-pvp)
 dimwishlist:item=599895591&perks=3250034553,791862061,2946784966,2450788523
 dimwishlist:item=599895591&perks=3250034553,791862061,2946784966,47981717
 dimwishlist:item=599895591&perks=3250034553,791862061,3300816228,2450788523
@@ -2956,7 +2956,7 @@ dimwishlist:item=599895591&perks=1840239774,3142289711,3300816228,47981717
 
 
 // Sojourner's Tale 
-// notes : kj415j45's Wishlist for Y4S3 (pve,mnk)
+//notes : kj415j45's Wishlist for Y4S3 (pve,mnk)
 dimwishlist:item=599895591&perks=4090651448,791862061,3300816228,2450788523
 dimwishlist:item=599895591&perks=4090651448,791862061,3300816228,4104185692
 dimwishlist:item=599895591&perks=4090651448,791862061,3300816228,2848615171
@@ -3068,7 +3068,7 @@ dimwishlist:item=599895591&perks=3250034553,3142289711,2946784966,2848615171
 
 
 // Sojourner's Tale 
-// notes : kj415j45's Wishlist for Y4S3 (pvp,mnk)
+//notes : kj415j45's Wishlist for Y4S3 (pvp,mnk)
 dimwishlist:item=599895591&perks=3250034553,791862061,2946784966,2450788523
 dimwishlist:item=599895591&perks=3250034553,791862061,2946784966,47981717
 dimwishlist:item=599895591&perks=3250034553,791862061,3300816228,2450788523
@@ -3136,22 +3136,22 @@ dimwishlist:item=599895591&perks=4090651448,3142289711,706527188,47981717
 
 
 // Found Verdict 
-// notes : kj415j45's Wishlist for Y4S3 (Timelost) 
-// notes : kj415j45's Wishlist for Y4S3 (mnk,god-pve)
+//notes : kj415j45's Wishlist for Y4S3 (Timelost) 
+//notes : kj415j45's Wishlist for Y4S3 (mnk,god-pve)
 dimwishlist:item=631439337&perks=1047830412,791862061,3300816228,1546637391
 dimwishlist:item=631439337&perks=1047830412,791862061,3300816228,2450788523
 
 
 // Found Verdict 
-// notes : kj415j45's Wishlist for Y4S3 (Timelost) 
-// notes : kj415j45's Wishlist for Y4S3 (mnk,god-pvp)
+//notes : kj415j45's Wishlist for Y4S3 (Timelost) 
+//notes : kj415j45's Wishlist for Y4S3 (mnk,god-pvp)
 dimwishlist:item=631439337&perks=1047830412,791862061,3161816588,2450788523
 dimwishlist:item=631439337&perks=1047830412,791862061,3161816588,1546637391
 
 
 // Found Verdict 
-// notes : kj415j45's Wishlist for Y4S3 (Timelost) 
-// notes : kj415j45's Wishlist for Y4S3 (mnk,pve)
+//notes : kj415j45's Wishlist for Y4S3 (Timelost) 
+//notes : kj415j45's Wishlist for Y4S3 (mnk,pve)
 dimwishlist:item=631439337&perks=1047830412,791862061,3161816588,2679249093
 dimwishlist:item=631439337&perks=1047830412,791862061,3161816588,2450788523
 dimwishlist:item=631439337&perks=1047830412,791862061,3161816588,1546637391
@@ -3203,8 +3203,8 @@ dimwishlist:item=631439337&perks=1482024992,3142289711,3300816228,1546637391
 
 
 // Found Verdict 
-// notes : kj415j45's Wishlist for Y4S3 (Timelost) 
-// notes : kj415j45's Wishlist for Y4S3 (mnk,pvp)
+//notes : kj415j45's Wishlist for Y4S3 (Timelost) 
+//notes : kj415j45's Wishlist for Y4S3 (mnk,pvp)
 dimwishlist:item=631439337&perks=1047830412,791862061,3161816588,2450788523
 dimwishlist:item=631439337&perks=1047830412,791862061,3161816588,1546637391
 dimwishlist:item=631439337&perks=1047830412,791862061,3108830275,2450788523
@@ -3212,8 +3212,8 @@ dimwishlist:item=631439337&perks=1047830412,791862061,3108830275,1546637391
 
 
 // Hung Jury SR4 
-// notes : kj415j45's Wishlist for Y4S3 (Adept) 
-// notes : kj415j45's Wishlist for Y4S3 (mnk,god-pve)
+//notes : kj415j45's Wishlist for Y4S3 (Adept) 
+//notes : kj415j45's Wishlist for Y4S3 (mnk,god-pve)
 dimwishlist:item=681067419&perks=4090651448,3230963543,3436462433,3592538738
 dimwishlist:item=681067419&perks=4090651448,3230963543,3436462433,3824105627
 dimwishlist:item=681067419&perks=4090651448,3230963543,1570042021,3592538738
@@ -3241,8 +3241,8 @@ dimwishlist:item=681067419&perks=1482024992,106909392,1570042021,3824105627
 
 
 // Hung Jury SR4 
-// notes : kj415j45's Wishlist for Y4S3 (Adept) 
-// notes : kj415j45's Wishlist for Y4S3 (mnk,god-pvp)
+//notes : kj415j45's Wishlist for Y4S3 (Adept) 
+//notes : kj415j45's Wishlist for Y4S3 (mnk,god-pvp)
 dimwishlist:item=681067419&perks=3250034553,3142289711,1820235745,2551157718
 dimwishlist:item=681067419&perks=3250034553,3142289711,1820235745,3038247973
 dimwishlist:item=681067419&perks=3250034553,3142289711,1570042021,2551157718
@@ -3254,8 +3254,8 @@ dimwishlist:item=681067419&perks=4090651448,3142289711,1570042021,3038247973
 
 
 // Hung Jury SR4 
-// notes : kj415j45's Wishlist for Y4S3 (Adept) 
-// notes : kj415j45's Wishlist for Y4S3 (mnk,pve)
+//notes : kj415j45's Wishlist for Y4S3 (Adept) 
+//notes : kj415j45's Wishlist for Y4S3 (mnk,pve)
 dimwishlist:item=681067419&perks=4090651448,106909392,247725512,3592538738
 dimwishlist:item=681067419&perks=4090651448,106909392,247725512,4049631843
 dimwishlist:item=681067419&perks=4090651448,106909392,247725512,3824105627
@@ -3439,8 +3439,8 @@ dimwishlist:item=681067419&perks=1482024992,3177308360,1820235745,3824105627
 
 
 // Hung Jury SR4 
-// notes : kj415j45's Wishlist for Y4S3 (Adept) 
-// notes : kj415j45's Wishlist for Y4S3 (mnk,pvp)
+//notes : kj415j45's Wishlist for Y4S3 (Adept) 
+//notes : kj415j45's Wishlist for Y4S3 (mnk,pvp)
 dimwishlist:item=681067419&perks=1482024992,3230963543,588594999,2551157718
 dimwishlist:item=681067419&perks=1482024992,3230963543,588594999,3038247973
 dimwishlist:item=681067419&perks=1482024992,3230963543,588594999,3824105627
@@ -3572,8 +3572,8 @@ dimwishlist:item=681067419&perks=1467527085,3142289711,1570042021,2213355989
 
 
 // Vision of Confluence 
-// notes : kj415j45's Wishlist for Y4S3 (Timelost) 
-// notes : kj415j45's Wishlist for Y4S3 (mnk,god-pve)
+//notes : kj415j45's Wishlist for Y4S3 (Timelost) 
+//notes : kj415j45's Wishlist for Y4S3 (mnk,god-pve)
 dimwishlist:item=690668916&perks=3250034553,679225683,2450788523,3824105627
 dimwishlist:item=690668916&perks=3250034553,679225683,2946784966,3824105627
 dimwishlist:item=690668916&perks=3250034553,3230963543,2450788523,3824105627
@@ -3585,8 +3585,8 @@ dimwishlist:item=690668916&perks=1467527085,3230963543,2946784966,3824105627
 
 
 // Vision of Confluence 
-// notes : kj415j45's Wishlist for Y4S3 (Timelost) 
-// notes : kj415j45's Wishlist for Y4S3 (mnk,god-pvp)
+//notes : kj415j45's Wishlist for Y4S3 (Timelost) 
+//notes : kj415j45's Wishlist for Y4S3 (mnk,god-pvp)
 dimwishlist:item=690668916&perks=3250034553,1561002382,2450788523,3824105627
 dimwishlist:item=690668916&perks=3250034553,1561002382,2450788523,1015611457
 dimwishlist:item=690668916&perks=3250034553,1885400500,2450788523,3824105627
@@ -3598,8 +3598,8 @@ dimwishlist:item=690668916&perks=1482024992,1885400500,2450788523,1015611457
 
 
 // Vision of Confluence 
-// notes : kj415j45's Wishlist for Y4S3 (Timelost) 
-// notes : kj415j45's Wishlist for Y4S3 (mnk,pve)
+//notes : kj415j45's Wishlist for Y4S3 (Timelost) 
+//notes : kj415j45's Wishlist for Y4S3 (mnk,pve)
 dimwishlist:item=690668916&perks=3250034553,1885400500,2946784966,3824105627
 dimwishlist:item=690668916&perks=3250034553,1885400500,2946784966,1015611457
 dimwishlist:item=690668916&perks=3250034553,1885400500,2946784966,4104185692
@@ -3783,8 +3783,8 @@ dimwishlist:item=690668916&perks=1482024992,679225683,2450788523,4104185692
 
 
 // Vision of Confluence 
-// notes : kj415j45's Wishlist for Y4S3 (Timelost) 
-// notes : kj415j45's Wishlist for Y4S3 (mnk,pvp)
+//notes : kj415j45's Wishlist for Y4S3 (Timelost) 
+//notes : kj415j45's Wishlist for Y4S3 (mnk,pvp)
 dimwishlist:item=690668916&perks=3250034553,1561002382,2387244414,3824105627
 dimwishlist:item=690668916&perks=3250034553,1561002382,2387244414,1015611457
 dimwishlist:item=690668916&perks=3250034553,1561002382,2450788523,3824105627
@@ -3842,8 +3842,8 @@ dimwishlist:item=690668916&perks=1482024992,679225683,2946784966,1015611457
 
 
 // Uzume RR4 
-// notes : kj415j45's Wishlist for Y4S3 (Adept) 
-// notes : kj415j45's Wishlist for Y4S3 (mnk,god-pve)
+//notes : kj415j45's Wishlist for Y4S3 (Adept) 
+//notes : kj415j45's Wishlist for Y4S3 (mnk,god-pve)
 dimwishlist:item=852228780&perks=1392496348,3177308360,2284787283,1546637391
 dimwishlist:item=852228780&perks=1392496348,3177308360,3400784728,1546637391
 dimwishlist:item=852228780&perks=1392496348,3230963543,2284787283,1546637391
@@ -3855,8 +3855,8 @@ dimwishlist:item=852228780&perks=3661387068,3230963543,3400784728,1546637391
 
 
 // Uzume RR4 
-// notes : kj415j45's Wishlist for Y4S3 (Adept) 
-// notes : kj415j45's Wishlist for Y4S3 (mnk,god-pve)
+//notes : kj415j45's Wishlist for Y4S3 (Adept) 
+//notes : kj415j45's Wishlist for Y4S3 (mnk,god-pve)
 dimwishlist:item=852228780&perks=4090651448,3230963543,2450788523,2848615171
 dimwishlist:item=852228780&perks=4090651448,106909392,2450788523,2848615171
 dimwishlist:item=852228780&perks=1840239774,3230963543,2450788523,2848615171
@@ -3864,15 +3864,15 @@ dimwishlist:item=852228780&perks=1840239774,106909392,2450788523,2848615171
 
 
 // Uzume RR4 
-// notes : kj415j45's Wishlist for Y4S3 (Adept) 
-// notes : kj415j45's Wishlist for Y4S3 (mnk,god-pvp)
+//notes : kj415j45's Wishlist for Y4S3 (Adept) 
+//notes : kj415j45's Wishlist for Y4S3 (mnk,god-pvp)
 dimwishlist:item=852228780&perks=1840239774,3142289711,957782887,1546637391
 dimwishlist:item=852228780&perks=1840239774,3142289711,957782887,2213355989
 
 
 // Uzume RR4 
-// notes : kj415j45's Wishlist for Y4S3 (Adept) 
-// notes : kj415j45's Wishlist for Y4S3 (mnk,pve)
+//notes : kj415j45's Wishlist for Y4S3 (Adept) 
+//notes : kj415j45's Wishlist for Y4S3 (mnk,pve)
 dimwishlist:item=852228780&perks=1392496348,106909392,3400784728,2848615171
 dimwishlist:item=852228780&perks=1392496348,106909392,3400784728,1546637391
 dimwishlist:item=852228780&perks=1392496348,106909392,3400784728,3523296417
@@ -4056,8 +4056,8 @@ dimwishlist:item=852228780&perks=4090651448,1087426260,2450788523,3523296417
 
 
 // Uzume RR4 
-// notes : kj415j45's Wishlist for Y4S3 (Adept) 
-// notes : kj415j45's Wishlist for Y4S3 (mnk,pvp)
+//notes : kj415j45's Wishlist for Y4S3 (Adept) 
+//notes : kj415j45's Wishlist for Y4S3 (mnk,pvp)
 dimwishlist:item=852228780&perks=1840239774,3142289711,957782887,1546637391
 dimwishlist:item=852228780&perks=1840239774,3142289711,957782887,2213355989
 dimwishlist:item=852228780&perks=1840239774,3142289711,1556840489,1546637391
@@ -4097,7 +4097,7 @@ dimwishlist:item=852228780&perks=4090651448,106909392,2450788523,2213355989
 
 
 // Occluded Finality 
-// notes : kj415j45's Wishlist for Y4S3 (mnk,god-pve)
+//notes : kj415j45's Wishlist for Y4S3 (mnk,god-pve)
 dimwishlist:item=852551895&perks=1392496348,1087426260,3300816228,1546637391
 dimwishlist:item=852551895&perks=1392496348,1087426260,3436462433,1546637391
 dimwishlist:item=852551895&perks=1392496348,3230963543,3300816228,1546637391
@@ -4109,7 +4109,7 @@ dimwishlist:item=852551895&perks=3661387068,3230963543,3436462433,1546637391
 
 
 // Occluded Finality 
-// notes : kj415j45's Wishlist for Y4S3 (mnk,god-pvp)
+//notes : kj415j45's Wishlist for Y4S3 (mnk,god-pvp)
 dimwishlist:item=852551895&perks=1840239774,1885400500,2866798147,591790007
 dimwishlist:item=852551895&perks=1840239774,1885400500,2866798147,1546637391
 dimwishlist:item=852551895&perks=1840239774,1885400500,957782887,591790007
@@ -4129,7 +4129,7 @@ dimwishlist:item=852551895&perks=3250034553,1561002382,957782887,1546637391
 
 
 // Occluded Finality 
-// notes : kj415j45's Wishlist for Y4S3 (mnk,pve)
+//notes : kj415j45's Wishlist for Y4S3 (mnk,pve)
 dimwishlist:item=852551895&perks=1392496348,1087426260,3513791699,1546637391
 dimwishlist:item=852551895&perks=1392496348,1087426260,3513791699,591790007
 dimwishlist:item=852551895&perks=1392496348,1087426260,3513791699,3523296417
@@ -4277,7 +4277,7 @@ dimwishlist:item=852551895&perks=1482024992,3230963543,2866798147,3523296417
 
 
 // Occluded Finality 
-// notes : kj415j45's Wishlist for Y4S3 (mnk,pvp)
+//notes : kj415j45's Wishlist for Y4S3 (mnk,pvp)
 dimwishlist:item=852551895&perks=4090651448,1885400500,2866798147,591790007
 dimwishlist:item=852551895&perks=4090651448,1885400500,2866798147,1546637391
 dimwishlist:item=852551895&perks=4090651448,1885400500,2866798147,47981717
@@ -4425,7 +4425,7 @@ dimwishlist:item=852551895&perks=3250034553,679225683,957782887,47981717
 
 
 // Borrowed Time 
-// notes : kj415j45's Wishlist for Y4S3 (mnk,god-pve)
+//notes : kj415j45's Wishlist for Y4S3 (mnk,god-pve)
 dimwishlist:item=875848769&perks=1392496348,1885400500,2946784966,2848615171
 dimwishlist:item=875848769&perks=1392496348,1885400500,2946784966,3592538738
 dimwishlist:item=875848769&perks=1392496348,1885400500,2946784966,3523296417
@@ -4537,7 +4537,7 @@ dimwishlist:item=875848769&perks=3661387068,679225683,2779035018,3425386926
 
 
 // Borrowed Time 
-// notes : kj415j45's Wishlist for Y4S3 (mnk,god-pvp)
+//notes : kj415j45's Wishlist for Y4S3 (mnk,god-pvp)
 dimwishlist:item=875848769&perks=3661387068,1561002382,1570042021,1890422124
 dimwishlist:item=875848769&perks=3661387068,1561002382,1570042021,11612903
 dimwishlist:item=875848769&perks=3661387068,1561002382,1570042021,4082225868
@@ -4595,7 +4595,7 @@ dimwishlist:item=875848769&perks=1482024992,1885400500,2450788523,4082225868
 
 
 // Borrowed Time 
-// notes : kj415j45's Wishlist for Y4S3 (pve,mnk)
+//notes : kj415j45's Wishlist for Y4S3 (pve,mnk)
 dimwishlist:item=875848769&perks=1392496348,1968497646,1570042021,2848615171
 dimwishlist:item=875848769&perks=1392496348,1968497646,1570042021,11612903
 dimwishlist:item=875848769&perks=1392496348,1968497646,1570042021,3592538738
@@ -5859,7 +5859,7 @@ dimwishlist:item=875848769&perks=3661387068,679225683,2779035018,3708227201
 
 
 // Borrowed Time 
-// notes : kj415j45's Wishlist for Y4S3 (pvp,mnk)
+//notes : kj415j45's Wishlist for Y4S3 (pvp,mnk)
 dimwishlist:item=875848769&perks=1392496348,1561002382,1359896290,1890422124
 dimwishlist:item=875848769&perks=1392496348,1561002382,1359896290,11612903
 dimwishlist:item=875848769&perks=1392496348,1561002382,1359896290,4082225868
@@ -6238,7 +6238,7 @@ dimwishlist:item=875848769&perks=1482024992,1968497646,280464955,4082225868
 
 
 // Chroma Rush 
-// notes : kj415j45's Wishlist for Y4S3 (mnk,god-pve)
+//notes : kj415j45's Wishlist for Y4S3 (mnk,god-pve)
 dimwishlist:item=1119734784&perks=3661387068,106909392,2779035018,1015611457
 dimwishlist:item=1119734784&perks=3661387068,106909392,2779035018,3592538738
 dimwishlist:item=1119734784&perks=3661387068,3230963543,2779035018,1015611457
@@ -6254,7 +6254,7 @@ dimwishlist:item=1119734784&perks=1482024992,3230963543,2779035018,3592538738
 
 
 // Chroma Rush 
-// notes : kj415j45's Wishlist for Y4S3 (mnk,god-pve)
+//notes : kj415j45's Wishlist for Y4S3 (mnk,god-pve)
 dimwishlist:item=1119734784&perks=3661387068,106909392,1820235745,3592538738
 dimwishlist:item=1119734784&perks=3661387068,106909392,1820235745,3425386926
 dimwishlist:item=1119734784&perks=3661387068,3230963543,1820235745,3592538738
@@ -6270,7 +6270,7 @@ dimwishlist:item=1119734784&perks=1482024992,3230963543,1820235745,3425386926
 
 
 // Chroma Rush 
-// notes : kj415j45's Wishlist for Y4S3 (mnk,god-pvp)
+//notes : kj415j45's Wishlist for Y4S3 (mnk,god-pvp)
 dimwishlist:item=1119734784&perks=3250034553,106909392,1570042021,1015611457
 dimwishlist:item=1119734784&perks=3250034553,106909392,1359896290,1015611457
 dimwishlist:item=1119734784&perks=3250034553,3142289711,1570042021,1015611457
@@ -6282,7 +6282,7 @@ dimwishlist:item=1119734784&perks=1482024992,3142289711,1359896290,1015611457
 
 
 // Chroma Rush 
-// notes : kj415j45's Wishlist for Y4S3 (pve,mnk)
+//notes : kj415j45's Wishlist for Y4S3 (pve,mnk)
 dimwishlist:item=1119734784&perks=3661387068,3177308360,2779035018,3425386926
 dimwishlist:item=1119734784&perks=3661387068,3177308360,2779035018,1015611457
 dimwishlist:item=1119734784&perks=3661387068,3177308360,2779035018,3592538738
@@ -6406,7 +6406,7 @@ dimwishlist:item=1119734784&perks=4090651448,3230963543,1820235745,11612903
 
 
 // Chroma Rush 
-// notes : kj415j45's Wishlist for Y4S3 (pvp,mnk)
+//notes : kj415j45's Wishlist for Y4S3 (pvp,mnk)
 dimwishlist:item=1119734784&perks=3250034553,106909392,1570042021,1890422124
 dimwishlist:item=1119734784&perks=3250034553,106909392,1570042021,1015611457
 dimwishlist:item=1119734784&perks=3250034553,106909392,2946784966,1890422124
@@ -6464,8 +6464,8 @@ dimwishlist:item=1119734784&perks=4090651448,3142289711,1359896290,1015611457
 
 
 // Fatebringer 
-// notes : kj415j45's Wishlist for Y4S3 (Timelost) 
-// notes : kj415j45's Wishlist for Y4S3 (mnk,god-pve)
+//notes : kj415j45's Wishlist for Y4S3 (Timelost) 
+//notes : kj415j45's Wishlist for Y4S3 (mnk,god-pve)
 dimwishlist:item=1216319404&perks=1482024992,3142289711,2450788523,3824105627
 dimwishlist:item=1216319404&perks=1482024992,3142289711,2946784966,3824105627
 dimwishlist:item=1216319404&perks=1482024992,3230963543,2450788523,3824105627
@@ -6477,8 +6477,8 @@ dimwishlist:item=1216319404&perks=202670084,3230963543,2946784966,3824105627
 
 
 // Fatebringer 
-// notes : kj415j45's Wishlist for Y4S3 (Timelost) 
-// notes : kj415j45's Wishlist for Y4S3 (mnk,god-pvp)
+//notes : kj415j45's Wishlist for Y4S3 (Timelost) 
+//notes : kj415j45's Wishlist for Y4S3 (mnk,god-pvp)
 dimwishlist:item=1216319404&perks=3250034553,3142289711,3418782618,1015611457
 dimwishlist:item=1216319404&perks=3250034553,3142289711,2450788523,1015611457
 dimwishlist:item=1216319404&perks=202670084,3142289711,3418782618,1015611457
@@ -6486,8 +6486,8 @@ dimwishlist:item=1216319404&perks=202670084,3142289711,2450788523,1015611457
 
 
 // Fatebringer 
-// notes : kj415j45's Wishlist for Y4S3 (Timelost) 
-// notes : kj415j45's Wishlist for Y4S3 (mnk,pve)
+//notes : kj415j45's Wishlist for Y4S3 (Timelost) 
+//notes : kj415j45's Wishlist for Y4S3 (mnk,pve)
 dimwishlist:item=1216319404&perks=3250034553,3142289711,3418782618,3824105627
 dimwishlist:item=1216319404&perks=3250034553,3142289711,3418782618,1015611457
 dimwishlist:item=1216319404&perks=3250034553,3142289711,2450788523,3824105627
@@ -6545,8 +6545,8 @@ dimwishlist:item=1216319404&perks=202670084,3230963543,2946784966,1015611457
 
 
 // Fatebringer 
-// notes : kj415j45's Wishlist for Y4S3 (Timelost) 
-// notes : kj415j45's Wishlist for Y4S3 (mnk,pvp)
+//notes : kj415j45's Wishlist for Y4S3 (Timelost) 
+//notes : kj415j45's Wishlist for Y4S3 (mnk,pvp)
 dimwishlist:item=1216319404&perks=3250034553,3142289711,3038247973,47981717
 dimwishlist:item=1216319404&perks=3250034553,3142289711,3038247973,1015611457
 dimwishlist:item=1216319404&perks=3250034553,3142289711,3418782618,47981717
@@ -6586,7 +6586,7 @@ dimwishlist:item=1216319404&perks=202670084,3230963543,2450788523,1015611457
 
 
 // PLUG ONE.1 
-// notes : kj415j45's Wishlist for Y4S3 (mnk,god-pve)
+//notes : kj415j45's Wishlist for Y4S3 (mnk,god-pve)
 dimwishlist:item=1289000550&perks=1392496348,1687452232,2450788523,1427256713
 dimwishlist:item=1289000550&perks=1392496348,1687452232,2779035018,1427256713
 dimwishlist:item=1289000550&perks=1392496348,3868766766,2450788523,1427256713
@@ -6602,7 +6602,7 @@ dimwishlist:item=1289000550&perks=1840239774,3868766766,2779035018,1427256713
 
 
 // PLUG ONE.1 
-// notes : kj415j45's Wishlist for Y4S3 (mnk,god-pvp)
+//notes : kj415j45's Wishlist for Y4S3 (mnk,god-pvp)
 dimwishlist:item=1289000550&perks=202670084,2969185026,2450788523,1754714824
 dimwishlist:item=1289000550&perks=202670084,2969185026,1645158859,1754714824
 dimwishlist:item=1289000550&perks=202670084,1687452232,2450788523,1754714824
@@ -6614,7 +6614,7 @@ dimwishlist:item=1289000550&perks=3250034553,1687452232,1645158859,1754714824
 
 
 // PLUG ONE.1 
-// notes : kj415j45's Wishlist for Y4S3 (mnk,pve)
+//notes : kj415j45's Wishlist for Y4S3 (mnk,pve)
 dimwishlist:item=1289000550&perks=1392496348,1687452232,1570042021,1427256713
 dimwishlist:item=1289000550&perks=1392496348,1687452232,1570042021,1799762209
 dimwishlist:item=1289000550&perks=1392496348,1687452232,1570042021,1754714824
@@ -6762,7 +6762,7 @@ dimwishlist:item=1289000550&perks=1840239774,2969185026,2779035018,1600092898
 
 
 // PLUG ONE.1 
-// notes : kj415j45's Wishlist for Y4S3 (mnk,pvp)
+//notes : kj415j45's Wishlist for Y4S3 (mnk,pvp)
 dimwishlist:item=1289000550&perks=1840239774,3868766766,4252909580,1754714824
 dimwishlist:item=1289000550&perks=1840239774,3868766766,4252909580,11612903
 dimwishlist:item=1289000550&perks=1840239774,3868766766,2450788523,1754714824
@@ -6886,7 +6886,7 @@ dimwishlist:item=1289000550&perks=3250034553,1687452232,1645158859,11612903
 
 
 // Gridskipper 
-// notes : kj415j45's Wishlist for Y4S3 (mnk,god-pve)
+//notes : kj415j45's Wishlist for Y4S3 (mnk,god-pve)
 dimwishlist:item=1621558458&perks=3661387068,1885400500,2450788523,2458213969
 dimwishlist:item=1621558458&perks=3661387068,1885400500,2450788523,4104185692
 dimwishlist:item=1621558458&perks=3661387068,3230963543,2450788523,2458213969
@@ -6902,7 +6902,7 @@ dimwishlist:item=1621558458&perks=1392496348,3230963543,2450788523,4104185692
 
 
 // Gridskipper 
-// notes : kj415j45's Wishlist for Y4S3 (mnk,god-pvp)
+//notes : kj415j45's Wishlist for Y4S3 (mnk,god-pvp)
 dimwishlist:item=1621558458&perks=1482024992,1885400500,1570042021,2213355989
 dimwishlist:item=1621558458&perks=1482024992,1885400500,1570042021,957782887
 dimwishlist:item=1621558458&perks=1482024992,1885400500,2450788523,2213355989
@@ -6922,7 +6922,7 @@ dimwishlist:item=1621558458&perks=3250034553,1561002382,2450788523,957782887
 
 
 // Gridskipper 
-// notes : kj415j45's Wishlist for Y4S3 (pve,mnk)
+//notes : kj415j45's Wishlist for Y4S3 (pve,mnk)
 dimwishlist:item=1621558458&perks=1467527085,1885400500,2450788523,11612903
 dimwishlist:item=1621558458&perks=1467527085,1885400500,2450788523,2458213969
 dimwishlist:item=1621558458&perks=1467527085,1885400500,2450788523,4104185692
@@ -7046,7 +7046,7 @@ dimwishlist:item=1621558458&perks=1392496348,679225683,280464955,2726471870
 
 
 // Gridskipper 
-// notes : kj415j45's Wishlist for Y4S3 (pvp,mnk)
+//notes : kj415j45's Wishlist for Y4S3 (pvp,mnk)
 dimwishlist:item=1621558458&perks=1482024992,1885400500,2946784966,2213355989
 dimwishlist:item=1621558458&perks=1482024992,1885400500,2946784966,957782887
 dimwishlist:item=1621558458&perks=1482024992,1885400500,2946784966,2726471870
@@ -7131,29 +7131,29 @@ dimwishlist:item=1621558458&perks=4090651448,679225683,2450788523,2726471870
 
 
 // Null Composure 
-// notes : kj415j45's Wishlist for Y4S3 (mnk,god-pve)
+//notes : kj415j45's Wishlist for Y4S3 (mnk,god-pve)
 dimwishlist:item=1644680957&perks=1840239774,2969185026,2779035018,1427256713
 
 
 // Null Composure 
-// notes : kj415j45's Wishlist for Y4S3 (mnk,god-pvp)
+//notes : kj415j45's Wishlist for Y4S3 (mnk,god-pvp)
 dimwishlist:item=1644680957&perks=1840239774,2969185026,1570042021,2213355989
 
 
 // Null Composure 
-// notes : kj415j45's Wishlist for Y4S3 (mnk,pve)
+//notes : kj415j45's Wishlist for Y4S3 (mnk,pve)
 dimwishlist:item=1644680957&perks=1840239774,2969185026,2779035018,1427256713
 dimwishlist:item=1644680957&perks=1840239774,2969185026,1570042021,1427256713
 
 
 // Null Composure 
-// notes : kj415j45's Wishlist for Y4S3 (pvp,mnk)
+//notes : kj415j45's Wishlist for Y4S3 (pvp,mnk)
 dimwishlist:item=1644680957&perks=1840239774,2969185026,1570042021,2213355989
 
 
 // Hezen Vengeance 
-// notes : kj415j45's Wishlist for Y4S3 (Timelost) 
-// notes : kj415j45's Wishlist for Y4S3 (mnk,god-pve)
+//notes : kj415j45's Wishlist for Y4S3 (Timelost) 
+//notes : kj415j45's Wishlist for Y4S3 (mnk,god-pve)
 dimwishlist:item=1921159786&perks=3525010810,3796465595,951095735,3927722942
 dimwishlist:item=1921159786&perks=3525010810,3796465595,951095735,1546637391
 dimwishlist:item=1921159786&perks=3525010810,3796465595,3300816228,3927722942
@@ -7161,14 +7161,14 @@ dimwishlist:item=1921159786&perks=3525010810,3796465595,3300816228,1546637391
 
 
 // Hezen Vengeance 
-// notes : kj415j45's Wishlist for Y4S3 (Timelost) 
-// notes : kj415j45's Wishlist for Y4S3 (mnk,god-pvp)
+//notes : kj415j45's Wishlist for Y4S3 (Timelost) 
+//notes : kj415j45's Wishlist for Y4S3 (mnk,god-pvp)
 dimwishlist:item=1921159786&perks=3525010810,1996142143,951095735,1275731761
 
 
 // Hezen Vengeance 
-// notes : kj415j45's Wishlist for Y4S3 (Timelost) 
-// notes : kj415j45's Wishlist for Y4S3 (mnk,pve)
+//notes : kj415j45's Wishlist for Y4S3 (Timelost) 
+//notes : kj415j45's Wishlist for Y4S3 (mnk,pve)
 dimwishlist:item=1921159786&perks=3525010810,3796465595,3643424744,1275731761
 dimwishlist:item=1921159786&perks=3525010810,3796465595,3643424744,3927722942
 dimwishlist:item=1921159786&perks=3525010810,3796465595,3643424744,1546637391
@@ -7268,8 +7268,8 @@ dimwishlist:item=1921159786&perks=981914802,1996142143,3977735242,3592538738
 
 
 // Hezen Vengeance 
-// notes : kj415j45's Wishlist for Y4S3 (Timelost) 
-// notes : kj415j45's Wishlist for Y4S3 (mnk,pvp)
+//notes : kj415j45's Wishlist for Y4S3 (Timelost) 
+//notes : kj415j45's Wishlist for Y4S3 (mnk,pvp)
 dimwishlist:item=1921159786&perks=3525010810,1996142143,951095735,1275731761
 dimwishlist:item=1921159786&perks=3525010810,1996142143,3977735242,1275731761
 dimwishlist:item=1921159786&perks=3525010810,2822142346,951095735,1275731761
@@ -7281,7 +7281,7 @@ dimwishlist:item=1921159786&perks=1844523823,2822142346,3977735242,1275731761
 
 
 // Archon's Thunder 
-// notes : kj415j45's Wishlist for Y4S3 (mnk,god-pve)
+//notes : kj415j45's Wishlist for Y4S3 (mnk,god-pve)
 dimwishlist:item=1967303408&perks=1392496348,106909392,2869569095,3425386926
 dimwishlist:item=1967303408&perks=1392496348,106909392,3436462433,3425386926
 dimwishlist:item=1967303408&perks=1392496348,3177308360,2869569095,3425386926
@@ -7303,7 +7303,7 @@ dimwishlist:item=1967303408&perks=1482024992,3230963543,3436462433,3425386926
 
 
 // Archon's Thunder 
-// notes : kj415j45's Wishlist for Y4S3 (mnk,god-pvp)
+//notes : kj415j45's Wishlist for Y4S3 (mnk,god-pvp)
 dimwishlist:item=1967303408&perks=839105230,3142289711,2450788523,3425386926
 dimwishlist:item=1967303408&perks=839105230,3142289711,2450788523,11551321
 dimwishlist:item=1967303408&perks=839105230,2420895100,2450788523,3425386926
@@ -7315,7 +7315,7 @@ dimwishlist:item=1967303408&perks=1482024992,2420895100,2450788523,11551321
 
 
 // Archon's Thunder 
-// notes : kj415j45's Wishlist for Y4S3 (pve,mnk)
+//notes : kj415j45's Wishlist for Y4S3 (pve,mnk)
 dimwishlist:item=1967303408&perks=1392496348,106909392,2869569095,3425386926
 dimwishlist:item=1967303408&perks=1392496348,106909392,2869569095,2726471870
 dimwishlist:item=1967303408&perks=1392496348,106909392,3436462433,3425386926
@@ -7409,7 +7409,7 @@ dimwishlist:item=1967303408&perks=1482024992,3230963543,2450788523,2726471870
 
 
 // Archon's Thunder 
-// notes : kj415j45's Wishlist for Y4S3 (pvp,mnk)
+//notes : kj415j45's Wishlist for Y4S3 (pvp,mnk)
 dimwishlist:item=1967303408&perks=3661387068,3142289711,3513791699,3425386926
 dimwishlist:item=1967303408&perks=3661387068,3142289711,3513791699,11551321
 dimwishlist:item=1967303408&perks=3661387068,3142289711,3513791699,4152709778
@@ -7557,8 +7557,8 @@ dimwishlist:item=1967303408&perks=1482024992,1087426260,2450788523,4152709778
 
 
 // Praedyth's Revenge 
-// notes : kj415j45's Wishlist for Y4S3 (Timelost) 
-// notes : kj415j45's Wishlist for Y4S3 (mnk,god-pve)
+//notes : kj415j45's Wishlist for Y4S3 (Timelost) 
+//notes : kj415j45's Wishlist for Y4S3 (mnk,god-pve)
 dimwishlist:item=1987769101&perks=1392496348,3177308360,3418782618,2213355989
 dimwishlist:item=1987769101&perks=1392496348,3177308360,3418782618,4104185692
 dimwishlist:item=1987769101&perks=1482024992,3177308360,3418782618,2213355989
@@ -7566,8 +7566,8 @@ dimwishlist:item=1987769101&perks=1482024992,3177308360,3418782618,4104185692
 
 
 // Praedyth's Revenge 
-// notes : kj415j45's Wishlist for Y4S3 (Timelost) 
-// notes : kj415j45's Wishlist for Y4S3 (mnk,god-pve)
+//notes : kj415j45's Wishlist for Y4S3 (Timelost) 
+//notes : kj415j45's Wishlist for Y4S3 (mnk,god-pve)
 dimwishlist:item=1987769101&perks=1392496348,3142289711,2866798147,3824105627
 dimwishlist:item=1987769101&perks=1392496348,3142289711,588594999,3824105627
 dimwishlist:item=1987769101&perks=1482024992,3142289711,2866798147,3824105627
@@ -7575,8 +7575,8 @@ dimwishlist:item=1987769101&perks=1482024992,3142289711,588594999,3824105627
 
 
 // Praedyth's Revenge 
-// notes : kj415j45's Wishlist for Y4S3 (Timelost) 
-// notes : kj415j45's Wishlist for Y4S3 (mnk,pve)
+//notes : kj415j45's Wishlist for Y4S3 (Timelost) 
+//notes : kj415j45's Wishlist for Y4S3 (mnk,pve)
 dimwishlist:item=1987769101&perks=1392496348,106909392,3418782618,3824105627
 dimwishlist:item=1987769101&perks=1392496348,106909392,3418782618,2213355989
 dimwishlist:item=1987769101&perks=1392496348,106909392,3418782618,4104185692
@@ -7661,8 +7661,8 @@ dimwishlist:item=1987769101&perks=3661387068,3142289711,588594999,4104185692
 
 
 // Praedyth's Revenge 
-// notes : kj415j45's Wishlist for Y4S3 (Timelost) 
-// notes : kj415j45's Wishlist for Y4S3 (mnk,pvp)
+//notes : kj415j45's Wishlist for Y4S3 (Timelost) 
+//notes : kj415j45's Wishlist for Y4S3 (mnk,pvp)
 dimwishlist:item=1987769101&perks=1840239774,3142289711,2866798147,47981717
 dimwishlist:item=1987769101&perks=1840239774,3142289711,2866798147,2213355989
 dimwishlist:item=1987769101&perks=1840239774,3142289711,706527188,47981717
@@ -7678,14 +7678,14 @@ dimwishlist:item=1987769101&perks=202670084,3142289711,706527188,2213355989
 
 
 // Praedyth's Revenge 
-// notes : kj415j45's Wishlist for Y4S3 (Timelost) 
-// notes : kj415j45's Wishlist for Y4S3 (mnk,pvp)
+//notes : kj415j45's Wishlist for Y4S3 (Timelost) 
+//notes : kj415j45's Wishlist for Y4S3 (mnk,pvp)
 dimwishlist:item=1987769101&perks=1840239774,3142289711,2866798147,2213355989
 dimwishlist:item=1987769101&perks=4090651448,3142289711,2866798147,2213355989
 
 
 // Uzume RR4 
-// notes : kj415j45's Wishlist for Y4S3 (mnk,god-pve)
+//notes : kj415j45's Wishlist for Y4S3 (mnk,god-pve)
 dimwishlist:item=2065081837&perks=1392496348,3177308360,3400784728,1546637391
 dimwishlist:item=2065081837&perks=1392496348,3177308360,2284787283,1546637391
 dimwishlist:item=2065081837&perks=1392496348,3230963543,3400784728,1546637391
@@ -7697,7 +7697,7 @@ dimwishlist:item=2065081837&perks=3661387068,3230963543,2284787283,1546637391
 
 
 // Uzume RR4 
-// notes : kj415j45's Wishlist for Y4S3 (mnk,god-pve)
+//notes : kj415j45's Wishlist for Y4S3 (mnk,god-pve)
 dimwishlist:item=2065081837&perks=1840239774,3230963543,2450788523,2848615171
 dimwishlist:item=2065081837&perks=1840239774,106909392,2450788523,2848615171
 dimwishlist:item=2065081837&perks=4090651448,3230963543,2450788523,2848615171
@@ -7705,13 +7705,13 @@ dimwishlist:item=2065081837&perks=4090651448,106909392,2450788523,2848615171
 
 
 // Uzume RR4 
-// notes : kj415j45's Wishlist for Y4S3 (mnk,god-pvp)
+//notes : kj415j45's Wishlist for Y4S3 (mnk,god-pvp)
 dimwishlist:item=2065081837&perks=1840239774,3142289711,957782887,1546637391
 dimwishlist:item=2065081837&perks=1840239774,3142289711,957782887,2213355989
 
 
 // Uzume RR4 
-// notes : kj415j45's Wishlist for Y4S3 (pve,mnk)
+//notes : kj415j45's Wishlist for Y4S3 (pve,mnk)
 dimwishlist:item=2065081837&perks=1392496348,106909392,3400784728,2848615171
 dimwishlist:item=2065081837&perks=1392496348,106909392,3400784728,1546637391
 dimwishlist:item=2065081837&perks=1392496348,106909392,3400784728,3523296417
@@ -7895,7 +7895,7 @@ dimwishlist:item=2065081837&perks=3661387068,1087426260,2450788523,3523296417
 
 
 // Uzume RR4 
-// notes : kj415j45's Wishlist for Y4S3 (mnk,pvp)
+//notes : kj415j45's Wishlist for Y4S3 (mnk,pvp)
 dimwishlist:item=2065081837&perks=1840239774,3142289711,2450788523,1546637391
 dimwishlist:item=2065081837&perks=1840239774,3142289711,2450788523,2213355989
 dimwishlist:item=2065081837&perks=1840239774,3142289711,957782887,1546637391
@@ -7935,7 +7935,7 @@ dimwishlist:item=2065081837&perks=4090651448,106909392,1556840489,2213355989
 
 
 // Fatebringer 
-// notes : kj415j45's Wishlist for Y4S3 (mnk,god-pve)
+//notes : kj415j45's Wishlist for Y4S3 (mnk,god-pve)
 dimwishlist:item=2171478765&perks=1482024992,3142289711,2450788523,3824105627
 dimwishlist:item=2171478765&perks=1482024992,3142289711,2946784966,3824105627
 dimwishlist:item=2171478765&perks=1482024992,3230963543,2450788523,3824105627
@@ -7947,7 +7947,7 @@ dimwishlist:item=2171478765&perks=202670084,3230963543,2946784966,3824105627
 
 
 // Fatebringer 
-// notes : kj415j45's Wishlist for Y4S3 (mnk,god-pvp)
+//notes : kj415j45's Wishlist for Y4S3 (mnk,god-pvp)
 dimwishlist:item=2171478765&perks=3250034553,3142289711,3418782618,1015611457
 dimwishlist:item=2171478765&perks=3250034553,3142289711,2450788523,1015611457
 dimwishlist:item=2171478765&perks=202670084,3142289711,3418782618,1015611457
@@ -7955,7 +7955,7 @@ dimwishlist:item=2171478765&perks=202670084,3142289711,2450788523,1015611457
 
 
 // Fatebringer 
-// notes : kj415j45's Wishlist for Y4S3 (pve,mnk)
+//notes : kj415j45's Wishlist for Y4S3 (pve,mnk)
 dimwishlist:item=2171478765&perks=3250034553,3142289711,3418782618,3824105627
 dimwishlist:item=2171478765&perks=3250034553,3142289711,3418782618,1015611457
 dimwishlist:item=2171478765&perks=3250034553,3142289711,2450788523,3824105627
@@ -8013,7 +8013,7 @@ dimwishlist:item=2171478765&perks=202670084,3230963543,2946784966,1015611457
 
 
 // Fatebringer 
-// notes : kj415j45's Wishlist for Y4S3 (pvp,mnk)
+//notes : kj415j45's Wishlist for Y4S3 (pvp,mnk)
 dimwishlist:item=2171478765&perks=3250034553,3142289711,3038247973,47981717
 dimwishlist:item=2171478765&perks=3250034553,3142289711,3038247973,1015611457
 dimwishlist:item=2171478765&perks=3250034553,3142289711,3418782618,47981717
@@ -8053,7 +8053,7 @@ dimwishlist:item=2171478765&perks=202670084,3230963543,2450788523,1015611457
 
 
 // Stochastic Variable 
-// notes : kj415j45's Wishlist for Y4S3 (mnk,god-pve)
+//notes : kj415j45's Wishlist for Y4S3 (mnk,god-pve)
 dimwishlist:item=2272470786&perks=3661387068,830282363,3436462433,3592538738
 dimwishlist:item=2272470786&perks=3661387068,830282363,3436462433,2458213969
 dimwishlist:item=2272470786&perks=3661387068,830282363,2779035018,3592538738
@@ -8069,7 +8069,7 @@ dimwishlist:item=2272470786&perks=1482024992,830282363,2779035018,2458213969
 
 
 // Stochastic Variable 
-// notes : kj415j45's Wishlist for Y4S3 (mnk,god-pvp)
+//notes : kj415j45's Wishlist for Y4S3 (mnk,god-pvp)
 dimwishlist:item=2272470786&perks=3250034553,1561002382,1645158859,3108830275
 dimwishlist:item=2272470786&perks=3250034553,1561002382,1645158859,3592538738
 dimwishlist:item=2272470786&perks=3250034553,1561002382,2450788523,3108830275
@@ -8109,7 +8109,7 @@ dimwishlist:item=2272470786&perks=202670084,1885400500,2450788523,3592538738
 
 
 // Stochastic Variable 
-// notes : kj415j45's Wishlist for Y4S3 (mnk,pve)
+//notes : kj415j45's Wishlist for Y4S3 (mnk,pve)
 dimwishlist:item=2272470786&perks=3661387068,1561002382,2450788523,3108830275
 dimwishlist:item=2272470786&perks=3661387068,1561002382,2450788523,2848615171
 dimwishlist:item=2272470786&perks=3661387068,1561002382,2450788523,2458213969
@@ -8497,7 +8497,7 @@ dimwishlist:item=2272470786&perks=1482024992,830282363,2779035018,3592538738
 
 
 // Stochastic Variable 
-// notes : kj415j45's Wishlist for Y4S3 (mnk,pvp)
+//notes : kj415j45's Wishlist for Y4S3 (mnk,pvp)
 dimwishlist:item=2272470786&perks=3250034553,1561002382,1645158859,3108830275
 dimwishlist:item=2272470786&perks=3250034553,1561002382,1645158859,706527188
 dimwishlist:item=2272470786&perks=3250034553,1561002382,1645158859,3592538738
@@ -8726,7 +8726,7 @@ dimwishlist:item=2272470786&perks=202670084,3230963543,2450788523,3592538738
 
 
 // The Vision 
-// notes : kj415j45's Wishlist for Y4S3 (mnk,god-pve)
+//notes : kj415j45's Wishlist for Y4S3 (mnk,god-pve)
 dimwishlist:item=2414141462&perks=445755704,3142289711,3436462433,4049631843
 dimwishlist:item=2414141462&perks=445755704,3142289711,3436462433,1015611457
 dimwishlist:item=2414141462&perks=445755704,3142289711,2450788523,4049631843
@@ -8746,7 +8746,7 @@ dimwishlist:item=2414141462&perks=445755705,106909392,2450788523,1015611457
 
 
 // The Vision 
-// notes : kj415j45's Wishlist for Y4S3 (mnk,god-pvp)
+//notes : kj415j45's Wishlist for Y4S3 (mnk,god-pvp)
 dimwishlist:item=2414141462&perks=445755705,3142289711,2450788523,1015611457
 dimwishlist:item=2414141462&perks=445755705,106909392,2450788523,1015611457
 dimwishlist:item=2414141462&perks=445755704,3142289711,2450788523,1015611457
@@ -8754,7 +8754,7 @@ dimwishlist:item=2414141462&perks=445755704,106909392,2450788523,1015611457
 
 
 // The Vision 
-// notes : kj415j45's Wishlist for Y4S3 (mnk,pve)
+//notes : kj415j45's Wishlist for Y4S3 (mnk,pve)
 dimwishlist:item=2414141462&perks=445755705,3142289711,3436462433,4049631843
 dimwishlist:item=2414141462&perks=445755705,3142289711,3436462433,1015611457
 dimwishlist:item=2414141462&perks=445755705,3142289711,3436462433,4082225868
@@ -8839,7 +8839,7 @@ dimwishlist:item=2414141462&perks=445755704,3230963543,2450788523,4082225868
 
 
 // The Vision 
-// notes : kj415j45's Wishlist for Y4S3 (mnk,pvp)
+//notes : kj415j45's Wishlist for Y4S3 (mnk,pvp)
 dimwishlist:item=2414141462&perks=445755705,3142289711,4267945040,1015611457
 dimwishlist:item=2414141462&perks=445755705,3142289711,2450788523,1015611457
 dimwishlist:item=2414141462&perks=445755705,106909392,4267945040,1015611457
@@ -8861,7 +8861,7 @@ dimwishlist:item=2414141462&perks=445755704,3230963543,2450788523,1015611457
 
 
 // Shattered Cipher 
-// notes : kj415j45's Wishlist for Y4S3 (mnk,god-pvp)
+//notes : kj415j45's Wishlist for Y4S3 (mnk,god-pvp)
 dimwishlist:item=2434225986&perks=3250034553,3142289711,1570042021,3425386926
 dimwishlist:item=2434225986&perks=3250034553,3142289711,1570042021,3108830275
 dimwishlist:item=2434225986&perks=1482024992,3142289711,1570042021,3425386926
@@ -8869,7 +8869,7 @@ dimwishlist:item=2434225986&perks=1482024992,3142289711,1570042021,3108830275
 
 
 // Shattered Cipher 
-// notes : kj415j45's Wishlist for Y4S3 (mnk,pve)
+//notes : kj415j45's Wishlist for Y4S3 (mnk,pve)
 dimwishlist:item=2434225986&perks=3661387068,106909392,1570042021,11612903
 dimwishlist:item=2434225986&perks=3661387068,106909392,1570042021,3108830275
 dimwishlist:item=2434225986&perks=3661387068,106909392,1570042021,3425386926
@@ -9161,7 +9161,7 @@ dimwishlist:item=2434225986&perks=839105230,3177308360,2039302152,3425386926
 
 
 // Shattered Cipher 
-// notes : kj415j45's Wishlist for Y4S3 (mnk,pve)
+//notes : kj415j45's Wishlist for Y4S3 (mnk,pve)
 dimwishlist:item=2434225986&perks=3661387068,2420895100,1570042021,3425386926
 dimwishlist:item=2434225986&perks=3661387068,2420895100,2869569095,3425386926
 dimwishlist:item=2434225986&perks=3661387068,3177308360,1570042021,3425386926
@@ -9177,7 +9177,7 @@ dimwishlist:item=2434225986&perks=1482024992,3177308360,2869569095,3425386926
 
 
 // Shattered Cipher 
-// notes : kj415j45's Wishlist for Y4S3 (mnk,pvp)
+//notes : kj415j45's Wishlist for Y4S3 (mnk,pvp)
 dimwishlist:item=2434225986&perks=3250034553,3142289711,1570042021,957782887
 dimwishlist:item=2434225986&perks=3250034553,3142289711,1570042021,2387244414
 dimwishlist:item=2434225986&perks=3250034553,3142289711,1570042021,3425386926
@@ -9261,7 +9261,7 @@ dimwishlist:item=2434225986&perks=839105230,2420895100,2869569095,3108830275
 
 
 // The Number 
-// notes : kj415j45's Wishlist for Y4S3 (mnk,god-pve)
+//notes : kj415j45's Wishlist for Y4S3 (mnk,god-pve)
 dimwishlist:item=2492081469&perks=1392496348,1885400500,2869569095,4049631843
 dimwishlist:item=2492081469&perks=1392496348,1885400500,2869569095,2458213969
 dimwishlist:item=2492081469&perks=1392496348,3230963543,2869569095,4049631843
@@ -9273,7 +9273,7 @@ dimwishlist:item=2492081469&perks=3661387068,3230963543,2869569095,2458213969
 
 
 // The Number 
-// notes : kj415j45's Wishlist for Y4S3 (mnk,god-pvp)
+//notes : kj415j45's Wishlist for Y4S3 (mnk,god-pvp)
 dimwishlist:item=2492081469&perks=3250034553,1561002382,2450788523,3108830275
 dimwishlist:item=2492081469&perks=3250034553,1561002382,2869569095,3108830275
 dimwishlist:item=2492081469&perks=3250034553,1885400500,2450788523,3108830275
@@ -9289,7 +9289,7 @@ dimwishlist:item=2492081469&perks=202670084,1885400500,2869569095,3108830275
 
 
 // The Number 
-// notes : kj415j45's Wishlist for Y4S3 (mnk,pve)
+//notes : kj415j45's Wishlist for Y4S3 (mnk,pve)
 dimwishlist:item=2492081469&perks=1392496348,1885400500,2869569095,3108830275
 dimwishlist:item=2492081469&perks=1392496348,1885400500,2869569095,3592538738
 dimwishlist:item=2492081469&perks=1392496348,1885400500,2869569095,4049631843
@@ -9485,7 +9485,7 @@ dimwishlist:item=2492081469&perks=3661387068,1968497646,2450788523,2458213969
 
 
 // The Number 
-// notes : kj415j45's Wishlist for Y4S3 (mnk,pvp)
+//notes : kj415j45's Wishlist for Y4S3 (mnk,pvp)
 dimwishlist:item=2492081469&perks=3250034553,1561002382,1645158859,2213355989
 dimwishlist:item=2492081469&perks=3250034553,1561002382,1645158859,3108830275
 dimwishlist:item=2492081469&perks=3250034553,1561002382,2450788523,2213355989
@@ -9561,17 +9561,17 @@ dimwishlist:item=2492081469&perks=202670084,679225683,2869569095,3108830275
 
 
 // Quickfang 
-// notes : kj415j45's Wishlist for Y4S3 (god-pve)
+//notes : kj415j45's Wishlist for Y4S3 (god-pve)
 dimwishlist:item=2782325300&perks=3666208348,269888150,2590710093,4049631843
 
 
 // Quickfang 
-// notes : kj415j45's Wishlist for Y4S3 (god-pvp)
+//notes : kj415j45's Wishlist for Y4S3 (god-pvp)
 dimwishlist:item=2782325300&perks=1261178282,269888150,2590710093,354401740
 
 
 // Quickfang 
-// notes : kj415j45's Wishlist for Y4S3 (pve)
+//notes : kj415j45's Wishlist for Y4S3 (pve)
 dimwishlist:item=2782325300&perks=3666208348,269888150,2726471870,4049631843
 dimwishlist:item=2782325300&perks=3666208348,269888150,2726471870,354401740
 dimwishlist:item=2782325300&perks=3666208348,269888150,2726471870,1685431615
@@ -9593,7 +9593,7 @@ dimwishlist:item=2782325300&perks=2827049491,269888150,2590710093,1685431615
 
 
 // Quickfang 
-// notes : kj415j45's Wishlist for Y4S3 (pvp)
+//notes : kj415j45's Wishlist for Y4S3 (pvp)
 dimwishlist:item=2782325300&perks=1261178282,269888150,2726471870,354401740
 dimwishlist:item=2782325300&perks=1261178282,269888150,2590710093,354401740
 dimwishlist:item=2782325300&perks=436053704,269888150,2726471870,354401740
@@ -9601,18 +9601,18 @@ dimwishlist:item=2782325300&perks=436053704,269888150,2590710093,354401740
 
 
 // Eternity's Edge 
-// notes : kj415j45's Wishlist for Y4S3 (god-pve)
+//notes : kj415j45's Wishlist for Y4S3 (god-pve)
 dimwishlist:item=2782325301&perks=3666208348,2363751990,2030760728,3913600130
 dimwishlist:item=2782325301&perks=3666208348,2363751990,1749209109,3913600130
 
 
 // Eternity's Edge 
-// notes : kj415j45's Wishlist for Y4S3 (god-pvp)
+//notes : kj415j45's Wishlist for Y4S3 (god-pvp)
 dimwishlist:item=2782325301&perks=1261178282,2363751990,2590710093,354401740
 
 
 // Eternity's Edge 
-// notes : kj415j45's Wishlist for Y4S3 (pve)
+//notes : kj415j45's Wishlist for Y4S3 (pve)
 dimwishlist:item=2782325301&perks=3666208348,2363751990,2726471870,3913600130
 dimwishlist:item=2782325301&perks=3666208348,2363751990,2726471870,354401740
 dimwishlist:item=2782325301&perks=3666208348,2363751990,2030760728,3913600130
@@ -9628,7 +9628,7 @@ dimwishlist:item=2782325301&perks=2827049491,2363751990,1749209109,354401740
 
 
 // Eternity's Edge 
-// notes : kj415j45's Wishlist for Y4S3 (pvp)
+//notes : kj415j45's Wishlist for Y4S3 (pvp)
 dimwishlist:item=2782325301&perks=1261178282,2363751990,2590710093,354401740
 dimwishlist:item=2782325301&perks=1261178282,2363751990,2726471870,354401740
 dimwishlist:item=2782325301&perks=436053704,2363751990,2590710093,354401740
@@ -9636,17 +9636,17 @@ dimwishlist:item=2782325301&perks=436053704,2363751990,2726471870,354401740
 
 
 // Crown-Splitter 
-// notes : kj415j45's Wishlist for Y4S3 (god-pve)
+//notes : kj415j45's Wishlist for Y4S3 (god-pve)
 dimwishlist:item=2782325302&perks=3666208348,2349202967,2244851822,3913600130
 
 
 // Crown-Splitter 
-// notes : kj415j45's Wishlist for Y4S3 (god-pvp)
+//notes : kj415j45's Wishlist for Y4S3 (god-pvp)
 dimwishlist:item=2782325302&perks=1261178282,2349202967,2590710093,3016987351
 
 
 // Crown-Splitter 
-// notes : kj415j45's Wishlist for Y4S3 (pve)
+//notes : kj415j45's Wishlist for Y4S3 (pve)
 dimwishlist:item=2782325302&perks=3666208348,2349202967,1749209109,3913600130
 dimwishlist:item=2782325302&perks=3666208348,2349202967,1749209109,1546637391
 dimwishlist:item=2782325302&perks=3666208348,2349202967,1749209109,3016987351
@@ -9668,7 +9668,7 @@ dimwishlist:item=2782325302&perks=2827049491,2349202967,2726471870,3016987351
 
 
 // Crown-Splitter 
-// notes : kj415j45's Wishlist for Y4S3 (pvp)
+//notes : kj415j45's Wishlist for Y4S3 (pvp)
 dimwishlist:item=2782325302&perks=1261178282,2349202967,2590710093,1546637391
 dimwishlist:item=2782325302&perks=1261178282,2349202967,2590710093,3016987351
 dimwishlist:item=2782325302&perks=436053704,2349202967,2590710093,1546637391
@@ -9676,7 +9676,7 @@ dimwishlist:item=2782325302&perks=436053704,2349202967,2590710093,3016987351
 
 
 // Memory Interdict 
-// notes : kj415j45's Wishlist for Y4S3 (mnk,god-pve)
+//notes : kj415j45's Wishlist for Y4S3 (mnk,god-pve)
 dimwishlist:item=3165547384&perks=3525010810,3301904089,3300816228,2396489472
 dimwishlist:item=3165547384&perks=3525010810,3301904089,3300816228,3592538738
 dimwishlist:item=3165547384&perks=3525010810,3301904089,951095735,2396489472
@@ -9688,13 +9688,13 @@ dimwishlist:item=3165547384&perks=3798852852,3301904089,951095735,3592538738
 
 
 // Memory Interdict 
-// notes : kj415j45's Wishlist for Y4S3 (mnk,god-pvp)
+//notes : kj415j45's Wishlist for Y4S3 (mnk,god-pvp)
 dimwishlist:item=3165547384&perks=3525010810,3301904089,951095735,2396489472
 dimwishlist:item=3165547384&perks=3525010810,3301904089,951095735,3425386926
 
 
 // Memory Interdict 
-// notes : kj415j45's Wishlist for Y4S3 (mnk,pve)
+//notes : kj415j45's Wishlist for Y4S3 (mnk,pve)
 dimwishlist:item=3165547384&perks=3525010810,3301904089,2284787283,3425386926
 dimwishlist:item=3165547384&perks=3525010810,3301904089,2284787283,2396489472
 dimwishlist:item=3165547384&perks=3525010810,3301904089,2284787283,960810156
@@ -10098,7 +10098,7 @@ dimwishlist:item=3165547384&perks=1441682018,3492396210,3436462433,3108830275
 
 
 // Memory Interdict 
-// notes : kj415j45's Wishlist for Y4S3 (pvp,mnk)
+//notes : kj415j45's Wishlist for Y4S3 (pvp,mnk)
 dimwishlist:item=3165547384&perks=3525010810,3373736292,951095735,2396489472
 dimwishlist:item=3165547384&perks=3525010810,3373736292,951095735,3108830275
 dimwishlist:item=3165547384&perks=3525010810,3373736292,951095735,3425386926
@@ -10174,7 +10174,7 @@ dimwishlist:item=3165547384&perks=1441682018,409831596,706527188,960810156
 
 
 // Vision of Confluence 
-// notes : kj415j45's Wishlist for Y4S3 (mnk,god-pve)
+//notes : kj415j45's Wishlist for Y4S3 (mnk,god-pve)
 dimwishlist:item=3186018373&perks=3250034553,679225683,2450788523,3824105627
 dimwishlist:item=3186018373&perks=3250034553,679225683,2946784966,3824105627
 dimwishlist:item=3186018373&perks=3250034553,3230963543,2450788523,3824105627
@@ -10186,7 +10186,7 @@ dimwishlist:item=3186018373&perks=1467527085,3230963543,2946784966,3824105627
 
 
 // Vision of Confluence 
-// notes : kj415j45's Wishlist for Y4S3 (mnk,god-pvp)
+//notes : kj415j45's Wishlist for Y4S3 (mnk,god-pvp)
 dimwishlist:item=3186018373&perks=3250034553,1561002382,2450788523,3824105627
 dimwishlist:item=3186018373&perks=3250034553,1561002382,2450788523,1015611457
 dimwishlist:item=3186018373&perks=3250034553,1885400500,2450788523,3824105627
@@ -10198,7 +10198,7 @@ dimwishlist:item=3186018373&perks=1482024992,1885400500,2450788523,1015611457
 
 
 // Vision of Confluence 
-// notes : kj415j45's Wishlist for Y4S3 (pve,mnk)
+//notes : kj415j45's Wishlist for Y4S3 (pve,mnk)
 dimwishlist:item=3186018373&perks=3250034553,1561002382,2450788523,3824105627
 dimwishlist:item=3186018373&perks=3250034553,1561002382,2450788523,1015611457
 dimwishlist:item=3186018373&perks=3250034553,1561002382,2450788523,4104185692
@@ -10382,7 +10382,7 @@ dimwishlist:item=3186018373&perks=1482024992,3230963543,3436462433,4104185692
 
 
 // Vision of Confluence 
-// notes : kj415j45's Wishlist for Y4S3 (mnk,pvp)
+//notes : kj415j45's Wishlist for Y4S3 (mnk,pvp)
 dimwishlist:item=3186018373&perks=3250034553,1561002382,2387244414,3824105627
 dimwishlist:item=3186018373&perks=3250034553,1561002382,2387244414,1015611457
 dimwishlist:item=3186018373&perks=3250034553,1561002382,2450788523,3824105627
@@ -10440,19 +10440,19 @@ dimwishlist:item=3186018373&perks=1482024992,679225683,2946784966,1015611457
 
 
 // Found Verdict 
-// notes : kj415j45's Wishlist for Y4S3 (mnk,god-pve)
+//notes : kj415j45's Wishlist for Y4S3 (mnk,god-pve)
 dimwishlist:item=3197270240&perks=1047830412,791862061,3300816228,1546637391
 dimwishlist:item=3197270240&perks=1047830412,791862061,3300816228,2450788523
 
 
 // Found Verdict 
-// notes : kj415j45's Wishlist for Y4S3 (mnk,god-pvp)
+//notes : kj415j45's Wishlist for Y4S3 (mnk,god-pvp)
 dimwishlist:item=3197270240&perks=1047830412,791862061,3161816588,2450788523
 dimwishlist:item=3197270240&perks=1047830412,791862061,3161816588,1546637391
 
 
 // Found Verdict 
-// notes : kj415j45's Wishlist for Y4S3 (mnk,pve)
+//notes : kj415j45's Wishlist for Y4S3 (mnk,pve)
 dimwishlist:item=3197270240&perks=1047830412,3142289711,3161816588,2679249093
 dimwishlist:item=3197270240&perks=1047830412,3142289711,3161816588,1546637391
 dimwishlist:item=3197270240&perks=1047830412,3142289711,3161816588,2450788523
@@ -10504,7 +10504,7 @@ dimwishlist:item=3197270240&perks=1482024992,791862061,3300816228,2450788523
 
 
 // Found Verdict 
-// notes : kj415j45's Wishlist for Y4S3 (pvp,mnk)
+//notes : kj415j45's Wishlist for Y4S3 (pvp,mnk)
 dimwishlist:item=3197270240&perks=1047830412,791862061,3161816588,2450788523
 dimwishlist:item=3197270240&perks=1047830412,791862061,3161816588,1546637391
 dimwishlist:item=3197270240&perks=1047830412,791862061,3108830275,2450788523
@@ -10512,7 +10512,7 @@ dimwishlist:item=3197270240&perks=1047830412,791862061,3108830275,1546637391
 
 
 // Pleiades Corrector 
-// notes : kj415j45's Wishlist for Y4S3 (mnk,god-pve)
+//notes : kj415j45's Wishlist for Y4S3 (mnk,god-pve)
 dimwishlist:item=3556999246&perks=1392496348,1885400500,3436462433,3592538738
 dimwishlist:item=3556999246&perks=1392496348,1885400500,1168162263,3592538738
 dimwishlist:item=3556999246&perks=1392496348,3230963543,3436462433,3592538738
@@ -10524,7 +10524,7 @@ dimwishlist:item=3556999246&perks=3661387068,3230963543,1168162263,3592538738
 
 
 // Pleiades Corrector 
-// notes : kj415j45's Wishlist for Y4S3 (mnk,god-pvp)
+//notes : kj415j45's Wishlist for Y4S3 (mnk,god-pvp)
 dimwishlist:item=3556999246&perks=3250034553,1561002382,1168162263,3592538738
 dimwishlist:item=3556999246&perks=3250034553,1885400500,1168162263,3592538738
 dimwishlist:item=3556999246&perks=1482024992,1561002382,1168162263,3592538738
@@ -10532,7 +10532,7 @@ dimwishlist:item=3556999246&perks=1482024992,1885400500,1168162263,3592538738
 
 
 // Pleiades Corrector 
-// notes : kj415j45's Wishlist for Y4S3 (mnk,pve)
+//notes : kj415j45's Wishlist for Y4S3 (mnk,pve)
 dimwishlist:item=3556999246&perks=4090651448,1561002382,2869569095,3592538738
 dimwishlist:item=3556999246&perks=4090651448,1561002382,2869569095,3523296417
 dimwishlist:item=3556999246&perks=4090651448,1561002382,2869569095,2458213969
@@ -10776,7 +10776,7 @@ dimwishlist:item=3556999246&perks=3661387068,679225683,1820235745,2458213969
 
 
 // Pleiades Corrector 
-// notes : kj415j45's Wishlist for Y4S3 (mnk,pvp)
+//notes : kj415j45's Wishlist for Y4S3 (mnk,pvp)
 dimwishlist:item=3556999246&perks=3250034553,1561002382,1168162263,3592538738
 dimwishlist:item=3556999246&perks=3250034553,1561002382,1820235745,3592538738
 dimwishlist:item=3556999246&perks=3250034553,1885400500,1168162263,3592538738
@@ -10804,7 +10804,7 @@ dimwishlist:item=3556999246&perks=4090651448,3230963543,1820235745,3592538738
 
 
 // Praedyth's Revenge 
-// notes : kj415j45's Wishlist for Y4S3 (mnk,god-pve)
+//notes : kj415j45's Wishlist for Y4S3 (mnk,god-pve)
 dimwishlist:item=3653573172&perks=1392496348,3177308360,3418782618,2213355989
 dimwishlist:item=3653573172&perks=1392496348,3177308360,3418782618,4104185692
 dimwishlist:item=3653573172&perks=1482024992,3177308360,3418782618,2213355989
@@ -10812,13 +10812,13 @@ dimwishlist:item=3653573172&perks=1482024992,3177308360,3418782618,4104185692
 
 
 // Praedyth's Revenge 
-// notes : kj415j45's Wishlist for Y4S3 (mnk,god-pvp)
+//notes : kj415j45's Wishlist for Y4S3 (mnk,god-pvp)
 dimwishlist:item=3653573172&perks=4090651448,3142289711,2866798147,2213355989
 dimwishlist:item=3653573172&perks=1840239774,3142289711,2866798147,2213355989
 
 
 // Praedyth's Revenge 
-// notes : kj415j45's Wishlist for Y4S3 (mnk,god-pve)
+//notes : kj415j45's Wishlist for Y4S3 (mnk,god-pve)
 dimwishlist:item=3653573172&perks=1392496348,3142289711,2866798147,3824105627
 dimwishlist:item=3653573172&perks=1392496348,3142289711,588594999,3824105627
 dimwishlist:item=3653573172&perks=1482024992,3142289711,2866798147,3824105627
@@ -10826,7 +10826,7 @@ dimwishlist:item=3653573172&perks=1482024992,3142289711,588594999,3824105627
 
 
 // Praedyth's Revenge 
-// notes : kj415j45's Wishlist for Y4S3 (mnk,pve)
+//notes : kj415j45's Wishlist for Y4S3 (mnk,pve)
 dimwishlist:item=3653573172&perks=1392496348,106909392,3418782618,3824105627
 dimwishlist:item=3653573172&perks=1392496348,106909392,3418782618,2213355989
 dimwishlist:item=3653573172&perks=1392496348,106909392,3418782618,4104185692
@@ -10911,7 +10911,7 @@ dimwishlist:item=3653573172&perks=3661387068,3142289711,588594999,4104185692
 
 
 // Praedyth's Revenge 
-// notes : kj415j45's Wishlist for Y4S3 (pvp,mnk)
+//notes : kj415j45's Wishlist for Y4S3 (pvp,mnk)
 dimwishlist:item=3653573172&perks=202670084,3142289711,2866798147,2213355989
 dimwishlist:item=3653573172&perks=202670084,3142289711,706527188,2213355989
 dimwishlist:item=3653573172&perks=1840239774,3142289711,2866798147,2213355989
@@ -10921,7 +10921,7 @@ dimwishlist:item=3653573172&perks=4090651448,3142289711,706527188,2213355989
 
 
 // Shayura's Wrath 
-// notes : kj415j45's Wishlist for Y4S3 (mnk,god-pve)
+//notes : kj415j45's Wishlist for Y4S3 (mnk,god-pve)
 dimwishlist:item=3682803680&perks=1482024992,3230963543,2450788523,1015611457
 dimwishlist:item=3682803680&perks=1482024992,3230963543,2946784966,1015611457
 dimwishlist:item=3682803680&perks=1482024992,3142289711,2450788523,1015611457
@@ -10933,7 +10933,7 @@ dimwishlist:item=3682803680&perks=3250034553,3142289711,2946784966,1015611457
 
 
 // Shayura's Wrath 
-// notes : kj415j45's Wishlist for Y4S3 (mnk,god-pvp)
+//notes : kj415j45's Wishlist for Y4S3 (mnk,god-pvp)
 dimwishlist:item=3682803680&perks=1482024992,3142289711,2450788523,1015611457
 dimwishlist:item=3682803680&perks=1482024992,3142289711,1570042021,1015611457
 dimwishlist:item=3682803680&perks=3250034553,3142289711,2450788523,1015611457
@@ -10941,7 +10941,7 @@ dimwishlist:item=3682803680&perks=3250034553,3142289711,1570042021,1015611457
 
 
 // Shayura's Wrath 
-// notes : kj415j45's Wishlist for Y4S3 (pve,mnk)
+//notes : kj415j45's Wishlist for Y4S3 (pve,mnk)
 dimwishlist:item=3682803680&perks=1482024992,106909392,2450788523,1015611457
 dimwishlist:item=3682803680&perks=1482024992,106909392,2450788523,11612903
 dimwishlist:item=3682803680&perks=1482024992,106909392,2946784966,1015611457
@@ -11017,7 +11017,7 @@ dimwishlist:item=3682803680&perks=1392496348,3142289711,1570042021,11612903
 
 
 // Shayura's Wrath 
-// notes : kj415j45's Wishlist for Y4S3 (pvp,mnk)
+//notes : kj415j45's Wishlist for Y4S3 (pvp,mnk)
 dimwishlist:item=3682803680&perks=839105230,3142289711,2450788523,1015611457
 dimwishlist:item=3682803680&perks=839105230,3142289711,2450788523,957782887
 dimwishlist:item=3682803680&perks=839105230,3142289711,2450788523,1890422124
@@ -11093,8 +11093,8 @@ dimwishlist:item=3682803680&perks=3250034553,106909392,1570042021,1890422124
 
 
 // Corrective Measure 
-// notes : kj415j45's Wishlist for Y4S3 (Timelost) 
-// notes : kj415j45's Wishlist for Y4S3 (mnk,god-pve)
+//notes : kj415j45's Wishlist for Y4S3 (Timelost) 
+//notes : kj415j45's Wishlist for Y4S3 (mnk,god-pve)
 dimwishlist:item=3796510434&perks=1482024992,106909392,2779035018,3824105627
 dimwishlist:item=3796510434&perks=1482024992,106909392,2779035018,4049631843
 dimwishlist:item=3796510434&perks=1482024992,106909392,3436462433,3824105627
@@ -11106,8 +11106,8 @@ dimwishlist:item=3796510434&perks=1467527085,106909392,3436462433,4049631843
 
 
 // Corrective Measure 
-// notes : kj415j45's Wishlist for Y4S3 (Timelost) 
-// notes : kj415j45's Wishlist for Y4S3 (mnk,god-pvp)
+//notes : kj415j45's Wishlist for Y4S3 (Timelost) 
+//notes : kj415j45's Wishlist for Y4S3 (mnk,god-pvp)
 dimwishlist:item=3796510434&perks=3250034553,3142289711,3523296417,3824105627
 dimwishlist:item=3796510434&perks=3250034553,3142289711,3523296417,2213355989
 dimwishlist:item=3796510434&perks=1482024992,3142289711,3523296417,3824105627
@@ -11115,8 +11115,8 @@ dimwishlist:item=3796510434&perks=1482024992,3142289711,3523296417,2213355989
 
 
 // Corrective Measure 
-// notes : kj415j45's Wishlist for Y4S3 (Timelost) 
-// notes : kj415j45's Wishlist for Y4S3 (mnk,pve)
+//notes : kj415j45's Wishlist for Y4S3 (Timelost) 
+//notes : kj415j45's Wishlist for Y4S3 (mnk,pve)
 dimwishlist:item=3796510434&perks=1392496348,106909392,2779035018,3824105627
 dimwishlist:item=3796510434&perks=1392496348,106909392,2779035018,4049631843
 dimwishlist:item=3796510434&perks=1392496348,106909392,2779035018,2726471870
@@ -11216,8 +11216,8 @@ dimwishlist:item=3796510434&perks=1467527085,3230963543,1820235745,2726471870
 
 
 // Corrective Measure 
-// notes : kj415j45's Wishlist for Y4S3 (Timelost) 
-// notes : kj415j45's Wishlist for Y4S3 (mnk,pvp)
+//notes : kj415j45's Wishlist for Y4S3 (Timelost) 
+//notes : kj415j45's Wishlist for Y4S3 (mnk,pvp)
 dimwishlist:item=3796510434&perks=3250034553,3142289711,1359896290,3824105627
 dimwishlist:item=3796510434&perks=3250034553,3142289711,1359896290,1890422124
 dimwishlist:item=3796510434&perks=3250034553,3142289711,1359896290,2213355989
@@ -11269,7 +11269,7 @@ dimwishlist:item=3796510434&perks=4090651448,2420895100,3523296417,2213355989
 
 
 // Finite Impactor 
-// notes : kj415j45's Wishlist for Y4S3 (mnk,god-pve)
+//notes : kj415j45's Wishlist for Y4S3 (mnk,god-pve)
 dimwishlist:item=3813153080&perks=1926090095,1885400500,2946784966,4049631843
 dimwishlist:item=3813153080&perks=1926090095,1885400500,2946784966,2458213969
 dimwishlist:item=3813153080&perks=1926090095,1885400500,2450788523,4049631843
@@ -11297,7 +11297,7 @@ dimwishlist:item=3813153080&perks=1926090092,679225683,2450788523,2458213969
 
 
 // Finite Impactor 
-// notes : kj415j45's Wishlist for Y4S3 (mnk,god-pvp)
+//notes : kj415j45's Wishlist for Y4S3 (mnk,god-pvp)
 dimwishlist:item=3813153080&perks=1926090092,1885400500,1570042021,591790007
 dimwishlist:item=3813153080&perks=1926090092,1885400500,2450788523,591790007
 dimwishlist:item=3813153080&perks=1926090092,1561002382,1570042021,591790007
@@ -11313,7 +11313,7 @@ dimwishlist:item=3813153080&perks=1926090091,679225683,2450788523,591790007
 
 
 // Finite Impactor 
-// notes : kj415j45's Wishlist for Y4S3 (pve,mnk)
+//notes : kj415j45's Wishlist for Y4S3 (pve,mnk)
 dimwishlist:item=3813153080&perks=1926090095,1561002382,2946784966,591790007
 dimwishlist:item=3813153080&perks=1926090095,1561002382,2946784966,11551321
 dimwishlist:item=3813153080&perks=1926090095,1561002382,2946784966,4049631843
@@ -11557,7 +11557,7 @@ dimwishlist:item=3813153080&perks=1926090094,679225683,1570042021,2458213969
 
 
 // Finite Impactor 
-// notes : kj415j45's Wishlist for Y4S3 (mnk,pvp)
+//notes : kj415j45's Wishlist for Y4S3 (mnk,pvp)
 dimwishlist:item=3813153080&perks=1926090095,1885400500,1570042021,699525795
 dimwishlist:item=3813153080&perks=1926090095,1885400500,1570042021,591790007
 dimwishlist:item=3813153080&perks=1926090095,1885400500,2450788523,699525795
@@ -11681,8 +11681,8 @@ dimwishlist:item=3813153080&perks=1926090094,679225683,2866798147,591790007
 
 
 // Shayura's Wrath 
-// notes : kj415j45's Wishlist for Y4S3 (Adept) 
-// notes : kj415j45's Wishlist for Y4S3 (mnk,god-pve)
+//notes : kj415j45's Wishlist for Y4S3 (Adept) 
+//notes : kj415j45's Wishlist for Y4S3 (mnk,god-pve)
 dimwishlist:item=4023807721&perks=1482024992,3230963543,2450788523,1015611457
 dimwishlist:item=4023807721&perks=1482024992,3230963543,2946784966,1015611457
 dimwishlist:item=4023807721&perks=1482024992,3142289711,2450788523,1015611457
@@ -11694,8 +11694,8 @@ dimwishlist:item=4023807721&perks=3250034553,3142289711,2946784966,1015611457
 
 
 // Shayura's Wrath 
-// notes : kj415j45's Wishlist for Y4S3 (Adept) 
-// notes : kj415j45's Wishlist for Y4S3 (mnk,god-pvp)
+//notes : kj415j45's Wishlist for Y4S3 (Adept) 
+//notes : kj415j45's Wishlist for Y4S3 (mnk,god-pvp)
 dimwishlist:item=4023807721&perks=1482024992,3142289711,2450788523,1015611457
 dimwishlist:item=4023807721&perks=1482024992,3142289711,1570042021,1015611457
 dimwishlist:item=4023807721&perks=3250034553,3142289711,2450788523,1015611457
@@ -11703,8 +11703,8 @@ dimwishlist:item=4023807721&perks=3250034553,3142289711,1570042021,1015611457
 
 
 // Shayura's Wrath 
-// notes : kj415j45's Wishlist for Y4S3 (Adept) 
-// notes : kj415j45's Wishlist for Y4S3 (mnk,pve)
+//notes : kj415j45's Wishlist for Y4S3 (Adept) 
+//notes : kj415j45's Wishlist for Y4S3 (mnk,pve)
 dimwishlist:item=4023807721&perks=1482024992,106909392,2946784966,1015611457
 dimwishlist:item=4023807721&perks=1482024992,106909392,2946784966,11612903
 dimwishlist:item=4023807721&perks=1482024992,106909392,2450788523,1015611457
@@ -11780,8 +11780,8 @@ dimwishlist:item=4023807721&perks=4090651448,3142289711,1570042021,11612903
 
 
 // Shayura's Wrath 
-// notes : kj415j45's Wishlist for Y4S3 (Adept) 
-// notes : kj415j45's Wishlist for Y4S3 (mnk,pvp)
+//notes : kj415j45's Wishlist for Y4S3 (Adept) 
+//notes : kj415j45's Wishlist for Y4S3 (mnk,pvp)
 dimwishlist:item=4023807721&perks=839105230,3142289711,2450788523,1015611457
 dimwishlist:item=4023807721&perks=839105230,3142289711,2450788523,957782887
 dimwishlist:item=4023807721&perks=839105230,3142289711,2450788523,1890422124
@@ -11857,7 +11857,7 @@ dimwishlist:item=4023807721&perks=3250034553,106909392,1570042021,1890422124
 
 
 // Hezen Vengeance 
-// notes : kj415j45's Wishlist for Y4S3 (mnk,god-pve)
+//notes : kj415j45's Wishlist for Y4S3 (mnk,god-pve)
 dimwishlist:item=4050645223&perks=3525010810,3796465595,951095735,3927722942
 dimwishlist:item=4050645223&perks=3525010810,3796465595,951095735,1546637391
 dimwishlist:item=4050645223&perks=3525010810,3796465595,3300816228,3927722942
@@ -11865,12 +11865,12 @@ dimwishlist:item=4050645223&perks=3525010810,3796465595,3300816228,1546637391
 
 
 // Hezen Vengeance 
-// notes : kj415j45's Wishlist for Y4S3 (mnk,god-pvp)
+//notes : kj415j45's Wishlist for Y4S3 (mnk,god-pvp)
 dimwishlist:item=4050645223&perks=3525010810,1996142143,951095735,1275731761
 
 
 // Hezen Vengeance 
-// notes : kj415j45's Wishlist for Y4S3 (pve,mnk)
+//notes : kj415j45's Wishlist for Y4S3 (pve,mnk)
 dimwishlist:item=4050645223&perks=3525010810,3796465595,3643424744,1275731761
 dimwishlist:item=4050645223&perks=3525010810,3796465595,3643424744,3927722942
 dimwishlist:item=4050645223&perks=3525010810,3796465595,3643424744,1546637391
@@ -11970,7 +11970,7 @@ dimwishlist:item=4050645223&perks=981914802,1996142143,3977735242,3592538738
 
 
 // Hezen Vengeance 
-// notes : kj415j45's Wishlist for Y4S3 (mnk,pvp)
+//notes : kj415j45's Wishlist for Y4S3 (mnk,pvp)
 dimwishlist:item=4050645223&perks=3525010810,1996142143,3977735242,1275731761
 dimwishlist:item=4050645223&perks=3525010810,1996142143,951095735,1275731761
 dimwishlist:item=4050645223&perks=3525010810,2822142346,3977735242,1275731761
@@ -11982,7 +11982,7 @@ dimwishlist:item=4050645223&perks=3798852852,2822142346,951095735,1275731761
 
 
 // Empty Vessel 
-// notes : kj415j45's Wishlist for Y4S3 (mnk,god-pve)
+//notes : kj415j45's Wishlist for Y4S3 (mnk,god-pve)
 dimwishlist:item=4255586669&perks=3525010810,3032599245,2869569095,3108830275
 dimwishlist:item=4255586669&perks=3525010810,3032599245,2869569095,4049631843
 dimwishlist:item=4255586669&perks=3525010810,3032599245,2010801679,3108830275
@@ -12022,7 +12022,7 @@ dimwishlist:item=4255586669&perks=1441682018,3301904089,3300816228,4049631843
 
 
 // Empty Vessel 
-// notes : kj415j45's Wishlist for Y4S3 (mnk,god-pvp)
+//notes : kj415j45's Wishlist for Y4S3 (mnk,god-pvp)
 dimwishlist:item=4255586669&perks=3525010810,3301904089,3300816228,1546637391
 dimwishlist:item=4255586669&perks=3525010810,3301904089,3300816228,1683379515
 dimwishlist:item=4255586669&perks=3525010810,3301904089,706527188,1546637391
@@ -12034,7 +12034,7 @@ dimwishlist:item=4255586669&perks=3525010810,409831596,706527188,1683379515
 
 
 // Empty Vessel 
-// notes : kj415j45's Wishlist for Y4S3 (pve,mnk)
+//notes : kj415j45's Wishlist for Y4S3 (pve,mnk)
 dimwishlist:item=4255586669&perks=3798852852,3032599245,2869569095,960810156
 dimwishlist:item=4255586669&perks=3798852852,3032599245,2869569095,1546637391
 dimwishlist:item=4255586669&perks=3798852852,3032599245,2869569095,3108830275
@@ -12294,7 +12294,7 @@ dimwishlist:item=4255586669&perks=981914802,409831596,3436462433,4049631843
 
 
 // Empty Vessel 
-// notes : kj415j45's Wishlist for Y4S3 (pvp,mnk)
+//notes : kj415j45's Wishlist for Y4S3 (pvp,mnk)
 dimwishlist:item=4255586669&perks=3525010810,3301904089,3300816228,1546637391
 dimwishlist:item=4255586669&perks=3525010810,3301904089,3300816228,1683379515
 dimwishlist:item=4255586669&perks=3525010810,3301904089,3300816228,3108830275
@@ -12352,7 +12352,7 @@ dimwishlist:item=4255586669&perks=1441682018,409831596,2010801679,3108830275
 
 
 // Hung Jury SR4 
-// notes : kj415j45's Wishlist for Y4S3 (mnk,god-pve)
+//notes : kj415j45's Wishlist for Y4S3 (mnk,god-pve)
 dimwishlist:item=4281371574&perks=4090651448,106909392,1570042021,3592538738
 dimwishlist:item=4281371574&perks=4090651448,106909392,1570042021,3824105627
 dimwishlist:item=4281371574&perks=4090651448,106909392,3436462433,3592538738
@@ -12380,7 +12380,7 @@ dimwishlist:item=4281371574&perks=1482024992,3230963543,3436462433,3824105627
 
 
 // Hung Jury SR4 
-// notes : kj415j45's Wishlist for Y4S3 (mnk,god-pvp)
+//notes : kj415j45's Wishlist for Y4S3 (mnk,god-pvp)
 dimwishlist:item=4281371574&perks=3250034553,3142289711,1570042021,2551157718
 dimwishlist:item=4281371574&perks=3250034553,3142289711,1570042021,3038247973
 dimwishlist:item=4281371574&perks=3250034553,3142289711,1820235745,2551157718
@@ -12392,7 +12392,7 @@ dimwishlist:item=4281371574&perks=4090651448,3142289711,1820235745,3038247973
 
 
 // Hung Jury SR4 
-// notes : kj415j45's Wishlist for Y4S3 (pve,mnk)
+//notes : kj415j45's Wishlist for Y4S3 (pve,mnk)
 dimwishlist:item=4281371574&perks=4090651448,106909392,1820235745,3592538738
 dimwishlist:item=4281371574&perks=4090651448,106909392,1820235745,4049631843
 dimwishlist:item=4281371574&perks=4090651448,106909392,1820235745,3824105627
@@ -12576,7 +12576,7 @@ dimwishlist:item=4281371574&perks=1482024992,3177308360,3436462433,3824105627
 
 
 // Hung Jury SR4 
-// notes : kj415j45's Wishlist for Y4S3 (pvp,mnk)
+//notes : kj415j45's Wishlist for Y4S3 (pvp,mnk)
 dimwishlist:item=4281371574&perks=1467527085,3142289711,1570042021,2551157718
 dimwishlist:item=4281371574&perks=1467527085,3142289711,1570042021,3038247973
 dimwishlist:item=4281371574&perks=1467527085,3142289711,1570042021,3824105627
