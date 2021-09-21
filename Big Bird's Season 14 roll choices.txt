@@ -2,20 +2,20 @@ title:Big Bird's Season 14 roll choices
 description:This list includes rolls from Season 14.Biased towards Mouse and Keyboard.
 
 // Riiswalker 
-//notes: Big Bird's Season 14 roll choices (god-pvp)
+//notes:Big Bird's Season 14 roll choices (god-pvp)
 
 //Riiswalker
-//notes: GodPvP tags:god-pvp
+//notes:GodPvP tags:god-pvp
 dimwishlist:item=108221785&perks=1332244541,3142289711,706527188,591790007
 
 
 // Riiswalker 
-//notes: Big Bird's Season 14 roll choices (god-pve)
+//notes:Big Bird's Season 14 roll choices (god-pve)
 dimwishlist:item=108221785&perks=1332244541,791862061,2039302152,1546637391
 
 
 // Riiswalker 
-//notes: Big Bird's Season 14 roll choices (pvp)
+//notes:Big Bird's Season 14 roll choices (pvp)
 dimwishlist:item=108221785&perks=1332244541,3142289711,706527188,591790007
 dimwishlist:item=108221785&perks=1332244541,3142289711,706527188,2450788523
 dimwishlist:item=108221785&perks=1332244541,3142289711,706527188,1546637391
@@ -73,7 +73,7 @@ dimwishlist:item=108221785&perks=1482024992,791862061,3436462433,1546637391
 
 
 // Riiswalker 
-//notes: Big Bird's Season 14 roll choices (pve)
+//notes:Big Bird's Season 14 roll choices (pve)
 dimwishlist:item=108221785&perks=1332244541,791862061,2039302152,1546637391
 dimwishlist:item=108221785&perks=1332244541,791862061,2039302152,4082225868
 dimwishlist:item=108221785&perks=1332244541,1087426260,2039302152,1546637391
@@ -95,19 +95,19 @@ dimwishlist:item=108221785&perks=4090651448,106909392,2039302152,4082225868
 
 
 // The Deicide 
-//notes: Big Bird's Season 14 roll choices (god-pve)
+//notes:Big Bird's Season 14 roll choices (god-pve)
 dimwishlist:item=217140611&perks=1332244541,1087426260,1556840489,1546637391
 dimwishlist:item=217140611&perks=1332244541,2420895100,1556840489,1546637391
 
 
 // The Deicide 
-//notes: Big Bird's Season 14 roll choices (god-pvp)
+//notes:Big Bird's Season 14 roll choices (god-pvp)
 dimwishlist:item=217140611&perks=1047830412,3142289711,3161816588,1546637391
 dimwishlist:item=217140611&perks=1047830412,3142289711,3161816588,2679249093
 
 
 // The Deicide 
-//notes: Big Bird's Season 14 roll choices (pve)
+//notes:Big Bird's Season 14 roll choices (pve)
 dimwishlist:item=217140611&perks=1332244541,1087426260,1556840489,1546637391
 dimwishlist:item=217140611&perks=1332244541,1087426260,1556840489,2679249093
 dimwishlist:item=217140611&perks=1332244541,1087426260,3161816588,1546637391
@@ -147,7 +147,7 @@ dimwishlist:item=217140611&perks=4090651448,106909392,3161816588,2679249093
 
 
 // The Deicide 
-//notes: Big Bird's Season 14 roll choices (pvp)
+//notes:Big Bird's Season 14 roll choices (pvp)
 dimwishlist:item=217140611&perks=1047830412,3142289711,3161816588,1546637391
 dimwishlist:item=217140611&perks=1047830412,3142289711,3161816588,2679249093
 dimwishlist:item=217140611&perks=1047830412,3142289711,3161816588,3592538738
@@ -205,18 +205,18 @@ dimwishlist:item=217140611&perks=1482024992,679225683,1866048759,3592538738
 
 
 // Ignition Code 
-//notes: Big Bird's Season 14 roll choices (god-pve)
+//notes:Big Bird's Season 14 roll choices (god-pve)
 dimwishlist:item=304659313&perks=3525010810,3032599245,3161816588,4049631843
 dimwishlist:item=304659313&perks=3525010810,3301904089,3161816588,4049631843
 
 
 // Ignition Code 
-//notes: Big Bird's Season 14 roll choices (god-pvp)
+//notes:Big Bird's Season 14 roll choices (god-pvp)
 dimwishlist:item=304659313&perks=3525010810,409831596,706527188,1546637391
 
 
 // Ignition Code 
-//notes: Big Bird's Season 14 roll choices (pve)
+//notes:Big Bird's Season 14 roll choices (pve)
 dimwishlist:item=304659313&perks=3525010810,3032599245,3161816588,4049631843
 dimwishlist:item=304659313&perks=3525010810,3032599245,3161816588,4104185692
 dimwishlist:item=304659313&perks=3525010810,3032599245,3161816588,3523296417
@@ -316,7 +316,7 @@ dimwishlist:item=304659313&perks=1441682018,3301904089,2010801679,1546637391
 
 
 // Ignition Code 
-//notes: Big Bird's Season 14 roll choices (pvp)
+//notes:Big Bird's Season 14 roll choices (pvp)
 dimwishlist:item=304659313&perks=3525010810,409831596,706527188,1546637391
 dimwishlist:item=304659313&perks=3525010810,409831596,706527188,2726471870
 dimwishlist:item=304659313&perks=3525010810,409831596,3436462433,1546637391
@@ -368,18 +368,18 @@ dimwishlist:item=304659313&perks=3798852852,2822142346,3161816588,2726471870
 
 
 // Survivor's Epitaph 
-//notes: Big Bird's Season 14 roll choices (god-pve)
+//notes:Big Bird's Season 14 roll choices (god-pve)
 dimwishlist:item=310708513&perks=202670084,1561002382,1168162263,4049631843
 
 
 // Survivor's Epitaph 
-//notes: Big Bird's Season 14 roll choices (god-pvp)
+//notes:Big Bird's Season 14 roll choices (god-pvp)
 dimwishlist:item=310708513&perks=202670084,1561002382,2946784966,1015611457
 dimwishlist:item=310708513&perks=202670084,1561002382,706527188,1015611457
 
 
 // Survivor's Epitaph 
-//notes: Big Bird's Season 14 roll choices (pve)
+//notes:Big Bird's Season 14 roll choices (pve)
 dimwishlist:item=310708513&perks=202670084,1561002382,1168162263,4049631843
 dimwishlist:item=310708513&perks=202670084,1561002382,1168162263,2726471870
 dimwishlist:item=310708513&perks=202670084,1561002382,1168162263,2458213969
@@ -491,7 +491,7 @@ dimwishlist:item=310708513&perks=3250034553,1885400500,2010801679,4104185692
 
 
 // Survivor's Epitaph 
-//notes: Big Bird's Season 14 roll choices (pvp)
+//notes:Big Bird's Season 14 roll choices (pvp)
 dimwishlist:item=310708513&perks=202670084,1561002382,2946784966,1015611457
 dimwishlist:item=310708513&perks=202670084,1561002382,2946784966,2458213969
 dimwishlist:item=310708513&perks=202670084,1561002382,2946784966,699525795
@@ -735,7 +735,7 @@ dimwishlist:item=310708513&perks=3250034553,1968497646,1570042021,957782887
 
 
 // Corrective Measure 
-//notes: Big Bird's Season 14 roll choices (god-pve)
+//notes:Big Bird's Season 14 roll choices (god-pve)
 dimwishlist:item=471518543&perks=839105230,2420895100,3418782618,4049631843
 dimwishlist:item=471518543&perks=839105230,2420895100,3418782618,3824105627
 dimwishlist:item=471518543&perks=839105230,2420895100,2779035018,4049631843
@@ -743,12 +743,12 @@ dimwishlist:item=471518543&perks=839105230,2420895100,2779035018,3824105627
 
 
 // Corrective Measure 
-//notes: Big Bird's Season 14 roll choices (god-pvp)
+//notes:Big Bird's Season 14 roll choices (god-pvp)
 dimwishlist:item=471518543&perks=839105230,3142289711,1359896290,2213355989
 
 
 // Corrective Measure 
-//notes: Big Bird's Season 14 roll choices (pve)
+//notes:Big Bird's Season 14 roll choices (pve)
 dimwishlist:item=471518543&perks=839105230,2420895100,3418782618,4049631843
 dimwishlist:item=471518543&perks=839105230,2420895100,3418782618,3824105627
 dimwishlist:item=471518543&perks=839105230,2420895100,3418782618,11612903
@@ -860,7 +860,7 @@ dimwishlist:item=471518543&perks=1467527085,106909392,3523296417,11612903
 
 
 // Corrective Measure 
-//notes: Big Bird's Season 14 roll choices (pvp)
+//notes:Big Bird's Season 14 roll choices (pvp)
 dimwishlist:item=471518543&perks=839105230,3142289711,1359896290,2213355989
 dimwishlist:item=471518543&perks=839105230,3142289711,1359896290,1890422124
 dimwishlist:item=471518543&perks=839105230,3142289711,3436462433,2213355989
@@ -900,20 +900,20 @@ dimwishlist:item=471518543&perks=1467527085,3230963543,3436462433,1890422124
 
 
 // PLUG ONE.1 
-//notes: Big Bird's Season 14 roll choices (Adept) 
-//notes: Big Bird's Season 14 roll choices (god-pve)
+//notes:Big Bird's Season 14 roll choices (Adept) 
+//notes:Big Bird's Season 14 roll choices (god-pve)
 dimwishlist:item=534775659&perks=1467527085,1687452232,2779035018,1427256713
 
 
 // PLUG ONE.1 
-//notes: Big Bird's Season 14 roll choices (Adept) 
-//notes: Big Bird's Season 14 roll choices (god-pvp)
+//notes:Big Bird's Season 14 roll choices (Adept) 
+//notes:Big Bird's Season 14 roll choices (god-pvp)
 dimwishlist:item=534775659&perks=3250034553,689005463,1570042021,1754714824
 
 
 // PLUG ONE.1 
-//notes: Big Bird's Season 14 roll choices (Adept) 
-//notes: Big Bird's Season 14 roll choices (pve)
+//notes:Big Bird's Season 14 roll choices (Adept) 
+//notes:Big Bird's Season 14 roll choices (pve)
 dimwishlist:item=534775659&perks=1467527085,1687452232,2779035018,1427256713
 dimwishlist:item=534775659&perks=1467527085,1687452232,2779035018,11612903
 dimwishlist:item=534775659&perks=1467527085,1687452232,2779035018,1754714824
@@ -941,8 +941,8 @@ dimwishlist:item=534775659&perks=3250034553,689005463,4252909580,1754714824
 
 
 // PLUG ONE.1 
-//notes: Big Bird's Season 14 roll choices (Adept) 
-//notes: Big Bird's Season 14 roll choices (pvp)
+//notes:Big Bird's Season 14 roll choices (Adept) 
+//notes:Big Bird's Season 14 roll choices (pvp)
 dimwishlist:item=534775659&perks=3250034553,689005463,1570042021,1754714824
 dimwishlist:item=534775659&perks=3250034553,689005463,1570042021,1600092898
 dimwishlist:item=534775659&perks=3250034553,689005463,2450788523,1754714824
@@ -978,17 +978,17 @@ dimwishlist:item=534775659&perks=1467527085,2969185026,706527188,1600092898
 
 
 // Farewell 
-//notes: Big Bird's Season 14 roll choices (god-pve)
+//notes:Big Bird's Season 14 roll choices (god-pve)
 dimwishlist:item=541188001&perks=1482024992,106909392,1820235745,4104185692
 
 
 // Farewell 
-//notes: Big Bird's Season 14 roll choices (god-pvp)
+//notes:Big Bird's Season 14 roll choices (god-pvp)
 dimwishlist:item=541188001&perks=1482024992,3142289711,1570042021,2458213969
 
 
 // Farewell 
-//notes: Big Bird's Season 14 roll choices (pve)
+//notes:Big Bird's Season 14 roll choices (pve)
 dimwishlist:item=541188001&perks=1482024992,106909392,1820235745,4104185692
 dimwishlist:item=541188001&perks=1482024992,106909392,1820235745,11612903
 dimwishlist:item=541188001&perks=1482024992,106909392,1820235745,2458213969
@@ -1064,7 +1064,7 @@ dimwishlist:item=541188001&perks=4090651448,1087426260,4267945040,2458213969
 
 
 // Farewell 
-//notes: Big Bird's Season 14 roll choices (pvp)
+//notes:Big Bird's Season 14 roll choices (pvp)
 dimwishlist:item=541188001&perks=1482024992,3142289711,1570042021,2458213969
 dimwishlist:item=541188001&perks=1482024992,3142289711,1570042021,2726471870
 dimwishlist:item=541188001&perks=1482024992,3142289711,1570042021,1546637391
@@ -1164,18 +1164,18 @@ dimwishlist:item=541188001&perks=4090651448,3177308360,588594999,1546637391
 
 
 // Sojourner's Tale 
-//notes: Big Bird's Season 14 roll choices (god-pve)
+//notes:Big Bird's Season 14 roll choices (god-pve)
 dimwishlist:item=599895591&perks=3250034553,791862061,3300816228,4104185692
 
 
 // Sojourner's Tale 
-//notes: Big Bird's Season 14 roll choices (god-pvp)
+//notes:Big Bird's Season 14 roll choices (god-pvp)
 dimwishlist:item=599895591&perks=3250034553,3142289711,706527188,47981717
 dimwishlist:item=599895591&perks=202670084,3142289711,706527188,47981717
 
 
 // Sojourner's Tale 
-//notes: Big Bird's Season 14 roll choices (pve)
+//notes:Big Bird's Season 14 roll choices (pve)
 dimwishlist:item=599895591&perks=3250034553,791862061,3300816228,4104185692
 dimwishlist:item=599895591&perks=3250034553,791862061,3300816228,11612903
 dimwishlist:item=599895591&perks=3250034553,791862061,3300816228,3708227201
@@ -1233,7 +1233,7 @@ dimwishlist:item=599895591&perks=1467527085,2420895100,247725512,3708227201
 
 
 // Sojourner's Tale 
-//notes: Big Bird's Season 14 roll choices (pvp)
+//notes:Big Bird's Season 14 roll choices (pvp)
 dimwishlist:item=599895591&perks=3250034553,3142289711,706527188,47981717
 dimwishlist:item=599895591&perks=3250034553,3142289711,706527188,2450788523
 dimwishlist:item=599895591&perks=3250034553,3142289711,588594999,47981717
@@ -1285,21 +1285,21 @@ dimwishlist:item=599895591&perks=1482024992,679225683,2946784966,2450788523
 
 
 // Found Verdict 
-//notes: Big Bird's Season 14 roll choices (Timelost) 
-//notes: Big Bird's Season 14 roll choices (god-pve)
+//notes:Big Bird's Season 14 roll choices (Timelost) 
+//notes:Big Bird's Season 14 roll choices (god-pve)
 dimwishlist:item=631439337&perks=1332244541,791862061,3418782618,1546637391
 dimwishlist:item=631439337&perks=1332244541,791862061,3300816228,1546637391
 
 
 // Found Verdict 
-//notes: Big Bird's Season 14 roll choices (Timelost) 
-//notes: Big Bird's Season 14 roll choices (god-pvp)
+//notes:Big Bird's Season 14 roll choices (Timelost) 
+//notes:Big Bird's Season 14 roll choices (god-pvp)
 dimwishlist:item=631439337&perks=1047830412,3142289711,3161816588,47981717
 
 
 // Found Verdict 
-//notes: Big Bird's Season 14 roll choices (Timelost) 
-//notes: Big Bird's Season 14 roll choices (pve)
+//notes:Big Bird's Season 14 roll choices (Timelost) 
+//notes:Big Bird's Season 14 roll choices (pve)
 dimwishlist:item=631439337&perks=1332244541,791862061,3418782618,1546637391
 dimwishlist:item=631439337&perks=1332244541,791862061,3418782618,2679249093
 dimwishlist:item=631439337&perks=1332244541,791862061,3418782618,4104185692
@@ -1384,8 +1384,8 @@ dimwishlist:item=631439337&perks=4090651448,2420895100,2117683199,4104185692
 
 
 // Found Verdict 
-//notes: Big Bird's Season 14 roll choices (Timelost) 
-//notes: Big Bird's Season 14 roll choices (pvp)
+//notes:Big Bird's Season 14 roll choices (Timelost) 
+//notes:Big Bird's Season 14 roll choices (pvp)
 dimwishlist:item=631439337&perks=1047830412,3142289711,3161816588,47981717
 dimwishlist:item=631439337&perks=1047830412,3142289711,3161816588,1546637391
 dimwishlist:item=631439337&perks=1047830412,3142289711,3161816588,2679249093
@@ -1461,8 +1461,8 @@ dimwishlist:item=631439337&perks=466087222,679225683,3436462433,2450788523
 
 
 // Hung Jury SR4 
-//notes: Big Bird's Season 14 roll choices (Adept) 
-//notes: Big Bird's Season 14 roll choices (god-pve)
+//notes:Big Bird's Season 14 roll choices (Adept) 
+//notes:Big Bird's Season 14 roll choices (god-pve)
 dimwishlist:item=681067419&perks=1840239774,3230963543,1820235745,4049631843
 dimwishlist:item=681067419&perks=1840239774,3230963543,1820235745,3824105627
 dimwishlist:item=681067419&perks=1840239774,3230963543,247725512,4049631843
@@ -1470,14 +1470,14 @@ dimwishlist:item=681067419&perks=1840239774,3230963543,247725512,3824105627
 
 
 // Hung Jury SR4 
-//notes: Big Bird's Season 14 roll choices (Adept) 
-//notes: Big Bird's Season 14 roll choices (god-pvp)
+//notes:Big Bird's Season 14 roll choices (Adept) 
+//notes:Big Bird's Season 14 roll choices (god-pvp)
 dimwishlist:item=681067419&perks=1840239774,3142289711,1570042021,2551157718
 
 
 // Hung Jury SR4 
-//notes: Big Bird's Season 14 roll choices (Adept) 
-//notes: Big Bird's Season 14 roll choices (pve)
+//notes:Big Bird's Season 14 roll choices (Adept) 
+//notes:Big Bird's Season 14 roll choices (pve)
 dimwishlist:item=681067419&perks=1840239774,3230963543,1820235745,4049631843
 dimwishlist:item=681067419&perks=1840239774,3230963543,1820235745,3824105627
 dimwishlist:item=681067419&perks=1840239774,3230963543,1820235745,11612903
@@ -1577,8 +1577,8 @@ dimwishlist:item=681067419&perks=3250034553,106909392,4252909580,3592538738
 
 
 // Hung Jury SR4 
-//notes: Big Bird's Season 14 roll choices (Adept) 
-//notes: Big Bird's Season 14 roll choices (pvp)
+//notes:Big Bird's Season 14 roll choices (Adept) 
+//notes:Big Bird's Season 14 roll choices (pvp)
 dimwishlist:item=681067419&perks=1840239774,3142289711,1570042021,2551157718
 dimwishlist:item=681067419&perks=1840239774,3142289711,1570042021,3038247973
 dimwishlist:item=681067419&perks=1840239774,3142289711,588594999,2551157718
@@ -1606,8 +1606,8 @@ dimwishlist:item=681067419&perks=4090651448,106909392,588594999,3038247973
 
 
 // Vision of Confluence 
-//notes: Big Bird's Season 14 roll choices (Timelost) 
-//notes: Big Bird's Season 14 roll choices (god-pve)
+//notes:Big Bird's Season 14 roll choices (Timelost) 
+//notes:Big Bird's Season 14 roll choices (god-pve)
 dimwishlist:item=690668916&perks=1840239774,3230963543,3418782618,3824105627
 dimwishlist:item=690668916&perks=1840239774,3230963543,3418782618,4104185692
 dimwishlist:item=690668916&perks=1840239774,3230963543,3592538738,3824105627
@@ -1619,14 +1619,14 @@ dimwishlist:item=690668916&perks=1840239774,1968497646,3592538738,4104185692
 
 
 // Vision of Confluence 
-//notes: Big Bird's Season 14 roll choices (Timelost) 
-//notes: Big Bird's Season 14 roll choices (god-pvp)
+//notes:Big Bird's Season 14 roll choices (Timelost) 
+//notes:Big Bird's Season 14 roll choices (god-pvp)
 dimwishlist:item=690668916&perks=1840239774,1561002382,2946784966,1015611457
 
 
 // Vision of Confluence 
-//notes: Big Bird's Season 14 roll choices (Timelost) 
-//notes: Big Bird's Season 14 roll choices (pve)
+//notes:Big Bird's Season 14 roll choices (Timelost) 
+//notes:Big Bird's Season 14 roll choices (pve)
 dimwishlist:item=690668916&perks=1840239774,3230963543,3418782618,3824105627
 dimwishlist:item=690668916&perks=1840239774,3230963543,3418782618,4104185692
 dimwishlist:item=690668916&perks=1840239774,3230963543,3418782618,1683379515
@@ -1810,8 +1810,8 @@ dimwishlist:item=690668916&perks=1467527085,1885400500,2450788523,2726471870
 
 
 // Vision of Confluence 
-//notes: Big Bird's Season 14 roll choices (Timelost) 
-//notes: Big Bird's Season 14 roll choices (pvp)
+//notes:Big Bird's Season 14 roll choices (Timelost) 
+//notes:Big Bird's Season 14 roll choices (pvp)
 dimwishlist:item=690668916&perks=1840239774,1561002382,2946784966,1015611457
 dimwishlist:item=690668916&perks=1840239774,1561002382,2946784966,4267945040
 dimwishlist:item=690668916&perks=1840239774,1561002382,2946784966,2726471870
@@ -1959,20 +1959,20 @@ dimwishlist:item=690668916&perks=839105230,679225683,2387244414,2726471870
 
 
 // Uzume RR4 
-//notes: Big Bird's Season 14 roll choices (Adept) 
-//notes: Big Bird's Season 14 roll choices (god-pve)
+//notes:Big Bird's Season 14 roll choices (Adept) 
+//notes:Big Bird's Season 14 roll choices (god-pve)
 dimwishlist:item=852228780&perks=1840239774,1087426260,4252909580,1546637391
 
 
 // Uzume RR4 
-//notes: Big Bird's Season 14 roll choices (Adept) 
-//notes: Big Bird's Season 14 roll choices (god-pvp)
+//notes:Big Bird's Season 14 roll choices (Adept) 
+//notes:Big Bird's Season 14 roll choices (god-pvp)
 dimwishlist:item=852228780&perks=1840239774,3142289711,957782887,2848615171
 
 
 // Uzume RR4 
-//notes: Big Bird's Season 14 roll choices (Adept) 
-//notes: Big Bird's Season 14 roll choices (pve)
+//notes:Big Bird's Season 14 roll choices (Adept) 
+//notes:Big Bird's Season 14 roll choices (pve)
 dimwishlist:item=852228780&perks=1840239774,1087426260,4252909580,1546637391
 dimwishlist:item=852228780&perks=1840239774,1087426260,4252909580,2213355989
 dimwishlist:item=852228780&perks=1840239774,1087426260,4252909580,11612903
@@ -2057,8 +2057,8 @@ dimwishlist:item=852228780&perks=4090651448,2420895100,3400784728,11612903
 
 
 // Uzume RR4 
-//notes: Big Bird's Season 14 roll choices (Adept) 
-//notes: Big Bird's Season 14 roll choices (pvp)
+//notes:Big Bird's Season 14 roll choices (Adept) 
+//notes:Big Bird's Season 14 roll choices (pvp)
 dimwishlist:item=852228780&perks=1840239774,3142289711,957782887,2848615171
 dimwishlist:item=852228780&perks=1840239774,3142289711,957782887,1546637391
 dimwishlist:item=852228780&perks=1840239774,3142289711,2450788523,2848615171
@@ -2074,17 +2074,17 @@ dimwishlist:item=852228780&perks=4090651448,3142289711,2450788523,1546637391
 
 
 // Occluded Finality 
-//notes: Big Bird's Season 14 roll choices (god-pvp)
+//notes:Big Bird's Season 14 roll choices (god-pvp)
 dimwishlist:item=852551895&perks=1840239774,1561002382,957782887,47981717
 
 
 // Occluded Finality 
-//notes: Big Bird's Season 14 roll choices (god-pve)
+//notes:Big Bird's Season 14 roll choices (god-pve)
 dimwishlist:item=852551895&perks=1840239774,1087426260,3300816228,1546637391
 
 
 // Occluded Finality 
-//notes: Big Bird's Season 14 roll choices (pvp)
+//notes:Big Bird's Season 14 roll choices (pvp)
 dimwishlist:item=852551895&perks=1840239774,1561002382,957782887,47981717
 dimwishlist:item=852551895&perks=1840239774,1561002382,957782887,591790007
 dimwishlist:item=852551895&perks=1840239774,1561002382,957782887,1546637391
@@ -2196,7 +2196,7 @@ dimwishlist:item=852551895&perks=4090651448,1968497646,2866798147,1546637391
 
 
 // Occluded Finality 
-//notes: Big Bird's Season 14 roll choices (pve)
+//notes:Big Bird's Season 14 roll choices (pve)
 dimwishlist:item=852551895&perks=1840239774,1087426260,3300816228,1546637391
 dimwishlist:item=852551895&perks=1840239774,1087426260,3300816228,3523296417
 dimwishlist:item=852551895&perks=1840239774,1087426260,957782887,1546637391
@@ -2236,17 +2236,17 @@ dimwishlist:item=852551895&perks=4090651448,2420895100,957782887,3523296417
 
 
 // Borrowed Time 
-//notes: Big Bird's Season 14 roll choices (god-pve)
+//notes:Big Bird's Season 14 roll choices (god-pve)
 dimwishlist:item=875848769&perks=3250034553,3230963543,3643424744,4049631843
 
 
 // Borrowed Time 
-//notes: Big Bird's Season 14 roll choices (god-pvp)
+//notes:Big Bird's Season 14 roll choices (god-pvp)
 dimwishlist:item=875848769&perks=1482024992,1885400500,1570042021,1890422124
 
 
 // Borrowed Time 
-//notes: Big Bird's Season 14 roll choices (pve)
+//notes:Big Bird's Season 14 roll choices (pve)
 dimwishlist:item=875848769&perks=3250034553,3230963543,3643424744,4049631843
 dimwishlist:item=875848769&perks=3250034553,3230963543,3643424744,11612903
 dimwishlist:item=875848769&perks=3250034553,3230963543,3643424744,4104185692
@@ -2506,7 +2506,7 @@ dimwishlist:item=875848769&perks=4090651448,679225683,2779035018,2848615171
 
 
 // Borrowed Time 
-//notes: Big Bird's Season 14 roll choices (pvp)
+//notes:Big Bird's Season 14 roll choices (pvp)
 dimwishlist:item=875848769&perks=1482024992,1885400500,1570042021,1890422124
 dimwishlist:item=875848769&perks=1482024992,1885400500,1570042021,957782887
 dimwishlist:item=875848769&perks=1482024992,1885400500,1570042021,3425386926
@@ -2750,17 +2750,17 @@ dimwishlist:item=875848769&perks=1467527085,1968497646,1359896290,3425386926
 
 
 // Chroma Rush 
-//notes: Big Bird's Season 14 roll choices (god-pve)
+//notes:Big Bird's Season 14 roll choices (god-pve)
 dimwishlist:item=1119734784&perks=1467527085,3142289711,1820235745,11612903
 
 
 // Chroma Rush 
-//notes: Big Bird's Season 14 roll choices (god-pvp)
+//notes:Big Bird's Season 14 roll choices (god-pvp)
 dimwishlist:item=1119734784&perks=1467527085,3142289711,1570042021,1015611457
 
 
 // Chroma Rush 
-//notes: Big Bird's Season 14 roll choices (pve)
+//notes:Big Bird's Season 14 roll choices (pve)
 dimwishlist:item=1119734784&perks=1467527085,3142289711,1820235745,11612903
 dimwishlist:item=1119734784&perks=1467527085,3142289711,1820235745,3425386926
 dimwishlist:item=1119734784&perks=1467527085,3142289711,1820235745,2726471870
@@ -2860,7 +2860,7 @@ dimwishlist:item=1119734784&perks=1482024992,106909392,2779035018,3592538738
 
 
 // Chroma Rush 
-//notes: Big Bird's Season 14 roll choices (pvp)
+//notes:Big Bird's Season 14 roll choices (pvp)
 dimwishlist:item=1119734784&perks=1467527085,3142289711,1570042021,1015611457
 dimwishlist:item=1119734784&perks=1467527085,3142289711,1570042021,1890422124
 dimwishlist:item=1119734784&perks=1467527085,3142289711,1570042021,3425386926
@@ -2936,21 +2936,21 @@ dimwishlist:item=1119734784&perks=1482024992,106909392,1359896290,3425386926
 
 
 // Fatebringer 
-//notes: Big Bird's Season 14 roll choices (Timelost) 
-//notes: Big Bird's Season 14 roll choices (god-pve)
+//notes:Big Bird's Season 14 roll choices (Timelost) 
+//notes:Big Bird's Season 14 roll choices (god-pve)
 dimwishlist:item=1216319404&perks=202670084,3142289711,3038247973,3824105627
 dimwishlist:item=1216319404&perks=202670084,3142289711,3038247973,4104185692
 
 
 // Fatebringer 
-//notes: Big Bird's Season 14 roll choices (Timelost) 
-//notes: Big Bird's Season 14 roll choices (god-pvp)
+//notes:Big Bird's Season 14 roll choices (Timelost) 
+//notes:Big Bird's Season 14 roll choices (god-pvp)
 dimwishlist:item=1216319404&perks=202670084,3142289711,2946784966,1015611457
 
 
 // Fatebringer 
-//notes: Big Bird's Season 14 roll choices (Timelost) 
-//notes: Big Bird's Season 14 roll choices (pve)
+//notes:Big Bird's Season 14 roll choices (Timelost) 
+//notes:Big Bird's Season 14 roll choices (pve)
 dimwishlist:item=1216319404&perks=202670084,3142289711,3038247973,3824105627
 dimwishlist:item=1216319404&perks=202670084,3142289711,3038247973,4104185692
 dimwishlist:item=1216319404&perks=202670084,3142289711,3038247973,11612903
@@ -3062,8 +3062,8 @@ dimwishlist:item=1216319404&perks=1467527085,106909392,3418782618,11612903
 
 
 // Fatebringer 
-//notes: Big Bird's Season 14 roll choices (Timelost) 
-//notes: Big Bird's Season 14 roll choices (pvp)
+//notes:Big Bird's Season 14 roll choices (Timelost) 
+//notes:Big Bird's Season 14 roll choices (pvp)
 dimwishlist:item=1216319404&perks=202670084,3142289711,2946784966,1015611457
 dimwishlist:item=1216319404&perks=202670084,3142289711,2946784966,699525795
 dimwishlist:item=1216319404&perks=202670084,3142289711,2946784966,47981717
@@ -3175,17 +3175,17 @@ dimwishlist:item=1216319404&perks=3250034553,106909392,2450788523,47981717
 
 
 // PLUG ONE.1 
-//notes: Big Bird's Season 14 roll choices (god-pve)
+//notes:Big Bird's Season 14 roll choices (god-pve)
 dimwishlist:item=1289000550&perks=1467527085,1687452232,2779035018,1427256713
 
 
 // PLUG ONE.1 
-//notes: Big Bird's Season 14 roll choices (god-pvp)
+//notes:Big Bird's Season 14 roll choices (god-pvp)
 dimwishlist:item=1289000550&perks=3250034553,689005463,1570042021,1754714824
 
 
 // PLUG ONE.1 
-//notes: Big Bird's Season 14 roll choices (pve)
+//notes:Big Bird's Season 14 roll choices (pve)
 dimwishlist:item=1289000550&perks=1467527085,1687452232,2779035018,1427256713
 dimwishlist:item=1289000550&perks=1467527085,1687452232,2779035018,1754714824
 dimwishlist:item=1289000550&perks=1467527085,1687452232,2779035018,11612903
@@ -3243,7 +3243,7 @@ dimwishlist:item=1289000550&perks=1482024992,2680121939,4252909580,11612903
 
 
 // PLUG ONE.1 
-//notes: Big Bird's Season 14 roll choices (pvp)
+//notes:Big Bird's Season 14 roll choices (pvp)
 dimwishlist:item=1289000550&perks=3250034553,689005463,1570042021,1754714824
 dimwishlist:item=1289000550&perks=3250034553,689005463,1570042021,1600092898
 dimwishlist:item=1289000550&perks=3250034553,689005463,2450788523,1754714824
@@ -3295,19 +3295,19 @@ dimwishlist:item=1289000550&perks=1482024992,2969185026,1645158859,1600092898
 
 
 // Gridskipper 
-//notes: Big Bird's Season 14 roll choices (god-pve)
+//notes:Big Bird's Season 14 roll choices (god-pve)
 dimwishlist:item=1621558458&perks=1482024992,1087426260,1570042021,4104185692
 dimwishlist:item=1621558458&perks=1482024992,1087426260,1570042021,2458213969
 
 
 // Gridskipper 
-//notes: Big Bird's Season 14 roll choices (god-pvp)
+//notes:Big Bird's Season 14 roll choices (god-pvp)
 dimwishlist:item=1621558458&perks=839105230,1885400500,2946784966,2458213969
 dimwishlist:item=1621558458&perks=839105230,1885400500,280464955,2458213969
 
 
 // Gridskipper 
-//notes: Big Bird's Season 14 roll choices (pve)
+//notes:Big Bird's Season 14 roll choices (pve)
 dimwishlist:item=1621558458&perks=1482024992,1087426260,1570042021,4104185692
 dimwishlist:item=1621558458&perks=1482024992,1087426260,1570042021,2458213969
 dimwishlist:item=1621558458&perks=1482024992,1087426260,1570042021,11612903
@@ -3439,7 +3439,7 @@ dimwishlist:item=1621558458&perks=1467527085,679225683,280464955,2726471870
 
 
 // Gridskipper 
-//notes: Big Bird's Season 14 roll choices (pvp)
+//notes:Big Bird's Season 14 roll choices (pvp)
 dimwishlist:item=1621558458&perks=839105230,1885400500,2946784966,2458213969
 dimwishlist:item=1621558458&perks=839105230,1885400500,2946784966,957782887
 dimwishlist:item=1621558458&perks=839105230,1885400500,280464955,2458213969
@@ -3533,17 +3533,17 @@ dimwishlist:item=1621558458&perks=1482024992,679225683,2039302152,957782887
 
 
 // Null Composure 
-//notes: Big Bird's Season 14 roll choices (god-pve)
+//notes:Big Bird's Season 14 roll choices (god-pve)
 dimwishlist:item=1644680957&perks=2779035018,1427256713
 
 
 // Null Composure 
-//notes: Big Bird's Season 14 roll choices (god-pvp)
+//notes:Big Bird's Season 14 roll choices (god-pvp)
 dimwishlist:item=1644680957&perks=1570042021,2213355989
 
 
 // Null Composure 
-//notes: Big Bird's Season 14 roll choices (pve)
+//notes:Big Bird's Season 14 roll choices (pve)
 dimwishlist:item=1644680957&perks=2779035018,1427256713
 dimwishlist:item=1644680957&perks=2779035018,2213355989
 dimwishlist:item=1644680957&perks=1570042021,1427256713
@@ -3551,7 +3551,7 @@ dimwishlist:item=1644680957&perks=1570042021,2213355989
 
 
 // Null Composure 
-//notes: Big Bird's Season 14 roll choices (pvp)
+//notes:Big Bird's Season 14 roll choices (pvp)
 dimwishlist:item=1644680957&perks=1570042021,2213355989
 dimwishlist:item=1644680957&perks=1570042021,1427256713
 dimwishlist:item=1644680957&perks=2779035018,2213355989
@@ -3559,8 +3559,8 @@ dimwishlist:item=1644680957&perks=2779035018,1427256713
 
 
 // Hezen Vengeance 
-//notes: Big Bird's Season 14 roll choices (Timelost) 
-//notes: Big Bird's Season 14 roll choices (god-pve)
+//notes:Big Bird's Season 14 roll choices (Timelost) 
+//notes:Big Bird's Season 14 roll choices (god-pve)
 dimwishlist:item=1921159786&perks=3525010810,3796465595,3643424744,1546637391
 dimwishlist:item=1921159786&perks=3525010810,3796465595,3643424744,3927722942
 dimwishlist:item=1921159786&perks=3525010810,3796465595,3300816228,1546637391
@@ -3568,14 +3568,14 @@ dimwishlist:item=1921159786&perks=3525010810,3796465595,3300816228,3927722942
 
 
 // Hezen Vengeance 
-//notes: Big Bird's Season 14 roll choices (Timelost) 
-//notes: Big Bird's Season 14 roll choices (god-pvp)
+//notes:Big Bird's Season 14 roll choices (Timelost) 
+//notes:Big Bird's Season 14 roll choices (god-pvp)
 dimwishlist:item=1921159786&perks=1478423395,1996142143,3977735242,1275731761
 
 
 // Hezen Vengeance 
-//notes: Big Bird's Season 14 roll choices (Timelost) 
-//notes: Big Bird's Season 14 roll choices (pve)
+//notes:Big Bird's Season 14 roll choices (Timelost) 
+//notes:Big Bird's Season 14 roll choices (pve)
 dimwishlist:item=1921159786&perks=3525010810,3796465595,3643424744,1546637391
 dimwishlist:item=1921159786&perks=3525010810,3796465595,3643424744,3927722942
 dimwishlist:item=1921159786&perks=3525010810,3796465595,3643424744,1275731761
@@ -3651,8 +3651,8 @@ dimwishlist:item=1921159786&perks=1441682018,2985827016,951095735,1275731761
 
 
 // Hezen Vengeance 
-//notes: Big Bird's Season 14 roll choices (Timelost) 
-//notes: Big Bird's Season 14 roll choices (pvp)
+//notes:Big Bird's Season 14 roll choices (Timelost) 
+//notes:Big Bird's Season 14 roll choices (pvp)
 dimwishlist:item=1921159786&perks=1478423395,1996142143,3977735242,1275731761
 dimwishlist:item=1921159786&perks=1478423395,1996142143,3977735242,1546637391
 dimwishlist:item=1921159786&perks=1478423395,1996142143,706527188,1275731761
@@ -3704,12 +3704,12 @@ dimwishlist:item=1921159786&perks=1441682018,2822142346,951095735,1546637391
 
 
 // Archon's Thunder 
-//notes: Big Bird's Season 14 roll choices (god-pve)
+//notes:Big Bird's Season 14 roll choices (god-pve)
 dimwishlist:item=1967303408&perks=839105230,2420895100,2869569095,3425386926
 
 
 // Archon's Thunder 
-//notes: Big Bird's Season 14 roll choices (pve)
+//notes:Big Bird's Season 14 roll choices (pve)
 dimwishlist:item=1967303408&perks=839105230,2420895100,2869569095,3425386926
 dimwishlist:item=1967303408&perks=839105230,2420895100,2869569095,2726471870
 dimwishlist:item=1967303408&perks=839105230,2420895100,3436462433,3425386926
@@ -3749,20 +3749,20 @@ dimwishlist:item=1967303408&perks=1467527085,106909392,3436462433,2726471870
 
 
 // Praedyth's Revenge 
-//notes: Big Bird's Season 14 roll choices (Timelost) 
-//notes: Big Bird's Season 14 roll choices (god-pve)
+//notes:Big Bird's Season 14 roll choices (Timelost) 
+//notes:Big Bird's Season 14 roll choices (god-pve)
 dimwishlist:item=1987769101&perks=1840239774,2420895100,3418782618,4104185692
 
 
 // Praedyth's Revenge 
-//notes: Big Bird's Season 14 roll choices (Timelost) 
-//notes: Big Bird's Season 14 roll choices (god-pvp)
+//notes:Big Bird's Season 14 roll choices (Timelost) 
+//notes:Big Bird's Season 14 roll choices (god-pvp)
 dimwishlist:item=1987769101&perks=1840239774,3142289711,706527188,2213355989
 
 
 // Praedyth's Revenge 
-//notes: Big Bird's Season 14 roll choices (Timelost) 
-//notes: Big Bird's Season 14 roll choices (pve)
+//notes:Big Bird's Season 14 roll choices (Timelost) 
+//notes:Big Bird's Season 14 roll choices (pve)
 dimwishlist:item=1987769101&perks=1840239774,2420895100,3418782618,4104185692
 dimwishlist:item=1987769101&perks=1840239774,2420895100,3418782618,2213355989
 dimwishlist:item=1987769101&perks=1840239774,2420895100,3418782618,11612903
@@ -3784,8 +3784,8 @@ dimwishlist:item=1987769101&perks=4090651448,106909392,3418782618,11612903
 
 
 // Praedyth's Revenge 
-//notes: Big Bird's Season 14 roll choices (Timelost) 
-//notes: Big Bird's Season 14 roll choices (pvp)
+//notes:Big Bird's Season 14 roll choices (Timelost) 
+//notes:Big Bird's Season 14 roll choices (pvp)
 dimwishlist:item=1987769101&perks=1840239774,3142289711,706527188,2213355989
 dimwishlist:item=1987769101&perks=1840239774,3142289711,706527188,47981717
 dimwishlist:item=1987769101&perks=1840239774,3142289711,2866798147,2213355989
@@ -3807,17 +3807,17 @@ dimwishlist:item=1987769101&perks=4090651448,3142289711,588594999,47981717
 
 
 // Uzume RR4 
-//notes: Big Bird's Season 14 roll choices (god-pve)
+//notes:Big Bird's Season 14 roll choices (god-pve)
 dimwishlist:item=2065081837&perks=1840239774,1087426260,4252909580,1546637391
 
 
 // Uzume RR4 
-//notes: Big Bird's Season 14 roll choices (god-pvp)
+//notes:Big Bird's Season 14 roll choices (god-pvp)
 dimwishlist:item=2065081837&perks=1840239774,3142289711,957782887,2848615171
 
 
 // Uzume RR4 
-//notes: Big Bird's Season 14 roll choices (pve)
+//notes:Big Bird's Season 14 roll choices (pve)
 dimwishlist:item=2065081837&perks=1840239774,1087426260,4252909580,1546637391
 dimwishlist:item=2065081837&perks=1840239774,1087426260,4252909580,2213355989
 dimwishlist:item=2065081837&perks=1840239774,1087426260,4252909580,11612903
@@ -3902,7 +3902,7 @@ dimwishlist:item=2065081837&perks=4090651448,106909392,2284787283,11612903
 
 
 // Uzume RR4 
-//notes: Big Bird's Season 14 roll choices (pvp)
+//notes:Big Bird's Season 14 roll choices (pvp)
 dimwishlist:item=2065081837&perks=1840239774,3142289711,957782887,2848615171
 dimwishlist:item=2065081837&perks=1840239774,3142289711,957782887,1546637391
 dimwishlist:item=2065081837&perks=1840239774,3142289711,2450788523,2848615171
@@ -3918,19 +3918,19 @@ dimwishlist:item=2065081837&perks=4090651448,3142289711,2450788523,1546637391
 
 
 // Fatebringer 
-//notes: Big Bird's Season 14 roll choices (god-pve)
+//notes:Big Bird's Season 14 roll choices (god-pve)
 dimwishlist:item=2171478765&perks=202670084,3142289711,3038247973,4104185692
 dimwishlist:item=2171478765&perks=202670084,3142289711,3038247973,3824105627
 
 
 // Fatebringer 
-//notes: Big Bird's Season 14 roll choices (god-pvp)
+//notes:Big Bird's Season 14 roll choices (god-pvp)
 dimwishlist:item=2171478765&perks=202670084,3142289711,2946784966,1015611457
 dimwishlist:item=2171478765&perks=202670084,3142289711,3038247973,1015611457
 
 
 // Fatebringer 
-//notes: Big Bird's Season 14 roll choices (pve)
+//notes:Big Bird's Season 14 roll choices (pve)
 dimwishlist:item=2171478765&perks=202670084,3142289711,3038247973,4104185692
 dimwishlist:item=2171478765&perks=202670084,3142289711,3038247973,3824105627
 dimwishlist:item=2171478765&perks=202670084,3142289711,3038247973,11612903
@@ -4042,7 +4042,7 @@ dimwishlist:item=2171478765&perks=1467527085,1087426260,3418782618,11612903
 
 
 // Fatebringer 
-//notes: Big Bird's Season 14 roll choices (pvp)
+//notes:Big Bird's Season 14 roll choices (pvp)
 dimwishlist:item=2171478765&perks=202670084,3142289711,2946784966,1015611457
 dimwishlist:item=2171478765&perks=202670084,3142289711,2946784966,699525795
 dimwishlist:item=2171478765&perks=202670084,3142289711,2946784966,47981717
@@ -4154,17 +4154,17 @@ dimwishlist:item=2171478765&perks=3250034553,106909392,2450788523,47981717
 
 
 // Stochastic Variable 
-//notes: Big Bird's Season 14 roll choices (god-pve)
+//notes:Big Bird's Season 14 roll choices (god-pve)
 dimwishlist:item=2272470786&perks=3250034553,3230963543,2010801679,2458213969
 
 
 // Stochastic Variable 
-//notes: Big Bird's Season 14 roll choices (god-pvp)
+//notes:Big Bird's Season 14 roll choices (god-pvp)
 dimwishlist:item=2272470786&perks=1482024992,1885400500,2387244414,706527188
 
 
 // Stochastic Variable 
-//notes: Big Bird's Season 14 roll choices (pve)
+//notes:Big Bird's Season 14 roll choices (pve)
 dimwishlist:item=2272470786&perks=3250034553,3230963543,2010801679,2458213969
 dimwishlist:item=2272470786&perks=3250034553,3230963543,2010801679,2848615171
 dimwishlist:item=2272470786&perks=3250034553,3230963543,2010801679,3592538738
@@ -4222,7 +4222,7 @@ dimwishlist:item=2272470786&perks=1467527085,679225683,2450788523,3592538738
 
 
 // Stochastic Variable 
-//notes: Big Bird's Season 14 roll choices (pvp)
+//notes:Big Bird's Season 14 roll choices (pvp)
 dimwishlist:item=2272470786&perks=1482024992,1885400500,2387244414,706527188
 dimwishlist:item=2272470786&perks=1482024992,1885400500,2387244414,3511092054
 dimwishlist:item=2272470786&perks=1482024992,1885400500,2387244414,2458213969
@@ -4370,18 +4370,18 @@ dimwishlist:item=2272470786&perks=4090651448,679225683,3436462433,2458213969
 
 
 // The Vision 
-//notes: Big Bird's Season 14 roll choices (god-pve)
+//notes:Big Bird's Season 14 roll choices (god-pve)
 dimwishlist:item=2414141462&perks=445755704,106909392,2010801679,4049631843
 
 
 // The Vision 
-//notes: Big Bird's Season 14 roll choices (god-pvp)
+//notes:Big Bird's Season 14 roll choices (god-pvp)
 dimwishlist:item=2414141462&perks=445755704,3142289711,3436462433,1015611457
 dimwishlist:item=2414141462&perks=445755705,3142289711,3436462433,1015611457
 
 
 // The Vision 
-//notes: Big Bird's Season 14 roll choices (pve)
+//notes:Big Bird's Season 14 roll choices (pve)
 dimwishlist:item=2414141462&perks=445755704,106909392,2010801679,4049631843
 dimwishlist:item=2414141462&perks=445755704,106909392,2010801679,4082225868
 dimwishlist:item=2414141462&perks=445755704,106909392,1631667848,4049631843
@@ -4433,7 +4433,7 @@ dimwishlist:item=2414141462&perks=445755705,3142289711,4267945040,4082225868
 
 
 // The Vision 
-//notes: Big Bird's Season 14 roll choices (pvp)
+//notes:Big Bird's Season 14 roll choices (pvp)
 dimwishlist:item=2414141462&perks=445755704,3142289711,3436462433,1015611457
 dimwishlist:item=2414141462&perks=445755704,3142289711,3436462433,4082225868
 dimwishlist:item=2414141462&perks=445755704,3142289711,3436462433,3511092054
@@ -4518,17 +4518,17 @@ dimwishlist:item=2414141462&perks=445755706,3230963543,4267945040,3511092054
 
 
 // Shattered Cipher 
-//notes: Big Bird's Season 14 roll choices (god-pve)
+//notes:Big Bird's Season 14 roll choices (god-pve)
 dimwishlist:item=2434225986&perks=839105230,2420895100,3300816228,11612903
 
 
 // Shattered Cipher 
-//notes: Big Bird's Season 14 roll choices (god-pvp)
+//notes:Big Bird's Season 14 roll choices (god-pvp)
 dimwishlist:item=2434225986&perks=839105230,3177308360,1570042021,3425386926
 
 
 // Shattered Cipher 
-//notes: Big Bird's Season 14 roll choices (pve)
+//notes:Big Bird's Season 14 roll choices (pve)
 dimwishlist:item=2434225986&perks=839105230,2420895100,3300816228,11612903
 dimwishlist:item=2434225986&perks=839105230,2420895100,3300816228,3708227201
 dimwishlist:item=2434225986&perks=839105230,2420895100,3300816228,3425386926
@@ -4640,7 +4640,7 @@ dimwishlist:item=2434225986&perks=3661387068,106909392,2039302152,3425386926
 
 
 // Shattered Cipher 
-//notes: Big Bird's Season 14 roll choices (pvp)
+//notes:Big Bird's Season 14 roll choices (pvp)
 dimwishlist:item=2434225986&perks=839105230,3177308360,1570042021,3425386926
 dimwishlist:item=2434225986&perks=839105230,3177308360,1570042021,2387244414
 dimwishlist:item=2434225986&perks=839105230,3177308360,2039302152,3425386926
@@ -4716,17 +4716,17 @@ dimwishlist:item=2434225986&perks=3661387068,106909392,1645158859,2387244414
 
 
 // The Number 
-//notes: Big Bird's Season 14 roll choices (god-pve)
+//notes:Big Bird's Season 14 roll choices (god-pve)
 dimwishlist:item=2492081469&perks=839105230,1087426260,2450788523,4049631843
 
 
 // The Number 
-//notes: Big Bird's Season 14 roll choices (god-pvp)
+//notes:Big Bird's Season 14 roll choices (god-pvp)
 dimwishlist:item=2492081469&perks=839105230,1561002382,2450788523,2458213969
 
 
 // The Number 
-//notes: Big Bird's Season 14 roll choices (pve)
+//notes:Big Bird's Season 14 roll choices (pve)
 dimwishlist:item=2492081469&perks=839105230,1087426260,2450788523,4049631843
 dimwishlist:item=2492081469&perks=839105230,1087426260,2450788523,2213355989
 dimwishlist:item=2492081469&perks=839105230,1087426260,2450788523,2458213969
@@ -4874,7 +4874,7 @@ dimwishlist:item=2492081469&perks=1467527085,679225683,3436462433,3592538738
 
 
 // The Number 
-//notes: Big Bird's Season 14 roll choices (pvp)
+//notes:Big Bird's Season 14 roll choices (pvp)
 dimwishlist:item=2492081469&perks=839105230,1561002382,2450788523,2458213969
 dimwishlist:item=2492081469&perks=839105230,1561002382,2450788523,2213355989
 dimwishlist:item=2492081469&perks=839105230,1561002382,3436462433,2458213969
@@ -4926,17 +4926,17 @@ dimwishlist:item=2492081469&perks=3661387068,679225683,3436462433,2213355989
 
 
 // Quickfang 
-//notes: Big Bird's Season 14 roll choices (god-pve)
+//notes:Big Bird's Season 14 roll choices (god-pve)
 dimwishlist:item=2782325300&perks=3666208348,269888150,1749209109,4049631843
 
 
 // Quickfang 
-//notes: Big Bird's Season 14 roll choices (god-pvp)
+//notes:Big Bird's Season 14 roll choices (god-pvp)
 dimwishlist:item=2782325300&perks=3666208348,269888150,2726471870,354401740
 
 
 // Quickfang 
-//notes: Big Bird's Season 14 roll choices (pve)
+//notes:Big Bird's Season 14 roll choices (pve)
 dimwishlist:item=2782325300&perks=3666208348,269888150,1749209109,4049631843
 dimwishlist:item=2782325300&perks=3666208348,269888150,1749209109,354401740
 dimwishlist:item=2782325300&perks=3666208348,269888150,2726471870,4049631843
@@ -4952,7 +4952,7 @@ dimwishlist:item=2782325300&perks=938542991,269888150,2726471870,354401740
 
 
 // Quickfang 
-//notes: Big Bird's Season 14 roll choices (pvp)
+//notes:Big Bird's Season 14 roll choices (pvp)
 dimwishlist:item=2782325300&perks=3666208348,269888150,2726471870,354401740
 dimwishlist:item=2782325300&perks=3666208348,269888150,2726471870,1685431615
 dimwishlist:item=2782325300&perks=3666208348,269888150,2726471870,2244851822
@@ -4974,17 +4974,17 @@ dimwishlist:item=2782325300&perks=2827049491,269888150,2030760728,2244851822
 
 
 // Eternity's Edge 
-//notes: Big Bird's Season 14 roll choices (god-pve)
+//notes:Big Bird's Season 14 roll choices (god-pve)
 dimwishlist:item=2782325301&perks=3666208348,2363751990,1749209109,3913600130
 
 
 // Eternity's Edge 
-//notes: Big Bird's Season 14 roll choices (god-pvp)
+//notes:Big Bird's Season 14 roll choices (god-pvp)
 dimwishlist:item=2782325301&perks=3666208348,2363751990,2726471870,354401740
 
 
 // Eternity's Edge 
-//notes: Big Bird's Season 14 roll choices (pve)
+//notes:Big Bird's Season 14 roll choices (pve)
 dimwishlist:item=2782325301&perks=3666208348,2363751990,1749209109,3913600130
 dimwishlist:item=2782325301&perks=3666208348,2363751990,1749209109,3708227201
 dimwishlist:item=2782325301&perks=3666208348,2363751990,2726471870,3913600130
@@ -5000,7 +5000,7 @@ dimwishlist:item=2782325301&perks=2827049491,2363751990,2726471870,3708227201
 
 
 // Eternity's Edge 
-//notes: Big Bird's Season 14 roll choices (pvp)
+//notes:Big Bird's Season 14 roll choices (pvp)
 dimwishlist:item=2782325301&perks=3666208348,2363751990,2726471870,354401740
 dimwishlist:item=2782325301&perks=3666208348,2363751990,2726471870,2244851822
 dimwishlist:item=2782325301&perks=3666208348,2363751990,2030760728,354401740
@@ -5016,18 +5016,18 @@ dimwishlist:item=2782325301&perks=2827049491,2363751990,2030760728,2244851822
 
 
 // Crown-Splitter 
-//notes: Big Bird's Season 14 roll choices (god-pve)
+//notes:Big Bird's Season 14 roll choices (god-pve)
 dimwishlist:item=2782325302&perks=3666208348,2349202967,1749209109,1546637391
 dimwishlist:item=2782325302&perks=3666208348,2349202967,1749209109,3913600130
 
 
 // Crown-Splitter 
-//notes: Big Bird's Season 14 roll choices (god-pvp)
+//notes:Big Bird's Season 14 roll choices (god-pvp)
 dimwishlist:item=2782325302&perks=3666208348,2349202967,2726471870,1546637391
 
 
 // Crown-Splitter 
-//notes: Big Bird's Season 14 roll choices (pve)
+//notes:Big Bird's Season 14 roll choices (pve)
 dimwishlist:item=2782325302&perks=3666208348,2349202967,1749209109,1546637391
 dimwishlist:item=2782325302&perks=3666208348,2349202967,1749209109,3913600130
 dimwishlist:item=2782325302&perks=3666208348,2349202967,1749209109,3708227201
@@ -5049,24 +5049,24 @@ dimwishlist:item=2782325302&perks=2827049491,2349202967,2726471870,3708227201
 
 
 // Crown-Splitter 
-//notes: Big Bird's Season 14 roll choices (pvp)
+//notes:Big Bird's Season 14 roll choices (pvp)
 dimwishlist:item=2782325302&perks=3666208348,2349202967,2726471870,1546637391
 dimwishlist:item=2782325302&perks=938542991,2349202967,2726471870,1546637391
 dimwishlist:item=2782325302&perks=2827049491,2349202967,2726471870,1546637391
 
 
 // Memory Interdict 
-//notes: Big Bird's Season 14 roll choices (god-pve)
+//notes:Big Bird's Season 14 roll choices (god-pve)
 dimwishlist:item=3165547384&perks=1478423395,1771897777,2284787283,2396489472
 
 
 // Memory Interdict 
-//notes: Big Bird's Season 14 roll choices (god-pvp)
+//notes:Big Bird's Season 14 roll choices (god-pvp)
 dimwishlist:item=3165547384&perks=1441682018,409831596,951095735,3425386926
 
 
 // Memory Interdict 
-//notes: Big Bird's Season 14 roll choices (pve)
+//notes:Big Bird's Season 14 roll choices (pve)
 dimwishlist:item=3165547384&perks=1478423395,1771897777,2284787283,2396489472
 dimwishlist:item=3165547384&perks=1478423395,1771897777,2284787283,3425386926
 dimwishlist:item=3165547384&perks=1478423395,1771897777,2284787283,3592538738
@@ -5124,7 +5124,7 @@ dimwishlist:item=3165547384&perks=1441682018,2985827016,3300816228,3592538738
 
 
 // Memory Interdict 
-//notes: Big Bird's Season 14 roll choices (pvp)
+//notes:Big Bird's Season 14 roll choices (pvp)
 dimwishlist:item=3165547384&perks=1441682018,409831596,951095735,3425386926
 dimwishlist:item=3165547384&perks=1441682018,409831596,951095735,1683379515
 dimwishlist:item=3165547384&perks=1441682018,409831596,706527188,3425386926
@@ -5176,7 +5176,7 @@ dimwishlist:item=3165547384&perks=1478423395,1380253176,706527188,1683379515
 
 
 // Vision of Confluence 
-//notes: Big Bird's Season 14 roll choices (god-pve)
+//notes:Big Bird's Season 14 roll choices (god-pve)
 dimwishlist:item=3186018373&perks=1840239774,3230963543,3418782618,4104185692
 dimwishlist:item=3186018373&perks=1840239774,3230963543,3418782618,3824105627
 dimwishlist:item=3186018373&perks=1840239774,3230963543,3592538738,4104185692
@@ -5188,12 +5188,12 @@ dimwishlist:item=3186018373&perks=1840239774,1968497646,3592538738,3824105627
 
 
 // Vision of Confluence 
-//notes: Big Bird's Season 14 roll choices (god-pvp)
+//notes:Big Bird's Season 14 roll choices (god-pvp)
 dimwishlist:item=3186018373&perks=1840239774,1561002382,2946784966,1015611457
 
 
 // Vision of Confluence 
-//notes: Big Bird's Season 14 roll choices (pve)
+//notes:Big Bird's Season 14 roll choices (pve)
 dimwishlist:item=3186018373&perks=1840239774,3230963543,3418782618,4104185692
 dimwishlist:item=3186018373&perks=1840239774,3230963543,3418782618,3824105627
 dimwishlist:item=3186018373&perks=1840239774,3230963543,3418782618,1683379515
@@ -5437,7 +5437,7 @@ dimwishlist:item=3186018373&perks=839105230,1885400500,2450788523,2726471870
 
 
 // Vision of Confluence 
-//notes: Big Bird's Season 14 roll choices (pvp)
+//notes:Big Bird's Season 14 roll choices (pvp)
 dimwishlist:item=3186018373&perks=1840239774,1561002382,2946784966,1015611457
 dimwishlist:item=3186018373&perks=1840239774,1561002382,2946784966,4267945040
 dimwishlist:item=3186018373&perks=1840239774,1561002382,2946784966,2726471870
@@ -5549,18 +5549,18 @@ dimwishlist:item=3186018373&perks=839105230,679225683,2450788523,2726471870
 
 
 // Found Verdict 
-//notes: Big Bird's Season 14 roll choices (god-pvp)
+//notes:Big Bird's Season 14 roll choices (god-pvp)
 dimwishlist:item=3197270240&perks=1047830412,3142289711,3161816588,47981717
 
 
 // Found Verdict 
-//notes: Big Bird's Season 14 roll choices (god-pve)
+//notes:Big Bird's Season 14 roll choices (god-pve)
 dimwishlist:item=3197270240&perks=1332244541,791862061,3418782618,1546637391
 dimwishlist:item=3197270240&perks=1332244541,791862061,3300816228,1546637391
 
 
 // Found Verdict 
-//notes: Big Bird's Season 14 roll choices (pvp)
+//notes:Big Bird's Season 14 roll choices (pvp)
 dimwishlist:item=3197270240&perks=1047830412,3142289711,3161816588,47981717
 dimwishlist:item=3197270240&perks=1047830412,3142289711,3161816588,2450788523
 dimwishlist:item=3197270240&perks=1047830412,3142289711,3161816588,1546637391
@@ -5645,7 +5645,7 @@ dimwishlist:item=3197270240&perks=1482024992,791862061,2117683199,1546637391
 
 
 // Found Verdict 
-//notes: Big Bird's Season 14 roll choices (pve)
+//notes:Big Bird's Season 14 roll choices (pve)
 dimwishlist:item=3197270240&perks=1332244541,791862061,3418782618,1546637391
 dimwishlist:item=3197270240&perks=1332244541,791862061,3418782618,2679249093
 dimwishlist:item=3197270240&perks=1332244541,791862061,3418782618,4104185692
@@ -5757,18 +5757,18 @@ dimwishlist:item=3197270240&perks=4090651448,2420895100,3161816588,4104185692
 
 
 // Pleiades Corrector 
-//notes: Big Bird's Season 14 roll choices (god-pve)
+//notes:Big Bird's Season 14 roll choices (god-pve)
 dimwishlist:item=3556999246&perks=1840239774,1968497646,1168162263,2458213969
 dimwishlist:item=3556999246&perks=1840239774,1968497646,1354429876,2458213969
 
 
 // Pleiades Corrector 
-//notes: Big Bird's Season 14 roll choices (god-pvp)
+//notes:Big Bird's Season 14 roll choices (god-pvp)
 dimwishlist:item=3556999246&perks=1840239774,1561002382,3436462433,699525795
 
 
 // Pleiades Corrector 
-//notes: Big Bird's Season 14 roll choices (pve)
+//notes:Big Bird's Season 14 roll choices (pve)
 dimwishlist:item=3556999246&perks=1840239774,1968497646,1168162263,2458213969
 dimwishlist:item=3556999246&perks=1840239774,1968497646,1168162263,3592538738
 dimwishlist:item=3556999246&perks=1840239774,1968497646,1168162263,3275789089
@@ -5853,7 +5853,7 @@ dimwishlist:item=3556999246&perks=839105230,1885400500,1820235745,3275789089
 
 
 // Pleiades Corrector 
-//notes: Big Bird's Season 14 roll choices (pvp)
+//notes:Big Bird's Season 14 roll choices (pvp)
 dimwishlist:item=3556999246&perks=1840239774,1561002382,3436462433,699525795
 dimwishlist:item=3556999246&perks=1840239774,1561002382,3436462433,2458213969
 dimwishlist:item=3556999246&perks=1840239774,1561002382,3436462433,3511092054
@@ -5893,17 +5893,17 @@ dimwishlist:item=3556999246&perks=4090651448,679225683,3436462433,3511092054
 
 
 // Praedyth's Revenge 
-//notes: Big Bird's Season 14 roll choices (god-pve)
+//notes:Big Bird's Season 14 roll choices (god-pve)
 dimwishlist:item=3653573172&perks=1840239774,2420895100,3418782618,4104185692
 
 
 // Praedyth's Revenge 
-//notes: Big Bird's Season 14 roll choices (god-pvp)
+//notes:Big Bird's Season 14 roll choices (god-pvp)
 dimwishlist:item=3653573172&perks=1840239774,3142289711,706527188,47981717
 
 
 // Praedyth's Revenge 
-//notes: Big Bird's Season 14 roll choices (pve)
+//notes:Big Bird's Season 14 roll choices (pve)
 dimwishlist:item=3653573172&perks=1840239774,2420895100,3418782618,4104185692
 dimwishlist:item=3653573172&perks=1840239774,2420895100,3418782618,2213355989
 dimwishlist:item=3653573172&perks=1840239774,2420895100,3418782618,11612903
@@ -5925,7 +5925,7 @@ dimwishlist:item=3653573172&perks=4090651448,106909392,3418782618,11612903
 
 
 // Praedyth's Revenge 
-//notes: Big Bird's Season 14 roll choices (pvp)
+//notes:Big Bird's Season 14 roll choices (pvp)
 dimwishlist:item=3653573172&perks=1840239774,3142289711,706527188,47981717
 dimwishlist:item=3653573172&perks=1840239774,3142289711,706527188,2213355989
 dimwishlist:item=3653573172&perks=1840239774,3142289711,588594999,47981717
@@ -5941,17 +5941,17 @@ dimwishlist:item=3653573172&perks=4090651448,3142289711,588594999,2213355989
 
 
 // Shayura's Wrath 
-//notes: Big Bird's Season 14 roll choices (god-pvp)
+//notes:Big Bird's Season 14 roll choices (god-pvp)
 dimwishlist:item=3682803680&perks=1482024992,3142289711,2946784966,1015611457
 
 
 // Shayura's Wrath 
-//notes: Big Bird's Season 14 roll choices (god-pve)
+//notes:Big Bird's Season 14 roll choices (god-pve)
 dimwishlist:item=3682803680&perks=3250034553,3230963543,2450788523,11612903
 
 
 // Shayura's Wrath 
-//notes: Big Bird's Season 14 roll choices (pvp)
+//notes:Big Bird's Season 14 roll choices (pvp)
 dimwishlist:item=3682803680&perks=1482024992,3142289711,2946784966,1015611457
 dimwishlist:item=3682803680&perks=1482024992,3142289711,2946784966,1890422124
 dimwishlist:item=3682803680&perks=1482024992,3142289711,2450788523,1015611457
@@ -6083,7 +6083,7 @@ dimwishlist:item=3682803680&perks=4090651448,3177308360,706527188,1890422124
 
 
 // Shayura's Wrath 
-//notes: Big Bird's Season 14 roll choices (pve)
+//notes:Big Bird's Season 14 roll choices (pve)
 dimwishlist:item=3682803680&perks=3250034553,3230963543,2450788523,11612903
 dimwishlist:item=3682803680&perks=3250034553,3230963543,2450788523,1015611457
 dimwishlist:item=3682803680&perks=3250034553,3230963543,2946784966,11612903
@@ -6135,8 +6135,8 @@ dimwishlist:item=3682803680&perks=1467527085,106909392,2946784966,1015611457
 
 
 // Corrective Measure 
-//notes: Big Bird's Season 14 roll choices (Timelost) 
-//notes: Big Bird's Season 14 roll choices (god-pve)
+//notes:Big Bird's Season 14 roll choices (Timelost) 
+//notes:Big Bird's Season 14 roll choices (god-pve)
 dimwishlist:item=3796510434&perks=839105230,2420895100,3418782618,4049631843
 dimwishlist:item=3796510434&perks=839105230,2420895100,3418782618,3824105627
 dimwishlist:item=3796510434&perks=839105230,2420895100,2779035018,4049631843
@@ -6144,14 +6144,14 @@ dimwishlist:item=3796510434&perks=839105230,2420895100,2779035018,3824105627
 
 
 // Corrective Measure 
-//notes: Big Bird's Season 14 roll choices (Timelost) 
-//notes: Big Bird's Season 14 roll choices (god-pvp)
+//notes:Big Bird's Season 14 roll choices (Timelost) 
+//notes:Big Bird's Season 14 roll choices (god-pvp)
 dimwishlist:item=3796510434&perks=839105230,3142289711,1359896290,2213355989
 
 
 // Corrective Measure 
-//notes: Big Bird's Season 14 roll choices (Timelost) 
-//notes: Big Bird's Season 14 roll choices (pve)
+//notes:Big Bird's Season 14 roll choices (Timelost) 
+//notes:Big Bird's Season 14 roll choices (pve)
 dimwishlist:item=3796510434&perks=839105230,2420895100,3418782618,4049631843
 dimwishlist:item=3796510434&perks=839105230,2420895100,3418782618,3824105627
 dimwishlist:item=3796510434&perks=839105230,2420895100,3418782618,11612903
@@ -6263,8 +6263,8 @@ dimwishlist:item=3796510434&perks=1467527085,106909392,3523296417,11612903
 
 
 // Corrective Measure 
-//notes: Big Bird's Season 14 roll choices (Timelost) 
-//notes: Big Bird's Season 14 roll choices (pvp)
+//notes:Big Bird's Season 14 roll choices (Timelost) 
+//notes:Big Bird's Season 14 roll choices (pvp)
 dimwishlist:item=3796510434&perks=839105230,3142289711,1359896290,2213355989
 dimwishlist:item=3796510434&perks=839105230,3142289711,1359896290,1890422124
 dimwishlist:item=3796510434&perks=839105230,3142289711,3436462433,2213355989
@@ -6304,17 +6304,17 @@ dimwishlist:item=3796510434&perks=1467527085,3177308360,3436462433,1890422124
 
 
 // Finite Impactor 
-//notes: Big Bird's Season 14 roll choices (god-pve)
+//notes:Big Bird's Season 14 roll choices (god-pve)
 dimwishlist:item=3813153080&perks=1926090091,1087426260,2450788523,4049631843
 
 
 // Finite Impactor 
-//notes: Big Bird's Season 14 roll choices (god-pvp)
+//notes:Big Bird's Season 14 roll choices (god-pvp)
 dimwishlist:item=3813153080&perks=1926090091,1561002382,2946784966,591790007
 
 
 // Finite Impactor 
-//notes: Big Bird's Season 14 roll choices (pve)
+//notes:Big Bird's Season 14 roll choices (pve)
 dimwishlist:item=3813153080&perks=1926090091,1087426260,2450788523,4049631843
 dimwishlist:item=3813153080&perks=1926090091,1087426260,2450788523,2458213969
 dimwishlist:item=3813153080&perks=1926090091,1087426260,2039302152,4049631843
@@ -6342,7 +6342,7 @@ dimwishlist:item=3813153080&perks=1926090093,3230963543,2039302152,2458213969
 
 
 // Finite Impactor 
-//notes: Big Bird's Season 14 roll choices (pvp)
+//notes:Big Bird's Season 14 roll choices (pvp)
 dimwishlist:item=3813153080&perks=1926090091,1561002382,2946784966,591790007
 dimwishlist:item=3813153080&perks=1926090091,1561002382,2946784966,699525795
 dimwishlist:item=3813153080&perks=1926090091,1561002382,1645158859,591790007
@@ -6418,20 +6418,20 @@ dimwishlist:item=3813153080&perks=1926090093,679225683,2450788523,699525795
 
 
 // Shayura's Wrath 
-//notes: Big Bird's Season 14 roll choices (Adept) 
-//notes: Big Bird's Season 14 roll choices (god-pvp)
+//notes:Big Bird's Season 14 roll choices (Adept) 
+//notes:Big Bird's Season 14 roll choices (god-pvp)
 dimwishlist:item=4023807721&perks=1482024992,3142289711,2946784966,1015611457
 
 
 // Shayura's Wrath 
-//notes: Big Bird's Season 14 roll choices (Adept) 
-//notes: Big Bird's Season 14 roll choices (god-pve)
+//notes:Big Bird's Season 14 roll choices (Adept) 
+//notes:Big Bird's Season 14 roll choices (god-pve)
 dimwishlist:item=4023807721&perks=3250034553,3230963543,2450788523,11612903
 
 
 // Shayura's Wrath 
-//notes: Big Bird's Season 14 roll choices (Adept) 
-//notes: Big Bird's Season 14 roll choices (pvp)
+//notes:Big Bird's Season 14 roll choices (Adept) 
+//notes:Big Bird's Season 14 roll choices (pvp)
 dimwishlist:item=4023807721&perks=1482024992,3142289711,2946784966,1015611457
 dimwishlist:item=4023807721&perks=1482024992,3142289711,2946784966,1890422124
 dimwishlist:item=4023807721&perks=1482024992,3142289711,2946784966,957782887
@@ -6579,8 +6579,8 @@ dimwishlist:item=4023807721&perks=3250034553,106909392,2450788523,957782887
 
 
 // Shayura's Wrath 
-//notes: Big Bird's Season 14 roll choices (Adept) 
-//notes: Big Bird's Season 14 roll choices (pve)
+//notes:Big Bird's Season 14 roll choices (Adept) 
+//notes:Big Bird's Season 14 roll choices (pve)
 dimwishlist:item=4023807721&perks=3250034553,3230963543,2450788523,11612903
 dimwishlist:item=4023807721&perks=3250034553,3230963543,2450788523,1015611457
 dimwishlist:item=4023807721&perks=3250034553,3230963543,2946784966,11612903
@@ -6632,7 +6632,7 @@ dimwishlist:item=4023807721&perks=4090651448,1431678320,2946784966,1015611457
 
 
 // Hezen Vengeance 
-//notes: Big Bird's Season 14 roll choices (god-pve)
+//notes:Big Bird's Season 14 roll choices (god-pve)
 dimwishlist:item=4050645223&perks=3525010810,3796465595,3643424744,3927722942
 dimwishlist:item=4050645223&perks=3525010810,3796465595,3643424744,1546637391
 dimwishlist:item=4050645223&perks=3525010810,3796465595,3300816228,3927722942
@@ -6640,12 +6640,12 @@ dimwishlist:item=4050645223&perks=3525010810,3796465595,3300816228,1546637391
 
 
 // Hezen Vengeance 
-//notes: Big Bird's Season 14 roll choices (god-pvp)
+//notes:Big Bird's Season 14 roll choices (god-pvp)
 dimwishlist:item=4050645223&perks=1478423395,1996142143,3977735242,1275731761
 
 
 // Hezen Vengeance 
-//notes: Big Bird's Season 14 roll choices (pve)
+//notes:Big Bird's Season 14 roll choices (pve)
 dimwishlist:item=4050645223&perks=3525010810,3796465595,3643424744,3927722942
 dimwishlist:item=4050645223&perks=3525010810,3796465595,3643424744,1546637391
 dimwishlist:item=4050645223&perks=3525010810,3796465595,3643424744,1275731761
@@ -6721,7 +6721,7 @@ dimwishlist:item=4050645223&perks=3798852852,2985827016,951095735,1275731761
 
 
 // Hezen Vengeance 
-//notes: Big Bird's Season 14 roll choices (pvp)
+//notes:Big Bird's Season 14 roll choices (pvp)
 dimwishlist:item=4050645223&perks=1478423395,1996142143,3977735242,1275731761
 dimwishlist:item=4050645223&perks=1478423395,1996142143,3977735242,1546637391
 dimwishlist:item=4050645223&perks=1478423395,1996142143,706527188,1275731761
@@ -6761,7 +6761,7 @@ dimwishlist:item=4050645223&perks=3525010810,2822142346,951095735,1546637391
 
 
 // Empty Vessel 
-//notes: Big Bird's Season 14 roll choices (god-pve)
+//notes:Big Bird's Season 14 roll choices (god-pve)
 dimwishlist:item=4255586669&perks=981914802,3032599245,3300816228,4049631843
 dimwishlist:item=4255586669&perks=981914802,3032599245,3300816228,1546637391
 dimwishlist:item=4255586669&perks=981914802,3032599245,3300816228,1683379515
@@ -6777,12 +6777,12 @@ dimwishlist:item=4255586669&perks=981914802,3301904089,2010801679,1683379515
 
 
 // Empty Vessel 
-//notes: Big Bird's Season 14 roll choices (god-pvp)
+//notes:Big Bird's Season 14 roll choices (god-pvp)
 dimwishlist:item=4255586669&perks=981914802,409831596,706527188,1546637391
 
 
 // Empty Vessel 
-//notes: Big Bird's Season 14 roll choices (pve)
+//notes:Big Bird's Season 14 roll choices (pve)
 dimwishlist:item=4255586669&perks=981914802,3032599245,3300816228,4049631843
 dimwishlist:item=4255586669&perks=981914802,3032599245,3300816228,1546637391
 dimwishlist:item=4255586669&perks=981914802,3032599245,3300816228,1683379515
@@ -6930,7 +6930,7 @@ dimwishlist:item=4255586669&perks=1441682018,1716000303,1556840489,2726471870
 
 
 // Empty Vessel 
-//notes: Big Bird's Season 14 roll choices (pvp)
+//notes:Big Bird's Season 14 roll choices (pvp)
 dimwishlist:item=4255586669&perks=981914802,409831596,706527188,1546637391
 dimwishlist:item=4255586669&perks=981914802,409831596,706527188,4082225868
 dimwishlist:item=4255586669&perks=981914802,409831596,706527188,2726471870
@@ -7006,7 +7006,7 @@ dimwishlist:item=4255586669&perks=3798852852,3032599245,3436462433,2726471870
 
 
 // Hung Jury SR4 
-//notes: Big Bird's Season 14 roll choices (god-pve)
+//notes:Big Bird's Season 14 roll choices (god-pve)
 dimwishlist:item=4281371574&perks=1840239774,3230963543,1820235745,3824105627
 dimwishlist:item=4281371574&perks=1840239774,3230963543,1820235745,4049631843
 dimwishlist:item=4281371574&perks=1840239774,3230963543,247725512,3824105627
@@ -7014,12 +7014,12 @@ dimwishlist:item=4281371574&perks=1840239774,3230963543,247725512,4049631843
 
 
 // Hung Jury SR4 
-//notes: Big Bird's Season 14 roll choices (god-pvp)
+//notes:Big Bird's Season 14 roll choices (god-pvp)
 dimwishlist:item=4281371574&perks=1840239774,3142289711,1570042021,2551157718
 
 
 // Hung Jury SR4 
-//notes: Big Bird's Season 14 roll choices (pve)
+//notes:Big Bird's Season 14 roll choices (pve)
 dimwishlist:item=4281371574&perks=1840239774,3230963543,1820235745,3824105627
 dimwishlist:item=4281371574&perks=1840239774,3230963543,1820235745,4049631843
 dimwishlist:item=4281371574&perks=1840239774,3230963543,1820235745,3592538738
@@ -7119,7 +7119,7 @@ dimwishlist:item=4281371574&perks=3250034553,106909392,4252909580,11612903
 
 
 // Hung Jury SR4 
-//notes: Big Bird's Season 14 roll choices (pvp)
+//notes:Big Bird's Season 14 roll choices (pvp)
 dimwishlist:item=4281371574&perks=1840239774,3142289711,1570042021,2551157718
 dimwishlist:item=4281371574&perks=1840239774,3142289711,1570042021,3038247973
 dimwishlist:item=4281371574&perks=1840239774,3142289711,588594999,2551157718
