@@ -1,6 +1,6 @@
 // Annual Skate (god-pve)
 //notes: PvE - Steadyhand/Fastdraw/Hitmark/Truesight + Tac/Appended Mag/Flared + Outlaw/Surplus + Timed Payload/MKC/Swash tags:god-pve
-dimwishlist :item=6857689&perks=1926090094,106909392,1168162263,1954620775
+dimwishlist:item=6857689&perks=1926090094,106909392,1168162263,1954620775
 dimwishlist:item=6857689&perks=1926090095,106909392,1168162263,1954620775 
 
 // Annual Skate (god-pvp)
