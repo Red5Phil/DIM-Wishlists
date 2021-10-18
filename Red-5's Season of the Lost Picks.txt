@@ -466,12 +466,7 @@ dimwishlist:item=1076810832&perks=2946784966,3592538738
 
 
 // Servant Leader - PvE (pve)
-//notes: Red-5's Season of the Lost Picks PvE - lots of good options, personal combo preferences include:
-
-Subsistence-rampage/OFA/frenzy
-Rapid hit/outlaw-kill clip
-4TAC-OFA/rampage/frenzy
-Shoot to Loot-Harmony tags:pve
+//notes: Red-5's Season of the Lost Picks PvE - lots of good options, personal combo preferences include: Subsistence-rampage/OFA/frenzy, Rapid hit/outlaw-kill clip, 4TAC-OFA/rampage/frenzy, Shoot to Loot-Harmony tags:pve
 dimwishlist:item=1107446438&perks=1820235745,3425386926
 dimwishlist:item=1107446438&perks=1820235745,438098033
 dimwishlist:item=1107446438&perks=1820235745,4049631843
