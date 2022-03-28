@@ -21701,10 +21701,6 @@ dimwishlist:item=4096943616&perks=3525010810,3492396210,2779035018,2610012052
 dimwishlist:item=4096943616&perks=3525010810,3492396210,2779035018,4290541820
 
 
-// Explosive Personality ()
-dimwishlist:item=4096943616&perks=
-
-
 // Snorri FR5 - PvE Rservoir Burst (god-pve)
 //notes: Red-5's Season of the Risen Picks - PvE - reservoir burst + Compuslive Reloader tags:god-pve
 dimwishlist:item=4114929480&perks=839105230,689005463,671806388,1427256713
