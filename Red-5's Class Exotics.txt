@@ -26,7 +26,7 @@ dimwishlist:item=2809120022&perks=1476923953,3751917990
 dimwishlist:item=2809120022&perks=1476923953,3751917993
 
 // Relativism
-//notes: PvE Galinor + Gyrfalcon, Void Invis Super Spam
+//notes: PvE Galanor + Gyrfalcon, Void Invis Super Spam
 dimwishlist:item=2809120022&perks=3751917998,3751917993
 
 // Relativism
