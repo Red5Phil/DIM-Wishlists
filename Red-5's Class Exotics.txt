@@ -2,21 +2,85 @@ title:Red-5's Class Exotic List
 description:Red-5's Class Exotic Picks
 
 // Relativism
-//notes: Red-5's Relativism Rolls
+//notes: PvE Renewal + Liar, use with Duskfield + Combination Blow
 dimwishlist:item=2809120022&perks=3751917995,3751917992
-dimwishlist:item=2809120022&perks=1476923952,3751917992
-dimwishlist:item=2809120022&perks=3751917996,3751917992
-dimwishlist:item=2809120022&perks=3751917995,3751917992
-dimwishlist:item=2809120022&perks=1476923953,1476923957
-dimwishlist:item=2809120022&perks=1476923953,1476923957
-dimwishlist:item=2809120022&perks=1476923953,1476923956
-dimwishlist:item=2809120022&perks=3751917999,3751917990
-dimwishlist:item=2809120022&perks=3751917999,3751917990
-dimwishlist:item=2809120022&perks=3751917999,1476923957
-dimwishlist:item=2809120022&perks=3751917998,1476923955
-dimwishlist:item=2809120022&perks=3751917997,1476923955
-dimwishlist:item=2809120022&perks=3751917997,1476923955
-dimwishlist:item=2809120022&perks=3751917996,1476923957
-dimwishlist:item=2809120022&perks=3751917996,3751917994
+
+// Relativism
+//notes: PvE Renewal + Synthoceps, use with Duskfield + Combination Blow (or maybe Threaded Spike?)
+dimwishlist:item=2809120022&perks=3751917995,1476923956
+
+// Relativism
+//notes: PvE Renewal + Cyrtarachne, use with Duskfield Grenade to get Frost Armor + Woven Mail every time you use your grenade
 dimwishlist:item=2809120022&perks=3751917995,3751917994
+
+// Relativism
+//notes: PvE Renewal + Coyote, use with Duskfield Grenade and Winter's Shroud to maximize slow/freeze capabilities
+dimwishlist:item=2809120022&perks=3751917995,3751917990
+
+// Relativism
+//notes: PvE Inmost Light + Coyote, use to get maximum ability spam
+dimwishlist:item=2809120022&perks=1476923953,3751917990
+
+// Relativism
+//notes: PvE Assassin + Synthoceps, melee invis build
 dimwishlist:item=2809120022&perks=1476923952,1476923956
+
+// Relativism
+//notes: PvE Assassin + Liar, melee invis build
+dimwishlist:item=2809120022&perks=1476923952,3751917992
+
+// Relativism
+//notes: PvE Assassin + Gyrfalcon, melee invis void build
+dimwishlist:item=2809120022&perks=1476923952,3751917993
+
+// Relativism
+//notes: PvE Assassin + Coyote, melee invis build
+dimwishlist:item=2809120022&perks=1476923952,3751917990
+
+// Relativism
+//notes: PvE Inmost Light + Synthoceps, use to get maximum ability spam
+dimwishlist:item=2809120022&perks=1476923953,1476923956
+
+// Relativism
+//notes: PvE Inmost Light + Verity, use to get grenade ability spam with extra damage
+dimwishlist:item=2809120022&perks=1476923953,1476923957
+
+// Relativism
+//notes: PvE Inmost Light + Cyrtarachne, use to get grenade ability spam with woven mail
+dimwishlist:item=2809120022&perks=1476923953,3751917994
+
+// Relativism
+//notes: PvP Ophidian + Wormhusk
+dimwishlist:item=2809120022&perks=1476923954,3751917991
+
+// Relativism
+//notes: PvP Dragon + Coyote
+dimwishlist:item=2809120022&perks=3751917999,3751917990
+
+// Relativism
+//notes: PvP Dragon + Wormhusk
+dimwishlist:item=2809120022&perks=3751917999,3751917991
+
+// Relativism
+//notes: PvE Galanor + Star-Eater Super Buff
+dimwishlist:item=2809120022&perks=3751917998,1476923955
+
+// Relativism
+//notes: PvE Foetracer + Star-Eater Super Buff
+dimwishlist:item=2809120022&perks=3751917997,1476923955
+
+// Relativism
+//notes: PvE Caliban + Synthoceps Melee builds
+dimwishlist:item=2809120022&perks=3751917996,1476923956
+
+// Relativism
+//notes: PvE Caliban + Verity Threaded Spike Gunpowder Gamble build
+dimwishlist:item=2809120022&perks=3751917996,1476923957
+
+// Relativism
+//notes: PvE Caliban + Cyrtarachne Threaded Spike Gunpowder Gamble build
+dimwishlist:item=2809120022&perks=3751917996,3751917994
+
+// Relativism
+//notes: PvE Caliban + Liar Melee builds
+dimwishlist:item=2809120022&perks=3751917996,3751917992
