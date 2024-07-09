@@ -84,3 +84,7 @@ dimwishlist:item=2809120022&perks=3751917996,3751917994
 // Relativism
 //notes: PvE Caliban + Liar Melee builds
 dimwishlist:item=2809120022&perks=3751917996,3751917992
+
+// Relativism
+//notes: PvE Assassin + Cyrtarachne Grapple Melee build
+dimwishlist:item=2809120022&perks=1476923952,3751917994
