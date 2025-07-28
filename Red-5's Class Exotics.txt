@@ -2,6 +2,10 @@ title:Red-5's Class Exotic List
 description:Red-5's Class Exotic Picks
 
 // Relativism
+//notes: PvE Dragon + Cyrtarachne, use with Survival Spam build (https://mobalytics.gg/destiny-2/profile/5e270108-130f-4285-ae73-f8729f82f2f7/builds/caaff932-86db-466b-84ad-584c324530aa)
+dimwishlist:item=2809120022&perks=3751917999,3751917994
+
+// Relativism
 //notes: PvE Renewal + Liar, use with Duskfield + Combination Blow
 dimwishlist:item=2809120022&perks=3751917995,3751917992
 
